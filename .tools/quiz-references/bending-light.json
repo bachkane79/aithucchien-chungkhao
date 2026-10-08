@@ -1,0 +1,40 @@
+{
+  "slug": "bending-light",
+  "title": "Khúc xạ ánh sáng",
+  "englishTitle": "Bending Light",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/bending-light",
+  "controls": {
+    "BENDING_LIGHT/air": "Không khí",
+    "BENDING_LIGHT/angles": "Góc",
+    "BENDING_LIGHT/bending-light.title": "Khúc xạ ánh sáng",
+    "BENDING_LIGHT/custom": "Tuỳ chỉnh",
+    "BENDING_LIGHT/diamond": "Kim cương",
+    "BENDING_LIGHT/environment": "Môi trường",
+    "BENDING_LIGHT/glass": "Thuỷ tinh",
+    "BENDING_LIGHT/indexOfRefraction": "Chiết suất",
+    "BENDING_LIGHT/intensity": "Cường độ",
+    "BENDING_LIGHT/intro": "Giới thiệu",
+    "BENDING_LIGHT/material": "Vật chất",
+    "BENDING_LIGHT/moreTools": "Thêm dụng cụ",
+    "BENDING_LIGHT/mysteryA": "Chất bí mật A",
+    "BENDING_LIGHT/mysteryB": "Chất bí mật B",
+    "BENDING_LIGHT/normalLine": "Pháp tuyến",
+    "BENDING_LIGHT/objects": "Vật",
+    "BENDING_LIGHT/pattern_0value_percent": "{0}%",
+    "BENDING_LIGHT/prisms": "Lăng kính",
+    "BENDING_LIGHT/protractor": "Thước đo góc",
+    "BENDING_LIGHT/ray": "Tia",
+    "BENDING_LIGHT/reflections": "Phản xạ",
+    "BENDING_LIGHT/speed": "Tốc độ",
+    "BENDING_LIGHT/time": "Thời gian",
+    "BENDING_LIGHT/unknown": "n bằng bao nhiêu?",
+    "BENDING_LIGHT/unknownVelocity": "?",
+    "BENDING_LIGHT/velocityPattern": "{0} c",
+    "BENDING_LIGHT/water": "Nước",
+    "BENDING_LIGHT/wave": "Sóng",
+    "BENDING_LIGHT/wavelengthPattern": "{0} nm"
+  }
+}

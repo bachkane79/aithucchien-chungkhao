@@ -1,0 +1,31 @@
+{
+  "slug": "capacitor-lab-basics",
+  "title": "Tụ điện: phần cơ bản",
+  "englishTitle": "Capacitor Lab: Basics",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/capacitor-lab-basics",
+  "controls": {
+    "CAPACITOR_LAB_BASICS/capacitance": "Điện dung",
+    "CAPACITOR_LAB_BASICS/picoCoulombsPattern": "{{value}} pC",
+    "CAPACITOR_LAB_BASICS/picoFaradsPattern": "{{value}} pF",
+    "CAPACITOR_LAB_BASICS/picoJoulesPattern": "{{value}} pJ",
+    "CAPACITOR_LAB_BASICS/storedEnergy": "Năng lượng tích luỹ",
+    "CAPACITOR_LAB_BASICS/topPlateCharge": "Điện tích bản trên",
+    "CAPACITOR_LAB_BASICS/voltsPattern": "{{value}} V",
+    "CAPACITOR_LAB_BASICS/millimetersSquaredPattern": "{{value}} mm<sup>2</sup>",
+    "CAPACITOR_LAB_BASICS/plateArea": "Diện tích đối diện",
+    "CAPACITOR_LAB_BASICS/millimetersPattern": "{{value}} mm",
+    "CAPACITOR_LAB_BASICS/separation": "Khoảng cách",
+    "CAPACITOR_LAB_BASICS/barGraphs": "Đồ thị hình chữ nhật",
+    "CAPACITOR_LAB_BASICS/currentDirection": "Hướng dòng điện",
+    "CAPACITOR_LAB_BASICS/electricField": "Điện trường",
+    "CAPACITOR_LAB_BASICS/plateCharges": "Điện tích của bản",
+    "CAPACITOR_LAB_BASICS/voltage": "Hiệu thế",
+    "CAPACITOR_LAB_BASICS/volts.unknown": "?",
+    "CAPACITOR_LAB_BASICS/screen.capacitance": "Điện dung",
+    "CAPACITOR_LAB_BASICS/screen.lightBulb": "Đèn tròn",
+    "CAPACITOR_LAB_BASICS/capacitor-lab-basics.title": "Tụ điện: phần cơ bản"
+  }
+}

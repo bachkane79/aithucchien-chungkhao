@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "acid-base-solutions",
+    "title": "Dung dịch Acid-Base",
+    "englishTitle": "Acid-Base Solutions",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/acid-base-solutions",
+    "referenceFile": ".tools/quiz-references/acid-base-solutions.json",
+    "controlCount": 31
+  },
+  {
+    "slug": "area-builder",
+    "title": "Diện tích",
+    "englishTitle": "Area Builder",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/area-builder",
+    "referenceFile": ".tools/quiz-references/area-builder.json",
+    "controlCount": 39
+  },
+  {
+    "slug": "area-model-algebra",
+    "title": "Đại số với mô hình diện tích",
+    "englishTitle": "Area Model Algebra",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/area-model-algebra",
+    "referenceFile": ".tools/quiz-references/area-model-algebra.json",
+    "controlCount": 93
+  },
+  {
+    "slug": "area-model-decimals",
+    "title": "Số thập phân với mô hình diện tích",
+    "englishTitle": "Area Model Decimals",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/area-model-decimals",
+    "referenceFile": ".tools/quiz-references/area-model-decimals.json",
+    "controlCount": 61
+  },
+  {
+    "slug": "area-model-introduction",
+    "title": "Giói thiệu Mô hình diện tích",
+    "englishTitle": "Area Model Introduction",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/area-model-introduction",
+    "referenceFile": ".tools/quiz-references/area-model-introduction.json",
+    "controlCount": 64
+  },
+  {
+    "slug": "area-model-multiplication",
+    "title": "Phép nhân với mô hình diện tích",
+    "englishTitle": "Area Model Multiplication",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/area-model-multiplication",
+    "referenceFile": ".tools/quiz-references/area-model-multiplication.json",
+    "controlCount": 92
+  },
+  {
+    "slug": "arithmetic",
+    "title": "Số học",
+    "englishTitle": "Arithmetic",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/arithmetic",
+    "referenceFile": ".tools/quiz-references/arithmetic.json",
+    "controlCount": 22
+  },
+  {
+    "slug": "atomic-interactions",
+    "title": "Tương tác nguyên tử",
+    "englishTitle": "Atomic Interactions",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/atomic-interactions",
+    "referenceFile": ".tools/quiz-references/atomic-interactions.json",
+    "controlCount": 28
+  },
+  {
+    "slug": "balancing-act",
+    "title": "Cân bằng",
+    "englishTitle": "Balancing Act",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/balancing-act",
+    "referenceFile": ".tools/quiz-references/balancing-act.json",
+    "controlCount": 52
+  },
+  {
+    "slug": "balancing-chemical-equations",
+    "title": "Cân bằng phương trình phản ứng hoá học",
+    "englishTitle": "Balancing Chemical Equations",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/balancing-chemical-equations",
+    "referenceFile": ".tools/quiz-references/balancing-chemical-equations.json",
+    "controlCount": 75
+  },
+  {
+    "slug": "balloons-and-static-electricity",
+    "title": "Bong bóng và tĩnh điện",
+    "englishTitle": "Balloons and Static Electricity",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/balloons-and-static-electricity",
+    "referenceFile": ".tools/quiz-references/balloons-and-static-electricity.json",
+    "controlCount": 17
+  },
+  {
+    "slug": "beers-law-lab",
+    "title": "Định luật Beer",
+    "englishTitle": "Beer's Law Lab",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/beers-law-lab",
+    "referenceFile": ".tools/quiz-references/beers-law-lab.json",
+    "controlCount": 167
+  },
+  {
+    "slug": "bending-light",
+    "title": "Khúc xạ ánh sáng",
+    "englishTitle": "Bending Light",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/bending-light",
+    "referenceFile": ".tools/quiz-references/bending-light.json",
+    "controlCount": 29
+  },
+  {
+    "slug": "blackbody-spectrum",
+    "title": "Quang phổ của thể đen",
+    "englishTitle": "Blackbody Spectrum",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/blackbody-spectrum",
+    "referenceFile": ".tools/quiz-references/blackbody-spectrum.json",
+    "controlCount": 21
+  },
+  {
+    "slug": "build-a-fraction",
+    "title": "Tạo ra một Phân số",
+    "englishTitle": "Build a Fraction",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/build-a-fraction",
+    "referenceFile": ".tools/quiz-references/build-a-fraction.json",
+    "controlCount": 13
+  },
+  {
+    "slug": "build-a-molecule",
+    "title": "Tạo dựng phân tử",
+    "englishTitle": "Build a Molecule",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/build-a-molecule",
+    "referenceFile": ".tools/quiz-references/build-a-molecule.json",
+    "controlCount": 53
+  }
+]

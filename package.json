@@ -1,0 +1,15 @@
+{
+  "name": "vieroc-bananalearning-workspace",
+  "private": true,
+  "engines": { "node": ">=20.9.0" },
+  "scripts": {
+    "dev": "npm --prefix mapstudy-stem run dev",
+    "build": "npm --prefix mapstudy-stem run build",
+    "start": "npm --prefix mapstudy-stem run start",
+    "typecheck": "npm --prefix mapstudy-stem run typecheck",
+    "test": "npm --prefix mapstudy-stem run test --",
+    "crawl:phet": "npm --prefix mapstudy-stem run crawl:phet --",
+    "validate:understanding": "npm --prefix mapstudy-stem run validate:understanding"
+  },
+  "workspaces": ["mapstudy-stem"]
+}

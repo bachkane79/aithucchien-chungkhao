@@ -1,0 +1,185 @@
+[
+  {
+    "slug": "gravity-force-lab-basics",
+    "title": "Lực hấp dẫn: Phần cơ bản",
+    "englishTitle": "Gravity Force Lab: Basics",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gravity-force-lab-basics",
+    "referenceFile": ".tools/quiz-references/gravity-force-lab-basics.json",
+    "controlCount": 248
+  },
+  {
+    "slug": "greenhouse-effect",
+    "title": "Hiệu ứng Nhà kính",
+    "englishTitle": "Greenhouse Effect",
+    "subjects": [
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/greenhouse-effect",
+    "referenceFile": ".tools/quiz-references/greenhouse-effect.json",
+    "controlCount": 271
+  },
+  {
+    "slug": "hookes-law",
+    "title": "Định luật Hooke",
+    "englishTitle": "Hooke's Law",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/hookes-law",
+    "referenceFile": ".tools/quiz-references/hookes-law.json",
+    "controlCount": 29
+  },
+  {
+    "slug": "isotopes-and-atomic-mass",
+    "title": "Đồng vị và nguyên tử khối",
+    "englishTitle": "Isotopes and Atomic Mass",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/isotopes-and-atomic-mass",
+    "referenceFile": ".tools/quiz-references/isotopes-and-atomic-mass.json",
+    "controlCount": 151
+  },
+  {
+    "slug": "john-travoltage",
+    "title": "John Travoltage",
+    "englishTitle": "John Travoltage",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/john-travoltage",
+    "referenceFile": ".tools/quiz-references/john-travoltage.json",
+    "controlCount": 42
+  },
+  {
+    "slug": "keplers-laws",
+    "title": "Định luật Kepler",
+    "englishTitle": "Kepler's Laws",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/keplers-laws",
+    "referenceFile": ".tools/quiz-references/keplers-laws.json",
+    "controlCount": 93
+  },
+  {
+    "slug": "least-squares-regression",
+    "title": "Hồi quy bình phương cực tiểu",
+    "englishTitle": "Least-Squares Regression",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/least-squares-regression",
+    "referenceFile": ".tools/quiz-references/least-squares-regression.json",
+    "controlCount": 70
+  },
+  {
+    "slug": "magnet-and-compass",
+    "title": "Nam châm và la bàn",
+    "englishTitle": "Magnet and Compass",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/magnet-and-compass",
+    "referenceFile": ".tools/quiz-references/magnet-and-compass.json",
+    "controlCount": 35
+  },
+  {
+    "slug": "magnets-and-electromagnets",
+    "title": "Nam châm và nam châm điện",
+    "englishTitle": "Magnets and Electromagnets",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/magnets-and-electromagnets",
+    "referenceFile": ".tools/quiz-references/magnets-and-electromagnets.json",
+    "controlCount": 42
+  },
+  {
+    "slug": "make-a-ten",
+    "title": "Tạo ra 10",
+    "englishTitle": "Make a Ten",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/make-a-ten",
+    "referenceFile": ".tools/quiz-references/make-a-ten.json",
+    "controlCount": 36
+  },
+  {
+    "slug": "masses-and-springs",
+    "title": "Con lắc lò xo",
+    "englishTitle": "Masses and Springs",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/masses-and-springs",
+    "referenceFile": ".tools/quiz-references/masses-and-springs.json",
+    "controlCount": 53
+  },
+  {
+    "slug": "masses-and-springs-basics",
+    "title": "Con lắc lò xo: Phần cơ bản",
+    "englishTitle": "Masses and Springs: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/masses-and-springs-basics",
+    "referenceFile": ".tools/quiz-references/masses-and-springs-basics.json",
+    "controlCount": 50
+  },
+  {
+    "slug": "mean-share-and-balance",
+    "title": "Trung bình: phân chia và cân bằng",
+    "englishTitle": "Mean: Share and Balance",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/mean-share-and-balance",
+    "referenceFile": ".tools/quiz-references/mean-share-and-balance.json",
+    "controlCount": 78
+  },
+  {
+    "slug": "membrane-transport",
+    "title": "Vận chuyển qua màng tế bào",
+    "englishTitle": "Membrane Transport",
+    "subjects": [
+      "Sinh học",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/membrane-transport",
+    "referenceFile": ".tools/quiz-references/membrane-transport.json",
+    "controlCount": 235
+  },
+  {
+    "slug": "models-of-the-hydrogen-atom",
+    "title": "Mô hình nguyên tử Hydrogen",
+    "englishTitle": "Models of the Hydrogen Atom",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/models-of-the-hydrogen-atom",
+    "referenceFile": ".tools/quiz-references/models-of-the-hydrogen-atom.json",
+    "controlCount": 83
+  },
+  {
+    "slug": "molarity",
+    "title": "Nồng độ Mol",
+    "englishTitle": "Molarity",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/molarity",
+    "referenceFile": ".tools/quiz-references/molarity.json",
+    "controlCount": 178
+  }
+]

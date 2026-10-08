@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "fractions-intro",
+    "title": "Phân số: phần giới thiệu",
+    "englishTitle": "Fractions: Intro",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-intro",
+    "referenceFile": ".tools/quiz-references/fractions-intro.json",
+    "controlCount": 16
+  },
+  {
+    "slug": "fractions-mixed-numbers",
+    "title": "Phân số: hỗn số",
+    "englishTitle": "Fractions: Mixed Numbers",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-mixed-numbers",
+    "referenceFile": ".tools/quiz-references/fractions-mixed-numbers.json",
+    "controlCount": 16
+  },
+  {
+    "slug": "friction",
+    "title": "Ma sát",
+    "englishTitle": "Friction",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/friction",
+    "referenceFile": ".tools/quiz-references/friction.json",
+    "controlCount": 69
+  },
+  {
+    "slug": "function-builder",
+    "title": "Hàm số",
+    "englishTitle": "Function Builder",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/function-builder",
+    "referenceFile": ".tools/quiz-references/function-builder.json",
+    "controlCount": 14
+  },
+  {
+    "slug": "function-builder-basics",
+    "title": "Hàm số: phần cơ bản",
+    "englishTitle": "Function Builder: Basics",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/function-builder-basics",
+    "referenceFile": ".tools/quiz-references/function-builder-basics.json",
+    "controlCount": 9
+  },
+  {
+    "slug": "gas-properties",
+    "title": "Tính chất của chất khí",
+    "englishTitle": "Gas Properties",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gas-properties",
+    "referenceFile": ".tools/quiz-references/gas-properties.json",
+    "controlCount": 58
+  },
+  {
+    "slug": "gases-intro",
+    "title": "Chất khí: phần giới thiệu",
+    "englishTitle": "Gases Intro",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gases-intro",
+    "referenceFile": ".tools/quiz-references/gases-intro.json",
+    "controlCount": 37
+  },
+  {
+    "slug": "gene-expression-essentials",
+    "title": "Biểu hiện gene : Những điều cơ bản",
+    "englishTitle": "Gene Expression Essentials",
+    "subjects": [
+      "Sinh học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gene-expression-essentials",
+    "referenceFile": ".tools/quiz-references/gene-expression-essentials.json",
+    "controlCount": 43
+  },
+  {
+    "slug": "generator",
+    "title": "Máy phát điện",
+    "englishTitle": "Generator",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/generator",
+    "referenceFile": ".tools/quiz-references/generator.json",
+    "controlCount": 43
+  },
+  {
+    "slug": "geometric-optics",
+    "title": "Quang hình",
+    "englishTitle": "Geometric Optics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/geometric-optics",
+    "referenceFile": ".tools/quiz-references/geometric-optics.json",
+    "controlCount": 53
+  },
+  {
+    "slug": "geometric-optics-basics",
+    "title": "Quang hình: Phần cơ bản",
+    "englishTitle": "Geometric Optics: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/geometric-optics-basics",
+    "referenceFile": ".tools/quiz-references/geometric-optics-basics.json",
+    "controlCount": 53
+  },
+  {
+    "slug": "graphing-lines",
+    "title": "Đồ thị Hàm tuyến tính",
+    "englishTitle": "Graphing Lines",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/graphing-lines",
+    "referenceFile": ".tools/quiz-references/graphing-lines.json",
+    "controlCount": 49
+  },
+  {
+    "slug": "graphing-quadratics",
+    "title": "Đồ thị hàm bậc 2",
+    "englishTitle": "Graphing Quadratics",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/graphing-quadratics",
+    "referenceFile": ".tools/quiz-references/graphing-quadratics.json",
+    "controlCount": 171
+  },
+  {
+    "slug": "graphing-slope-intercept",
+    "title": "Đồ thị độ dốc - đoạn chắn",
+    "englishTitle": "Graphing Slope-Intercept",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/graphing-slope-intercept",
+    "referenceFile": ".tools/quiz-references/graphing-slope-intercept.json",
+    "controlCount": 45
+  },
+  {
+    "slug": "gravity-and-orbits",
+    "title": "Lực hấp dẫn và quỹ đạo",
+    "englishTitle": "Gravity and Orbits",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gravity-and-orbits",
+    "referenceFile": ".tools/quiz-references/gravity-and-orbits.json",
+    "controlCount": 36
+  },
+  {
+    "slug": "gravity-force-lab",
+    "title": "Lực hấp dẫn",
+    "englishTitle": "Gravity Force Lab",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/gravity-force-lab",
+    "referenceFile": ".tools/quiz-references/gravity-force-lab.json",
+    "controlCount": 34
+  }
+]

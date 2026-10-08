@@ -1,0 +1,187 @@
+[
+  {
+    "slug": "curve-fitting",
+    "title": "Vẽ đường cong thực nghiệm",
+    "englishTitle": "Curve Fitting",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/curve-fitting",
+    "referenceFile": ".tools/quiz-references/curve-fitting.json",
+    "controlCount": 27
+  },
+  {
+    "slug": "density",
+    "title": "Mật độ",
+    "englishTitle": "Density",
+    "subjects": [
+      "Vật lí",
+      "Sinh học",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/density",
+    "referenceFile": ".tools/quiz-references/density.json",
+    "controlCount": 117
+  },
+  {
+    "slug": "diffusion",
+    "title": "Sự khuếch tán",
+    "englishTitle": "Diffusion",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/diffusion",
+    "referenceFile": ".tools/quiz-references/diffusion.json",
+    "controlCount": 21
+  },
+  {
+    "slug": "energy-forms-and-changes",
+    "title": "Năng lượng: các dạng và sự chuyển hoá",
+    "englishTitle": "Energy Forms and Changes",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/energy-forms-and-changes",
+    "referenceFile": ".tools/quiz-references/energy-forms-and-changes.json",
+    "controlCount": 34
+  },
+  {
+    "slug": "energy-skate-park",
+    "title": "Công viên ván trượt",
+    "englishTitle": "Energy Skate Park",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/energy-skate-park",
+    "referenceFile": ".tools/quiz-references/energy-skate-park.json",
+    "controlCount": 247
+  },
+  {
+    "slug": "energy-skate-park-basics",
+    "title": "Công viên ván trượt: Phần cơ bản",
+    "englishTitle": "Energy Skate Park: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/energy-skate-park-basics",
+    "referenceFile": ".tools/quiz-references/energy-skate-park-basics.json",
+    "controlCount": 191
+  },
+  {
+    "slug": "equality-explorer",
+    "title": "Đẳng thức",
+    "englishTitle": "Equality Explorer",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/equality-explorer",
+    "referenceFile": ".tools/quiz-references/equality-explorer.json",
+    "controlCount": 26
+  },
+  {
+    "slug": "equality-explorer-basics",
+    "title": "Đẳng thức: Phần cơ bản",
+    "englishTitle": "Equality Explorer: Basics",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/equality-explorer-basics",
+    "referenceFile": ".tools/quiz-references/equality-explorer-basics.json",
+    "controlCount": 12
+  },
+  {
+    "slug": "equality-explorer-two-variables",
+    "title": "Đẳng thức: 2 biến",
+    "englishTitle": "Equality Explorer: Two Variables",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/equality-explorer-two-variables",
+    "referenceFile": ".tools/quiz-references/equality-explorer-two-variables.json",
+    "controlCount": 11
+  },
+  {
+    "slug": "expression-exchange",
+    "title": "Biểu thức",
+    "englishTitle": "Expression Exchange",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/expression-exchange",
+    "referenceFile": ".tools/quiz-references/expression-exchange.json",
+    "controlCount": 19
+  },
+  {
+    "slug": "faradays-electromagnetic-lab",
+    "title": "Phòng thí nghiệm điện từ Faraday",
+    "englishTitle": "Faraday's Electromagnetic Lab",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/faradays-electromagnetic-lab",
+    "referenceFile": ".tools/quiz-references/faradays-electromagnetic-lab.json",
+    "controlCount": 50
+  },
+  {
+    "slug": "faradays-law",
+    "title": "Định luật Faraday",
+    "englishTitle": "Faraday's Law",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/faradays-law",
+    "referenceFile": ".tools/quiz-references/faradays-law.json",
+    "controlCount": 98
+  },
+  {
+    "slug": "forces-and-motion-basics",
+    "title": "Lực và chuyển động: Phần cơ bản",
+    "englishTitle": "Forces and Motion: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/forces-and-motion-basics",
+    "referenceFile": ".tools/quiz-references/forces-and-motion-basics.json",
+    "controlCount": 242
+  },
+  {
+    "slug": "fourier-making-waves",
+    "title": "Fourier: Tổng hợp sóng",
+    "englishTitle": "Fourier: Making Waves",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/fourier-making-waves",
+    "referenceFile": ".tools/quiz-references/fourier-making-waves.json",
+    "controlCount": 95
+  },
+  {
+    "slug": "fraction-matcher",
+    "title": "Phân số",
+    "englishTitle": "Fraction Matcher",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/fraction-matcher",
+    "referenceFile": ".tools/quiz-references/fraction-matcher.json",
+    "controlCount": 28
+  },
+  {
+    "slug": "fractions-equality",
+    "title": "Phân số: đẳng thức",
+    "englishTitle": "Fractions: Equality",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-equality",
+    "referenceFile": ".tools/quiz-references/fractions-equality.json",
+    "controlCount": 29
+  }
+]

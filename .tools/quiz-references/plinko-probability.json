@@ -1,0 +1,32 @@
+{
+  "slug": "plinko-probability",
+  "title": "Xác suất Plinko",
+  "englishTitle": "Plinko Probability",
+  "subjects": [
+    "Vật lí",
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/plinko-probability",
+  "controls": {
+    "PLINKO_PROBABILITY/all": "Tất cả",
+    "PLINKO_PROBABILITY/n": "N",
+    "PLINKO_PROBABILITY/bin": "Ngăn",
+    "PLINKO_PROBABILITY/count": "Số lượng",
+    "PLINKO_PROBABILITY/fraction": "Số thập phân",
+    "PLINKO_PROBABILITY/screen.intro": "Phần giới thiệu",
+    "PLINKO_PROBABILITY/ball": "Banh",
+    "PLINKO_PROBABILITY/none": "Không",
+    "PLINKO_PROBABILITY/path": "Đường đi",
+    "PLINKO_PROBABILITY/outOfBalls": "Hết banh!",
+    "PLINKO_PROBABILITY/rows": "Hàng",
+    "PLINKO_PROBABILITY/binaryProbability": "Xác suất nhị phân",
+    "PLINKO_PROBABILITY/ideal": "Lý tưởng",
+    "PLINKO_PROBABILITY/mu": "μ",
+    "PLINKO_PROBABILITY/sigma": "σ",
+    "PLINKO_PROBABILITY/sMean": "s<sub>trung bình</sub>",
+    "PLINKO_PROBABILITY/s": "s",
+    "PLINKO_PROBABILITY/xBar": "x̅",
+    "PLINKO_PROBABILITY/screen.lab": "Phòng Thí nghiệm",
+    "PLINKO_PROBABILITY/plinko-probability.title": "Xác suất Plinko"
+  }
+}

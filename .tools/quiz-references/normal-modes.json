@@ -1,0 +1,26 @@
+{
+  "slug": "normal-modes",
+  "title": "Kiểu chuẩn tắc",
+  "englishTitle": "Normal Modes",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/normal-modes",
+  "controls": {
+    "NORMAL_MODES/screen.oneDimension": "Một chiều",
+    "NORMAL_MODES/screen.twoDimensions": "Hai chiều",
+    "NORMAL_MODES/initialPositions": "Vị trí ban đầu",
+    "NORMAL_MODES/zeroPositions": "Vị trí Zero",
+    "NORMAL_MODES/showSprings": "Hiển thị lò xo",
+    "NORMAL_MODES/showPhases": "Hiển thị phase",
+    "NORMAL_MODES/normal-modes.title": "Kiểu chuẩn tắc",
+    "NORMAL_MODES/amplitude": "Biên độ:",
+    "NORMAL_MODES/frequency": "Tần số:",
+    "NORMAL_MODES/frequencyRatioOmegaPattern": "{{frequencyRatio}}ω₀",
+    "NORMAL_MODES/normalModeSpectrum": "Phổ của kiểu chuẩn tắc",
+    "NORMAL_MODES/normalMode": "Kiểu chuẩn tắc:",
+    "NORMAL_MODES/phase": "Phase:",
+    "NORMAL_MODES/normalModeAmplitudes": "Biên độ của kiểu chuẩn tắc",
+    "NORMAL_MODES/numberOfMasses": "Số vật:"
+  }
+}

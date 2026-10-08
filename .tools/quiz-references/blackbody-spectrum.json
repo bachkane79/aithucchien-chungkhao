@@ -1,0 +1,34 @@
+{
+  "slug": "blackbody-spectrum",
+  "title": "Quang phổ của thể đen",
+  "englishTitle": "Blackbody Spectrum",
+  "subjects": [
+    "Vật lí",
+    "Hóa học",
+    "Khoa học Trái Đất"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/blackbody-spectrum",
+  "controls": {
+    "BLACKBODY_SPECTRUM/b": "B",
+    "BLACKBODY_SPECTRUM/g": "G",
+    "BLACKBODY_SPECTRUM/r": "R",
+    "BLACKBODY_SPECTRUM/graphValues": "Giá trị trên đồ thị",
+    "BLACKBODY_SPECTRUM/intensityUnitsLabel": "{{intensity}} W/m<sup>2</sup>",
+    "BLACKBODY_SPECTRUM/intensity": "Cường độ",
+    "BLACKBODY_SPECTRUM/labels": "Nhãn",
+    "BLACKBODY_SPECTRUM/earth": "Trái đất",
+    "BLACKBODY_SPECTRUM/lightBulb": "Đèn tròn",
+    "BLACKBODY_SPECTRUM/siriusA": "Sirius A",
+    "BLACKBODY_SPECTRUM/sun": "Mặt trời",
+    "BLACKBODY_SPECTRUM/wavelengthLabel": "Bước sóng (µm)",
+    "BLACKBODY_SPECTRUM/subtitleLabel": "1 µm = 1000 nm",
+    "BLACKBODY_SPECTRUM/spectralPowerDensityLabel": "Mật độ công suất quang phổ (MW/m²/µm)",
+    "BLACKBODY_SPECTRUM/xRay": "Tia X",
+    "BLACKBODY_SPECTRUM/ultraviolet": "Tia tử ngoại",
+    "BLACKBODY_SPECTRUM/visible": "Khả kiến",
+    "BLACKBODY_SPECTRUM/infrared": "Tia hồng ngoại",
+    "BLACKBODY_SPECTRUM/kelvinUnits": "K",
+    "BLACKBODY_SPECTRUM/blackbodyTemperature": "Thể đen<br>Nhiệt độ",
+    "BLACKBODY_SPECTRUM/blackbody-spectrum.title": "Quang phổ của thể đen"
+  }
+}

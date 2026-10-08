@@ -1,0 +1,22 @@
+{
+  "slug": "equality-explorer-two-variables",
+  "title": "Đẳng thức: 2 biến",
+  "englishTitle": "Equality Explorer: Two Variables",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/equality-explorer-two-variables",
+  "controls": {
+    "EQUALITY_EXPLORER/equationOrInequality": "Đẳng thức hay Bất đẳng thức",
+    "EQUALITY_EXPLORER/leftSideFull": "Oops!<br><br>Bên trái của cân đầy rồi.",
+    "EQUALITY_EXPLORER/numberTooBig": "Oops!<br><br>Điều đó sẽ làm cho số<br>lớn quá.<br><br>Hãy thử phép toán khác!",
+    "EQUALITY_EXPLORER/questionMark": "?",
+    "EQUALITY_EXPLORER/rightSideFull": "Oops!<br><br>Bên phải của cân đầy rồi.",
+    "EQUALITY_EXPLORER/snapshots": "Chụp ảnh màn hình",
+    "EQUALITY_EXPLORER/variable": "Biến",
+    "EQUALITY_EXPLORER/variables": "Biến",
+    "EQUALITY_EXPLORER/x": "x",
+    "EQUALITY_EXPLORER_TWO_VARIABLES/equality-explorer-two-variables.title": "Đẳng thức: 2 biến",
+    "EQUALITY_EXPLORER_TWO_VARIABLES/y": "y"
+  }
+}

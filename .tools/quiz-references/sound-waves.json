@@ -1,0 +1,35 @@
+{
+  "slug": "sound-waves",
+  "title": "Sóng âm",
+  "englishTitle": "Sound Waves",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/sound-waves",
+  "controls": {
+    "SOUND_WAVES/measure.clearWaves": "Xoá sóng",
+    "SOUND_WAVES/meters": "m",
+    "SOUND_WAVES/atm": "ATM",
+    "SOUND_WAVES/one": "1.0",
+    "SOUND_WAVES/zero": "0.0",
+    "SOUND_WAVES/airDensityControlPanel.reset": "Reset",
+    "SOUND_WAVES/airDensityControlPanel.title": "Mật độ không khí trong hộp",
+    "SOUND_WAVES/reflectionControlPanel.positionSlider": "Vị trí tường",
+    "SOUND_WAVES/reflectionControlPanel.rotationSlider": "Góc nghiêng của tường",
+    "SOUND_WAVES/soundModeControlPanel.title": "Kiểu âm",
+    "SOUND_WAVES/soundModeControlPanel.continuous": "Liên tục",
+    "SOUND_WAVES/soundModeControlPanel.pulse": "Xung",
+    "SOUND_WAVES/soundModeControlPanel.firePulse": "Phát xung",
+    "SOUND_WAVES/hzPattern": "{{value}} Hz",
+    "SOUND_WAVES/audioControlPanel.title": "Điều chỉnh âm",
+    "SOUND_WAVES/audioControlPanel.audioEnabled": "Nghe âm thanh",
+    "SOUND_WAVES/frequency": "Tần số",
+    "SOUND_WAVES/amplitude": "Biên độ",
+    "SOUND_WAVES/sound-waves.title": "Sóng âm",
+    "SOUND_WAVES/screen.singleSource": "Phần giới thiệu",
+    "SOUND_WAVES/screen.measure": "Đo đạc",
+    "SOUND_WAVES/screen.twoSource": "Hai nguồn",
+    "SOUND_WAVES/screen.reflection": "Phản xạ",
+    "SOUND_WAVES/screen.airPressure": "Áp suất không  khí"
+  }
+}

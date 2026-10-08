@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "molecule-polarity",
+    "title": "Cực tính của phân tử",
+    "englishTitle": "Molecule Polarity",
+    "subjects": [
+      "Sinh học",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/molecule-polarity",
+    "referenceFile": ".tools/quiz-references/molecule-polarity.json",
+    "controlCount": 312
+  },
+  {
+    "slug": "molecule-shapes",
+    "title": "Hình dạng phân tử",
+    "englishTitle": "Molecule Shapes",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/molecule-shapes",
+    "referenceFile": ".tools/quiz-references/molecule-shapes.json",
+    "controlCount": 34
+  },
+  {
+    "slug": "molecule-shapes-basics",
+    "title": "Hình dạng phân tử: phần cơ bản",
+    "englishTitle": "Molecule Shapes: Basics",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/molecule-shapes-basics",
+    "referenceFile": ".tools/quiz-references/molecule-shapes-basics.json",
+    "controlCount": 34
+  },
+  {
+    "slug": "molecules-and-light",
+    "title": "Phân tử và ánh sáng",
+    "englishTitle": "Molecules and Light",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/molecules-and-light",
+    "referenceFile": ".tools/quiz-references/molecules-and-light.json",
+    "controlCount": 150
+  },
+  {
+    "slug": "my-solar-system",
+    "title": "Thái dương hệ",
+    "englishTitle": "My Solar System",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/my-solar-system",
+    "referenceFile": ".tools/quiz-references/my-solar-system.json",
+    "controlCount": 68
+  },
+  {
+    "slug": "natural-selection",
+    "title": "Chọn lọc tự nhiên",
+    "englishTitle": "Natural Selection",
+    "subjects": [
+      "Sinh học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/natural-selection",
+    "referenceFile": ".tools/quiz-references/natural-selection.json",
+    "controlCount": 55
+  },
+  {
+    "slug": "neuron",
+    "title": "Neuron",
+    "englishTitle": "Neuron",
+    "subjects": [
+      "Sinh học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/neuron",
+    "referenceFile": ".tools/quiz-references/neuron.json",
+    "controlCount": 25
+  },
+  {
+    "slug": "normal-modes",
+    "title": "Kiểu chuẩn tắc",
+    "englishTitle": "Normal Modes",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/normal-modes",
+    "referenceFile": ".tools/quiz-references/normal-modes.json",
+    "controlCount": 15
+  },
+  {
+    "slug": "number-compare",
+    "title": "So sánh số",
+    "englishTitle": "Number Compare",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-compare",
+    "referenceFile": ".tools/quiz-references/number-compare.json",
+    "controlCount": 41
+  },
+  {
+    "slug": "number-line-distance",
+    "title": "Đường thẳng số: Khoảng cách",
+    "englishTitle": "Number Line: Distance",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-line-distance",
+    "referenceFile": ".tools/quiz-references/number-line-distance.json",
+    "controlCount": 47
+  },
+  {
+    "slug": "number-line-integers",
+    "title": "Đường thẳng số: Số nguyên",
+    "englishTitle": "Number Line: Integers",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-line-integers",
+    "referenceFile": ".tools/quiz-references/number-line-integers.json",
+    "controlCount": 45
+  },
+  {
+    "slug": "number-line-operations",
+    "title": "Đường thẳng số: Các phép toán",
+    "englishTitle": "Number Line: Operations",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-line-operations",
+    "referenceFile": ".tools/quiz-references/number-line-operations.json",
+    "controlCount": 38
+  },
+  {
+    "slug": "number-pairs",
+    "title": "Cặp số",
+    "englishTitle": "Number Pairs",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-pairs",
+    "referenceFile": ".tools/quiz-references/number-pairs.json",
+    "controlCount": 319
+  },
+  {
+    "slug": "number-play",
+    "title": "Vui đùa với con số",
+    "englishTitle": "Number Play",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/number-play",
+    "referenceFile": ".tools/quiz-references/number-play.json",
+    "controlCount": 57
+  },
+  {
+    "slug": "ohms-law",
+    "title": "Định luật Ohm",
+    "englishTitle": "Ohm's Law",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/ohms-law",
+    "referenceFile": ".tools/quiz-references/ohms-law.json",
+    "controlCount": 9
+  },
+  {
+    "slug": "pendulum-lab",
+    "title": "Con lắc",
+    "englishTitle": "Pendulum Lab",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/pendulum-lab",
+    "referenceFile": ".tools/quiz-references/pendulum-lab.json",
+    "controlCount": 42
+  }
+]

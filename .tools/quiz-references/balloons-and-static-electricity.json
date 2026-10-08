@@ -1,0 +1,30 @@
+{
+  "slug": "balloons-and-static-electricity",
+  "title": "Bong bóng và tĩnh điện",
+  "englishTitle": "Balloons and Static Electricity",
+  "subjects": [
+    "Vật lí",
+    "Hóa học",
+    "Khoa học Trái Đất"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/balloons-and-static-electricity",
+  "controls": {
+    "BALLOONS_AND_STATIC_ELECTRICITY/grabOrReleaseBalloonHeading": "Giữ hay thả bóng bóng",
+    "BALLOONS_AND_STATIC_ELECTRICITY/grabOrReleaseBalloonLabel": "Giữ hay thả bóng bóng",
+    "BALLOONS_AND_STATIC_ELECTRICITY/jumpCloseToSweaterLabel": "Nhảy tới gần áo len",
+    "BALLOONS_AND_STATIC_ELECTRICITY/jumpCloseToWallLabel": "Nhảy đến tường",
+    "BALLOONS_AND_STATIC_ELECTRICITY/jumpNearWallLabel": "Nhảy đến gần tường",
+    "BALLOONS_AND_STATIC_ELECTRICITY/jumpToCenterLabel": "Nhảy vào giữa",
+    "BALLOONS_AND_STATIC_ELECTRICITY/moveGrabbedBalloonLabel": "Di chuyển bóng đang giữ",
+    "BALLOONS_AND_STATIC_ELECTRICITY/moveOrJumpGrabbedBalloonHeading": "Di chuyển hay nhảy đến bong bóng đang giữ",
+    "BALLOONS_AND_STATIC_ELECTRICITY/moveSlowerLabel": "Di chuyển chậm",
+    "BALLOONS_AND_STATIC_ELECTRICITY/addWall": "Thêm Tường",
+    "BALLOONS_AND_STATIC_ELECTRICITY/BalloonApplet.ShowAllCharges": "Hiển thị tất cả điện tích",
+    "BALLOONS_AND_STATIC_ELECTRICITY/BalloonApplet.ShowChargeDifferences": "Hiển thị hiệu điện tích",
+    "BALLOONS_AND_STATIC_ELECTRICITY/BalloonApplet.ShowNoCharges": "Không hiển thị điện tích",
+    "BALLOONS_AND_STATIC_ELECTRICITY/removeWall": "Bỏ Tường",
+    "BALLOONS_AND_STATIC_ELECTRICITY/resetBalloons": "Reset bong bóng",
+    "BALLOONS_AND_STATIC_ELECTRICITY/resetBalloon": "Reset bong bóng",
+    "BALLOONS_AND_STATIC_ELECTRICITY/balloons-and-static-electricity.title": "Bong bóng và tĩnh điện"
+  }
+}

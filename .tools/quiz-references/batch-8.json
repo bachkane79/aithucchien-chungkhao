@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "states-of-matter",
+    "title": "Trạng thái của vật chất",
+    "englishTitle": "States of Matter",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/states-of-matter",
+    "referenceFile": ".tools/quiz-references/states-of-matter.json",
+    "controlCount": 52
+  },
+  {
+    "slug": "states-of-matter-basics",
+    "title": "Trạng thái của vật chất: Phần cơ bản",
+    "englishTitle": "States of Matter: Basics",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/states-of-matter-basics",
+    "referenceFile": ".tools/quiz-references/states-of-matter-basics.json",
+    "controlCount": 34
+  },
+  {
+    "slug": "trig-tour",
+    "title": "Vòng tròn lượng giác",
+    "englishTitle": "Trig Tour",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/trig-tour",
+    "referenceFile": ".tools/quiz-references/trig-tour.json",
+    "controlCount": 67
+  },
+  {
+    "slug": "under-pressure",
+    "title": "Áp suất",
+    "englishTitle": "Under Pressure",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/under-pressure",
+    "referenceFile": ".tools/quiz-references/under-pressure.json",
+    "controlCount": 41
+  },
+  {
+    "slug": "unit-rates",
+    "title": "Tỷ suất đơn vị",
+    "englishTitle": "Unit Rates",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/unit-rates",
+    "referenceFile": ".tools/quiz-references/unit-rates.json",
+    "controlCount": 48
+  },
+  {
+    "slug": "vector-addition",
+    "title": "Cộng vector",
+    "englishTitle": "Vector Addition",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/vector-addition",
+    "referenceFile": ".tools/quiz-references/vector-addition.json",
+    "controlCount": 138
+  },
+  {
+    "slug": "vector-addition-equations",
+    "title": "Cộng Vector: phương trình",
+    "englishTitle": "Vector Addition: Equations",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/vector-addition-equations",
+    "referenceFile": ".tools/quiz-references/vector-addition-equations.json",
+    "controlCount": 102
+  },
+  {
+    "slug": "wave-interference",
+    "title": "Giao thoa sóng",
+    "englishTitle": "Wave Interference",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/wave-interference",
+    "referenceFile": ".tools/quiz-references/wave-interference.json",
+    "controlCount": 60
+  },
+  {
+    "slug": "wave-on-a-string",
+    "title": "Sóng trên một sợi dây",
+    "englishTitle": "Wave on a String",
+    "subjects": [
+      "Vật lí",
+      "Hóa học",
+      "Khoa học Trái Đất",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/wave-on-a-string",
+    "referenceFile": ".tools/quiz-references/wave-on-a-string.json",
+    "controlCount": 66
+  },
+  {
+    "slug": "waves-intro",
+    "title": "Sóng",
+    "englishTitle": "Waves Intro",
+    "subjects": [
+      "Vật lí",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/waves-intro",
+    "referenceFile": ".tools/quiz-references/waves-intro.json",
+    "controlCount": 41
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "slug": "diffusion",
+  "title": "Sự khuếch tán",
+  "englishTitle": "Diffusion",
+  "subjects": [
+    "Vật lí",
+    "Hóa học",
+    "Khoa học Trái Đất"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/diffusion",
+  "controls": {
+    "DIFFUSION/diffusion.title": "Sự khuếch tán",
+    "GAS_PROPERTIES/atmospheres": "atm",
+    "GAS_PROPERTIES/centerOfMass": "Khối tâm",
+    "GAS_PROPERTIES/data": "Dữ liệu",
+    "GAS_PROPERTIES/initialTemperatureK": "Nhiệt độ ban đầu (K)",
+    "GAS_PROPERTIES/kilopascals": "kPa",
+    "GAS_PROPERTIES/massAMU": "Khối lượng (AMU)",
+    "GAS_PROPERTIES/nanometers": "nm",
+    "GAS_PROPERTIES/numberOfParticles": "Số hạt",
+    "GAS_PROPERTIES/particleFlowRate": "Tốc độ dòng hạt",
+    "GAS_PROPERTIES/picoseconds": "ps",
+    "GAS_PROPERTIES/pressure": "Áp suất",
+    "GAS_PROPERTIES/radiusPm": "Bán kính (pm)",
+    "GAS_PROPERTIES/removeDivider": "Bỏ vách ngăn",
+    "GAS_PROPERTIES/resetDivider": "Đặt lại vách ngăn",
+    "GAS_PROPERTIES/scale": "Thang đo",
+    "GAS_PROPERTIES/screen.diffusion": "Sự Khuếch tán",
+    "GAS_PROPERTIES/stopwatch": "Đồng hồ",
+    "GAS_PROPERTIES/tAvg": "T<sub>avg</sub> = {{value}}",
+    "GAS_PROPERTIES/tAvgK": "T<sub>avg</sub> = {{value}}K",
+    "GAS_PROPERTIES/valueUnits": "{{value}} {{units}}"
+  }
+}

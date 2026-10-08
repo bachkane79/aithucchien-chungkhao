@@ -1,0 +1,16 @@
+/* Keep five navigation items usable without changing the site's other layouts. */
+@media (min-width: 961px) and (max-width: 1150px) {
+  .headerInner :global(.header-search) { display:none; }
+}
+@media (max-width: 960px) {
+  .headerInner :global(.header-search) { display:none; }
+  .headerInner :global(.menu-toggle) { display:flex; }
+  .headerInner :global(.main-nav) { display:none; position:absolute; top:76px; left:0; right:0; background:#fff; box-shadow:0 12px 22px #1a4c7412; padding:16px 20px; gap:0; border-bottom:1px solid #dce8f1; align-self:auto; }
+  .headerInner :global(.main-nav.open) { display:flex; flex-direction:column; align-items:stretch; }
+  .headerInner :global(.main-nav a) { font-size:14px; padding:12px; border-radius:8px; }
+  .headerInner :global(.main-nav a.active) { background:#eef4f9; }
+  .headerInner :global(.main-nav a.active:after) { display:none; }
+}
+@media (max-width: 680px) {
+  .headerInner :global(.main-nav) { top:65px; }
+}

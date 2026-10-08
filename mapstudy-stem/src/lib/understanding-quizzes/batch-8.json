@@ -1,0 +1,602 @@
+[
+  {
+    "id": "understanding-states-of-matter",
+    "simulationSlug": "states-of-matter",
+    "title": "Bài test hiểu biết: Trạng thái của vật chất",
+    "description": "Nhận diện chuyển động vi mô của chất, đọc nhiệt độ theo hai thang đo và giải thích lực tương tác cùng sự chuyển pha.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/states-of-matter"],
+    "questions": [
+      {
+        "id": "states-of-matter-u01",
+        "prompt": "Trong màn Trạng thái, chọn Neon rồi chọn Rắn. Quan sát các nguyên tử: mô tả nào phù hợp nhất với trạng thái này?",
+        "options": [{"id":"a","text":"Các nguyên tử dao động quanh những vị trí tương đối cố định."},{"id":"b","text":"Các nguyên tử hoàn toàn đứng yên, không còn chuyển động nhiệt."},{"id":"c","text":"Các nguyên tử ở rất xa nhau và bay tự do khắp bình."},{"id":"d","text":"Các nguyên tử liên tục đổi chỗ và chảy như chất lỏng."}],
+        "correctOptionId": "a",
+        "explanation": "Ở trạng thái rắn, lực tương tác giữ các nguyên tử quanh vị trí cân bằng. Chúng vẫn dao động nhiệt, chứ không hoàn toàn đứng yên; chuyển động tự do khắp bình là đặc trưng của khí.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-u02",
+        "prompt": "Chọn Oxygen trong mục Nguyên tử và Phân tử, rồi chọn Hơi. Những cặp hạt chuyển động trong bình biểu diễn điều gì?",
+        "options": [{"id":"a","text":"Mỗi cặp là hai phân tử oxygen độc lập tình cờ chạm nhau."},{"id":"b","text":"Mỗi cặp là một nguyên tử oxygen bị tách làm đôi."},{"id":"c","text":"Mỗi cặp biểu diễn một phân tử O₂ gồm hai nguyên tử oxygen."},{"id":"d","text":"Mỗi cặp biểu diễn một phân tử nước H₂O."}],
+        "correctOptionId": "c",
+        "explanation": "Oxygen được mô hình hóa bằng phân tử hai nguyên tử O₂. Hai nguyên tử thuộc cùng một phân tử chuyển động cùng nhau; chuyển sang pha khí không có nghĩa mọi phân tử tự động phân li thành nguyên tử.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-u03",
+        "prompt": "Giữ nguyên mẫu chất và trạng thái của nó. Khi nhiệt kế chỉ 300 K, chuyển đơn vị hiển thị sang ℃ thì giá trị xấp xỉ nào đúng?",
+        "options": [{"id":"a","text":"300 ℃, vì chỉ thay kí hiệu đơn vị."},{"id":"b","text":"27 ℃, vì cần trừ khoảng 273."},{"id":"c","text":"573 ℃, vì cần cộng khoảng 273."},{"id":"d","text":"0 ℃, vì 300 K là điểm đóng băng của mọi chất."}],
+        "correctOptionId": "b",
+        "explanation": "Hai thang đo liên hệ bởi t (℃) = T (K) − 273,15, nên 300 K tương ứng khoảng 26,85 ℃. Đổi đơn vị hiển thị không truyền nhiệt và không làm thay đổi mẫu chất.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-u04",
+        "prompt": "Trong màn Tương tác, giữ một nguyên tử Cố định và kéo nguyên tử còn lại đến rất gần nó; không thay đổi loại nguyên tử hay cường độ tương tác. Khi bật hiển thị Lực, lực tổng ở khoảng cách rất nhỏ có xu hướng nào?",
+        "options": [{"id":"a","text":"Hút mạnh để hai nguyên tử chồng hoàn toàn lên nhau."},{"id":"b","text":"Bằng không ở mọi khoảng cách."},{"id":"c","text":"Luôn hút với độ lớn không đổi."},{"id":"d","text":"Đẩy mạnh để các nguyên tử tách xa nhau."}],
+        "correctOptionId": "d",
+        "explanation": "Ở khoảng cách quá nhỏ, phần lực đẩy do các đám mây electron chồng lấn chiếm ưu thế trong mô hình tương tác. Lực hút chiếm ưu thế ở một số khoảng cách lớn hơn, không phải ở mọi khoảng cách.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-u05",
+        "prompt": "Một chất tinh khiết đang nóng chảy ở áp suất không đổi. Vì sao chất có thể tiếp tục nhận nhiệt trong khi nhiệt độ gần như không đổi?",
+        "options": [{"id":"a","text":"Năng lượng nhận vào chủ yếu làm thay đổi cấu trúc và tương tác giữa các hạt để chuyển pha."},{"id":"b","text":"Nhiệt độ không đổi chứng tỏ không có năng lượng nào đi vào chất."},{"id":"c","text":"Năng lượng nhận vào làm các hạt ngừng chuyển động hoàn toàn."},{"id":"d","text":"Nhiệt lượng và nhiệt độ là cùng một đại lượng nên cả hai đều không đổi."}],
+        "correctOptionId": "a",
+        "explanation": "Trong quá trình nóng chảy của chất tinh khiết ở áp suất không đổi, nhiệt cung cấp là nhiệt chuyển pha: năng lượng làm thay đổi cách các hạt liên kết và sắp xếp. Nhiệt lượng là năng lượng truyền, còn nhiệt độ đặc trưng trạng thái nhiệt; chúng không đồng nhất.",
+        "skill": "theory"
+      },
+      {
+        "id": "states-of-matter-u06",
+        "prompt": "Xét cùng một lượng khí trong bình có thể tích không đổi, chưa xảy ra chuyển pha. Khi nhiệt độ tuyệt đối tăng, vì sao áp suất khí thường tăng?",
+        "options": [{"id":"a","text":"Mỗi nguyên tử tự tăng khối lượng khi nóng hơn."},{"id":"b","text":"Thành bình mất khả năng chịu lực dù chuyển động hạt không đổi."},{"id":"c","text":"Các hạt chuyển động nhanh hơn và truyền động lượng mạnh hơn khi va vào thành bình."},{"id":"d","text":"Khí nóng lên luôn biến ngay thành chất rắn."}],
+        "correctOptionId": "c",
+        "explanation": "Áp suất khí xuất phát từ sự truyền động lượng khi các hạt va vào thành bình. Với số hạt và thể tích giữ nguyên, tăng nhiệt độ làm động năng chuyển động nhiệt trung bình tăng, dẫn tới áp suất lớn hơn trong miền khí này.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-states-of-matter-basics",
+    "simulationSlug": "states-of-matter-basics",
+    "title": "Bài test hiểu biết: Trạng thái của vật chất: Phần cơ bản",
+    "description": "So sánh rắn, lỏng, khí qua hạt Neon, Argon và nước; phân biệt nhiệt độ, nhiệt truyền và biến đổi trạng thái.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/states-of-matter-basics"],
+    "questions": [
+      {
+        "id": "states-of-matter-basics-u01",
+        "prompt": "Trong màn Trạng thái, chọn Nước và Lỏng. Quan sát các phân tử: đặc điểm nào giải thích khả năng chảy của nước lỏng?",
+        "options": [{"id":"a","text":"Các phân tử mất hết tương tác và đứng yên."},{"id":"b","text":"Các phân tử ở gần nhau nhưng có thể chuyển động và đổi vị trí tương đối."},{"id":"c","text":"Các phân tử cố định vĩnh viễn trong một mạng rắn."},{"id":"d","text":"Các phân tử luôn cách xa nhau như khí loãng."}],
+        "correctOptionId": "b",
+        "explanation": "Trong chất lỏng, các phân tử còn ở gần và tương tác với nhau nhưng không bị giữ lâu ở các vị trí cố định như trong chất rắn. Chúng có thể đổi chỗ, nhờ đó chất lỏng chảy và có hình dạng phụ thuộc vật chứa.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-basics-u02",
+        "prompt": "Giữ lựa chọn Argon, lần lượt chọn Rắn rồi Hơi trong màn Trạng thái. Sự khác biệt vi mô nổi bật nào nên quan sát được?",
+        "options": [{"id":"a","text":"Nguyên tử Argon biến thành phân tử nước khi chọn Hơi."},{"id":"b","text":"Ở Hơi, nguyên tử không còn chuyển động."},{"id":"c","text":"Ở Rắn, các nguyên tử cách xa nhau hơn nhiều so với Hơi."},{"id":"d","text":"Ở Hơi, các nguyên tử thường xa nhau hơn và chuyển động khắp phần không gian chứa khí."}],
+        "correctOptionId": "d",
+        "explanation": "Chuyển trạng thái không đổi bản chất nguyên tử Argon. Trong khí, khoảng cách giữa các nguyên tử thường lớn và chúng di chuyển khắp bình; trong rắn, chúng ở gần nhau và dao động quanh vị trí cân bằng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-basics-u03",
+        "prompt": "Giữ nguyên mẫu Neon, chỉ chuyển nhiệt kế từ K sang ℃. Điều gì thực sự thay đổi?",
+        "options": [{"id":"a","text":"Con số và đơn vị dùng để biểu diễn cùng một nhiệt độ."},{"id":"b","text":"Loại nguyên tử trong mẫu."},{"id":"c","text":"Năng lượng của mẫu vì thao tác này làm nóng nó."},{"id":"d","text":"Trạng thái vật chất bắt buộc chuyển từ rắn sang khí."}],
+        "correctOptionId": "a",
+        "explanation": "Kelvin và Celsius là hai thang đo của cùng đại lượng nhiệt độ, với T (K) = t (℃) + 273,15. Thay đơn vị đọc không làm đổi chuyển động hạt, năng lượng hay trạng thái của mẫu.",
+        "skill": "interaction"
+      },
+      {
+        "id": "states-of-matter-basics-u04",
+        "prompt": "Xét cùng một mẫu khí, không đổi loại hạt và chưa xảy ra chuyển pha. Nếu nhiệt độ của mẫu tăng, chuyển động nhiệt của các hạt thay đổi theo xu hướng nào?",
+        "options": [{"id":"a","text":"Mọi hạt đều đứng yên vì khí nóng không cần chuyển động."},{"id":"b","text":"Động năng trung bình giảm."},{"id":"c","text":"Động năng trung bình tăng; các hạt thường chuyển động nhanh hơn."},{"id":"d","text":"Mỗi hạt bắt buộc chuyển động với cùng một tốc độ duy nhất."}],
+        "correctOptionId": "c",
+        "explanation": "Với cùng loại hạt, nhiệt độ tăng gắn với động năng chuyển động nhiệt trung bình tăng. Đây là tính chất trung bình của tập hợp hạt: va chạm vẫn làm các hạt có tốc độ khác nhau, không phải tất cả đều chạy cùng tốc độ.",
+        "skill": "relationship"
+      },
+      {
+        "id": "states-of-matter-basics-u05",
+        "prompt": "Khi một mẫu nước tinh khiết đang đông đặc ở áp suất không đổi, phát biểu nào đúng về năng lượng truyền và nhiệt độ trong quá trình chuyển pha?",
+        "options": [{"id":"a","text":"Mẫu bắt buộc nhận nhiệt để tạo thành nước đá."},{"id":"b","text":"Mẫu có thể tỏa nhiệt trong khi nhiệt độ gần như không đổi."},{"id":"c","text":"Nhiệt độ không đổi nghĩa là mẫu không thể tỏa nhiệt."},{"id":"d","text":"Đông đặc làm phân tử nước biến thành nguyên tử Argon."}],
+        "correctOptionId": "b",
+        "explanation": "Đông đặc giải phóng nhiệt chuyển pha khi các phân tử hình thành cấu trúc rắn. Trong điều kiện chất tinh khiết và áp suất không đổi, nhiệt độ có thể gần như giữ nguyên trong quá trình này; tỏa nhiệt không đồng nghĩa nhiệt độ luôn giảm ngay.",
+        "skill": "theory"
+      },
+      {
+        "id": "states-of-matter-basics-u06",
+        "prompt": "Vì sao một lượng khí có thể lan ra chiếm toàn bộ phần trống của bình, còn một lượng chất lỏng thường có mặt thoáng?",
+        "options": [{"id":"a","text":"Hạt khí luôn lớn hơn hạt chất lỏng nên cần nhiều chỗ hơn."},{"id":"b","text":"Chất lỏng không chứa hạt chuyển động."},{"id":"c","text":"Khí không có khối lượng nên không chịu tác động nào."},{"id":"d","text":"Hạt khí chuyển động tự do hơn và thường xa nhau; hạt chất lỏng vẫn liên kết tương đối gần nhau."}],
+        "correctOptionId": "d",
+        "explanation": "Trong khí, các hạt thường xa nhau và chuyển động ra khắp không gian có thể tiếp cận. Trong chất lỏng, tương tác giữ các hạt ở gần nhau, tạo thể tích tương đối xác định và mặt thoáng khi có trọng lực. Cả khí lẫn lỏng đều gồm những hạt có khối lượng và chuyển động.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-trig-tour",
+    "simulationSlug": "trig-tour",
+    "title": "Bài test hiểu biết: Vòng tròn lượng giác",
+    "description": "Di chuyển điểm trên đường tròn đơn vị, đổi độ sang radian và liên hệ tọa độ với sin, cos, tan cùng tính tuần hoàn.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/trig-tour"],
+    "questions": [
+      {
+        "id": "trig-tour-u01",
+        "prompt": "Di chuyển điểm trên vòng tròn đơn vị đến góc 90° tính ngược chiều kim đồng hồ từ trục x dương, rồi mở mục Trị. Tọa độ (x, y) của điểm là gì?",
+        "options": [{"id":"a","text":"(1, 0)."},{"id":"b","text":"(−1, 0)."},{"id":"c","text":"(0, 1)."},{"id":"d","text":"(0, −1)."}],
+        "correctOptionId": "c",
+        "explanation": "Góc 90° đưa bán kính lên trục y dương. Vì bán kính bằng 1 nên điểm có tọa độ (0, 1), đồng thời cos 90° = 0 và sin 90° = 1.",
+        "skill": "interaction"
+      },
+      {
+        "id": "trig-tour-u02",
+        "prompt": "Giữ nguyên điểm ứng với góc 180°, chỉ chuyển đơn vị góc từ độ sang rad. Số đo nào đúng?",
+        "options": [{"id":"a","text":"π rad."},{"id":"b","text":"π/2 rad."},{"id":"c","text":"2π rad."},{"id":"d","text":"180 rad."}],
+        "correctOptionId": "a",
+        "explanation": "Một vòng tròn là 360° = 2π rad, nên nửa vòng là 180° = π rad. Đổi đơn vị không di chuyển điểm hay thay đổi các giá trị lượng giác của góc.",
+        "skill": "interaction"
+      },
+      {
+        "id": "trig-tour-u03",
+        "prompt": "Bật Góc đặc biệt, đưa điểm đến 45° rồi chọn hàm tan để xem giá trị. Giá trị nào phù hợp?",
+        "options": [{"id":"a","text":"0."},{"id":"b","text":"√2/2."},{"id":"c","text":"Không xác định."},{"id":"d","text":"1."}],
+        "correctOptionId": "d",
+        "explanation": "Tại 45°, tọa độ x và y đều bằng √2/2. Vì tan θ = y/x = sin θ/cos θ và x khác 0 nên tan 45° = 1. Giá trị √2/2 là sin hoặc cos của góc này, không phải tan.",
+        "skill": "interaction"
+      },
+      {
+        "id": "trig-tour-u04",
+        "prompt": "Trên đường tròn đơn vị, nếu điểm nằm ở góc phần tư II, dấu của cos θ và sin θ lần lượt là gì?",
+        "options": [{"id":"a","text":"Dương, dương."},{"id":"b","text":"Âm, dương."},{"id":"c","text":"Dương, âm."},{"id":"d","text":"Âm, âm."}],
+        "correctOptionId": "b",
+        "explanation": "Ở góc phần tư II, hoành độ x âm còn tung độ y dương. Trên đường tròn đơn vị x = cos θ và y = sin θ, nên cos θ âm và sin θ dương.",
+        "skill": "relationship"
+      },
+      {
+        "id": "trig-tour-u05",
+        "prompt": "Giữ bán kính đường tròn bằng 1. Khi góc θ tăng thêm đúng 2π rad, tọa độ điểm và hai giá trị sin θ, cos θ thay đổi thế nào?",
+        "options": [{"id":"a","text":"Cả sin và cos đều đổi dấu."},{"id":"b","text":"Cả sin và cos đều tăng thêm 2π."},{"id":"c","text":"Điểm trở lại cùng vị trí; sin và cos trở lại cùng giá trị."},{"id":"d","text":"Bán kính tăng thêm 2π nên tọa độ tăng theo."}],
+        "correctOptionId": "c",
+        "explanation": "Tăng 2π rad tương ứng quay thêm một vòng trọn vẹn. Điểm trở lại vị trí cũ, vì vậy sin(θ + 2π) = sin θ và cos(θ + 2π) = cos θ. Đây là tính tuần hoàn, không phải sự tăng tuyến tính của giá trị hàm.",
+        "skill": "relationship"
+      },
+      {
+        "id": "trig-tour-u06",
+        "prompt": "Một góc chắn cung dài 1 trên đường tròn bán kính 1. Theo định nghĩa radian, số đo của góc đó bằng bao nhiêu?",
+        "options": [{"id":"a","text":"1 rad."},{"id":"b","text":"1°."},{"id":"c","text":"π rad."},{"id":"d","text":"2π rad."}],
+        "correctOptionId": "a",
+        "explanation": "Số đo góc theo radian là θ = s/r, với s là độ dài cung và r là bán kính. Khi s = r = 1, θ = 1 rad, xấp xỉ 57,3°, không phải 1° hay một nửa vòng tròn.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-under-pressure",
+    "simulationSlug": "under-pressure",
+    "title": "Bài test hiểu biết: Áp suất",
+    "description": "Dùng thước và đầu đo áp suất để xét độ sâu, mật độ chất lỏng, trọng lực và phần đóng góp của khí quyển.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/under-pressure"],
+    "questions": [
+      {
+        "id": "under-pressure-u01",
+        "prompt": "Bật Thước, đặt đầu đo áp suất trong nước rồi đưa đầu đo xuống sâu hơn so với mặt thoáng. Giữ nguyên mật độ nước, trọng lực và thiết lập Khí quyển. Số đo áp suất thay đổi thế nào?",
+        "options": [{"id":"a","text":"Giảm vì càng xa mặt thoáng càng ít không khí."},{"id":"b","text":"Không đổi vì nước đứng yên."},{"id":"c","text":"Chỉ phụ thuộc khoảng cách đến đáy bình."},{"id":"d","text":"Tăng vì cột chất lỏng phía trên đầu đo cao hơn."}],
+        "correctOptionId": "d",
+        "explanation": "Trong chất lỏng đứng yên, p = p_mặt + ρgh, trong đó h đo từ mặt thoáng xuống điểm đo. Khi ρ, g và áp suất trên mặt thoáng không đổi, tăng độ sâu h làm áp suất tăng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "under-pressure-u02",
+        "prompt": "Giữ đầu đo ở cùng độ sâu dương dưới mặt thoáng, giữ trọng lực và Khí quyển không đổi. Tăng giá trị Mật độ Chất lỏng thì áp suất tại đầu đo ra sao?",
+        "options": [{"id":"a","text":"Giảm vì chất lỏng nặng hơn chắn bớt áp suất."},{"id":"b","text":"Tăng vì phần áp suất ρgh tăng."},{"id":"c","text":"Không đổi vì độ sâu không đổi."},{"id":"d","text":"Bằng không vì mật độ thay thế trọng lực."}],
+        "correctOptionId": "b",
+        "explanation": "Phần áp suất do cột chất lỏng bằng ρgh. Giữ h và g cố định, tăng mật độ ρ làm phần này tăng, nên áp suất toàn phần tăng nếu áp suất mặt thoáng giữ nguyên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "under-pressure-u03",
+        "prompt": "Giữ cùng loại chất lỏng và cùng độ sâu đầu đo, không đổi Khí quyển. Chuyển Trọng lực từ Địa cầu sang Hoả tinh, nơi gia tốc trọng trường nhỏ hơn. Phần áp suất do cột chất lỏng thay đổi thế nào?",
+        "options": [{"id":"a","text":"Giảm."},{"id":"b","text":"Tăng vì Hoả tinh là hành tinh khác."},{"id":"c","text":"Không đổi vì chỉ phụ thuộc mật độ."},{"id":"d","text":"Đổi thành áp suất âm."}],
+        "correctOptionId": "a",
+        "explanation": "Áp suất do cột chất lỏng là ρgh. Khi mật độ và độ sâu không đổi, g nhỏ hơn làm phần áp suất này nhỏ hơn. Nó vẫn không âm với ρ, g và h dương.",
+        "skill": "interaction"
+      },
+      {
+        "id": "under-pressure-u04",
+        "prompt": "Đầu đo nằm dưới mặt thoáng. Giữ mật độ, trọng lực và độ sâu không đổi, chuyển Khí quyển từ Có sang Không. Số đo áp suất toàn phần sẽ thế nào?",
+        "options": [{"id":"a","text":"Tăng thêm đúng một áp suất khí quyển."},{"id":"b","text":"Giữ nguyên vì khí quyển không tác động lên mặt nước."},{"id":"c","text":"Giảm đi phần áp suất khí quyển, nhưng vẫn còn phần ρgh."},{"id":"d","text":"Bằng không ở mọi độ sâu."}],
+        "correctOptionId": "c",
+        "explanation": "Khi có khí quyển, p = p_khí_quyển + ρgh. Tắt khí quyển loại bỏ số hạng đầu nhưng không loại bỏ trọng lượng cột chất lỏng. Vì đầu đo vẫn ở độ sâu dương, phần ρgh còn tồn tại.",
+        "skill": "interaction"
+      },
+      {
+        "id": "under-pressure-u05",
+        "prompt": "Hai điểm trong cùng một khối chất lỏng đồng nhất đang đứng yên có cùng độ sâu dưới cùng mặt thoáng. Với cùng trọng lực, áp suất ở hai điểm như thế nào dù hình dạng thành bình khác nhau?",
+        "options": [{"id":"a","text":"Điểm gần thành bình luôn có áp suất thấp hơn."},{"id":"b","text":"Điểm có nhiều nước theo chiều ngang luôn có áp suất cao hơn."},{"id":"c","text":"Không thể so sánh nếu chưa biết diện tích đáy bình."},{"id":"d","text":"Bằng nhau vì cùng p_mặt, ρ, g và h."}],
+        "correctOptionId": "d",
+        "explanation": "Áp suất thủy tĩnh tại một điểm là p_mặt + ρgh. Với cùng chất lỏng, trọng lực, mặt thoáng và độ sâu, áp suất bằng nhau; hình dạng hay độ rộng của bình không xuất hiện trong biểu thức này.",
+        "skill": "theory"
+      },
+      {
+        "id": "under-pressure-u06",
+        "prompt": "Trong cùng chất lỏng đứng yên, giữ mật độ ρ, trọng lực g và áp suất mặt thoáng cố định. Tăng độ sâu từ h lên 2h thì phần áp suất vượt quá áp suất mặt thoáng thay đổi thế nào?",
+        "options": [{"id":"a","text":"Không đổi."},{"id":"b","text":"Tăng gấp đôi."},{"id":"c","text":"Giảm còn một nửa."},{"id":"d","text":"Tăng gấp bốn."}],
+        "correctOptionId": "b",
+        "explanation": "Phần áp suất vượt áp suất mặt thoáng là Δp = ρgh, tỉ lệ thuận với h khi ρ và g cố định. Vì vậy độ sâu gấp đôi làm Δp gấp đôi. Nếu có khí quyển, không được kết luận áp suất toàn phần cũng nhất thiết gấp đôi.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-unit-rates",
+    "simulationSlug": "unit-rates",
+    "title": "Bài test hiểu biết: Tỷ suất đơn vị",
+    "description": "Đọc trục số trong mua sắm và đua xe, tính giá cho một đơn vị và so sánh tốc độ bằng những tỉ số có đúng đơn vị.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/unit-rates"],
+    "questions": [
+      {
+        "id": "unit-rates-u01",
+        "prompt": "Trong màn Mua sắm, giả sử trục số cho biết 3 quả táo có giá 6 dollars với giá mỗi quả không đổi. Khi câu hỏi hiện 'Giá đơn vị?', cần nhập giá nào cho một quả táo?",
+        "options": [{"id":"a","text":"2 dollars/quả."},{"id":"b","text":"18 dollars/quả."},{"id":"c","text":"3 dollars/quả."},{"id":"d","text":"0,5 dollars/quả."}],
+        "correctOptionId": "a",
+        "explanation": "Giá cho một quả bằng tổng giá chia số quả: 6/3 = 2 dollars/quả. Tỉ số 3/6 = 0,5 có đơn vị quả/dollar, là số quả mua được với một dollar chứ không phải giá một quả.",
+        "skill": "interaction"
+      },
+      {
+        "id": "unit-rates-u02",
+        "prompt": "Trong Lab mua sắm, đọc hai trục số: 2 pounds cà rốt ứng với 4 dollars. Giữ giá mỗi pound không đổi. Điểm ứng với 3 pounds phải ghép với giá nào?",
+        "options": [{"id":"a","text":"4 dollars."},{"id":"b","text":"5 dollars."},{"id":"c","text":"12 dollars."},{"id":"d","text":"6 dollars."}],
+        "correctOptionId": "d",
+        "explanation": "Giá đơn vị là 4/2 = 2 dollars/pound. Vì tổng giá tỉ lệ thuận với khối lượng khi đơn giá cố định, 3 pounds có giá 3 × 2 = 6 dollars. Thêm một pound làm giá tăng hai dollars, không phải một dollar.",
+        "skill": "interaction"
+      },
+      {
+        "id": "unit-rates-u03",
+        "prompt": "Trong Lab Đua xe, đọc quãng đường trên hai trục số và Thời gian 1, Thời gian 2. Nếu cả hai xe đều đã đi 12 dặm, xe 1 mất 2 giờ còn xe 2 mất 3 giờ, xe nào có tốc độ trung bình lớn hơn?",
+        "options": [{"id":"a","text":"Xe 2, vì thời gian chạy dài hơn."},{"id":"b","text":"Xe 1, vì 6 dặm/giờ lớn hơn 4 dặm/giờ."},{"id":"c","text":"Hai xe bằng nhau vì cùng đi 12 dặm."},{"id":"d","text":"Không thể so sánh dù đã biết quãng đường và thời gian."}],
+        "correctOptionId": "b",
+        "explanation": "Tốc độ trung bình là quãng đường chia thời gian. Xe 1 có 12/2 = 6 dặm/giờ; xe 2 có 12/3 = 4 dặm/giờ. Với cùng quãng đường, thời gian ngắn hơn tương ứng tốc độ trung bình lớn hơn.",
+        "skill": "interaction"
+      },
+      {
+        "id": "unit-rates-u04",
+        "prompt": "Giữ giá mỗi quả cam không đổi và không có giảm giá theo số lượng. Nếu mua số cam gấp đôi thì tổng giá và giá đơn vị thay đổi thế nào?",
+        "options": [{"id":"a","text":"Tổng giá không đổi, giá đơn vị giảm một nửa."},{"id":"b","text":"Tổng giá và giá đơn vị đều gấp đôi."},{"id":"c","text":"Tổng giá gấp đôi, giá đơn vị không đổi."},{"id":"d","text":"Tổng giá tăng bốn lần, giá đơn vị gấp đôi."}],
+        "correctOptionId": "c",
+        "explanation": "Với đơn giá r không đổi, tổng giá C = r × n. Tăng số lượng n gấp đôi làm C gấp đôi nhưng C/n vẫn bằng r. Tổng giá và giá cho một đơn vị là hai đại lượng khác nhau.",
+        "skill": "relationship"
+      },
+      {
+        "id": "unit-rates-u05",
+        "prompt": "Một người đi được 15 dặm trong 3 giờ. Để tính số dặm đi được trong một giờ, phép tính và đơn vị nào đúng?",
+        "options": [{"id":"a","text":"15 ÷ 3 = 5 dặm/giờ."},{"id":"b","text":"3 ÷ 15 = 0,2 dặm/giờ."},{"id":"c","text":"15 × 3 = 45 dặm/giờ."},{"id":"d","text":"15 − 3 = 12 dặm/giờ."}],
+        "correctOptionId": "a",
+        "explanation": "Tỷ suất đơn vị theo dặm/giờ lấy quãng đường chia thời gian: 15 dặm/3 giờ = 5 dặm/giờ. Phép chia ngược lại cho 0,2 giờ/dặm, là thời gian trên mỗi dặm, không phải tốc độ theo đơn vị được hỏi.",
+        "skill": "theory"
+      },
+      {
+        "id": "unit-rates-u06",
+        "prompt": "Hai lựa chọn cùng loại cà chua và chất lượng: 2 pounds giá 6 dollars hoặc 3 pounds giá 6 dollars. Không có phí thêm. Lựa chọn nào có giá trên mỗi pound thấp hơn?",
+        "options": [{"id":"a","text":"Gói 2 pounds, vì khối lượng nhỏ hơn."},{"id":"b","text":"Hai gói có đơn giá bằng nhau vì cùng giá 6 dollars."},{"id":"c","text":"Không thể so sánh nếu chưa đổi pounds sang kilogram."},{"id":"d","text":"Gói 3 pounds, với 2 dollars/pound thay vì 3 dollars/pound."}],
+        "correctOptionId": "d",
+        "explanation": "So sánh trên cùng một đơn vị: gói 2 pounds có giá 6/2 = 3 dollars/pound; gói 3 pounds có giá 6/3 = 2 dollars/pound. Cùng tổng giá không có nghĩa cùng đơn giá nếu khối lượng khác nhau.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-vector-addition",
+    "simulationSlug": "vector-addition",
+    "title": "Bài test hiểu biết: Cộng vector",
+    "description": "Kéo và ghép vector ở một, hai chiều; đọc thành phần, phân biệt tịnh tiến với đổi hướng và xác định vector tổng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/vector-addition"],
+    "questions": [
+      {
+        "id": "vector-addition-u01",
+        "prompt": "Trong màn 1 chiều ngang, thêm hai vector: một vector dài 5 đơn vị hướng phải và một vector dài 2 đơn vị hướng trái. Bật Tổng. Vector tổng là gì?",
+        "options": [{"id":"a","text":"Dài 7 đơn vị, hướng phải."},{"id":"b","text":"Dài 3 đơn vị, hướng trái."},{"id":"c","text":"Dài 3 đơn vị, hướng phải."},{"id":"d","text":"Dài 7 đơn vị, hướng trái."}],
+        "correctOptionId": "c",
+        "explanation": "Chọn chiều phải là dương: hai thành phần là +5 và −2, nên tổng bằng +3. Cộng vector phải xét hướng; cộng hai độ dài thành 7 bỏ qua việc hai vector ngược chiều nhau.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-u02",
+        "prompt": "Trong màn 2 chiều, kéo phần thân để tịnh tiến một vector đến vị trí khác, giữ nguyên độ dài và hướng, không thay các vector còn lại. Khi bật Tổng, vector tổng thay đổi thế nào?",
+        "options": [{"id":"a","text":"Độ dài tăng theo khoảng cách kéo."},{"id":"b","text":"Các thành phần và độ dài của vector tổng không đổi."},{"id":"c","text":"Hướng tổng luôn quay về gốc tọa độ."},{"id":"d","text":"Vector được kéo không còn tham gia phép cộng."}],
+        "correctOptionId": "b",
+        "explanation": "Tịnh tiến vector tự do chỉ thay vị trí mũi tên, không thay hiệu tọa độ giữa đầu và đuôi. Do các thành phần của từng vector giữ nguyên, các thành phần và độ dài của tổng cũng giữ nguyên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-u03",
+        "prompt": "Trong màn 2 chiều ở hệ tọa độ Cartesian, chỉnh vector a có thành phần (3, 0), vector b có thành phần (0, 4); bật Thành phần và Tổng. Thành phần (x, y) của tổng là gì?",
+        "options": [{"id":"a","text":"(7, 0)."},{"id":"b","text":"(0, 7)."},{"id":"c","text":"(4, 3)."},{"id":"d","text":"(3, 4)."}],
+        "correctOptionId": "d",
+        "explanation": "Các thành phần cùng trục được cộng riêng: s_x = 3 + 0 = 3, s_y = 0 + 4 = 4. Tổng hướng chéo và có độ dài 5; không thể cộng độ dài 3 và 4 rồi coi kết quả là một thành phần duy nhất.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-u04",
+        "prompt": "Hai vector có cùng độ dài, cùng phương nhưng ngược chiều. Tổng của chúng là vector nào?",
+        "options": [{"id":"a","text":"Vector không."},{"id":"b","text":"Vector có độ dài gấp đôi, theo chiều vector thứ nhất."},{"id":"c","text":"Vector có độ dài bằng một vector ban đầu."},{"id":"d","text":"Vector vuông góc với cả hai vector ban đầu."}],
+        "correctOptionId": "a",
+        "explanation": "Hai vector ngược nhau có mọi thành phần đối dấu và bằng nhau về độ lớn. Cộng từng thành phần cho kết quả bằng 0, nên tổng là vector không; vector không không có hướng xác định.",
+        "skill": "theory"
+      },
+      {
+        "id": "vector-addition-u05",
+        "prompt": "Giữ vector b = (1, 2) cố định. Chỉ tăng thành phần x của vector a từ 2 lên 4, giữ thành phần y của a bằng 1. Thành phần tổng thay đổi thế nào?",
+        "options": [{"id":"a","text":"Cả x và y của tổng đều gấp đôi."},{"id":"b","text":"Thành phần x của tổng không đổi, y tăng 2."},{"id":"c","text":"Thành phần x của tổng tăng 2, y của tổng vẫn bằng 3."},{"id":"d","text":"Thành phần x của tổng giảm 2, y vẫn bằng 3."}],
+        "correctOptionId": "c",
+        "explanation": "Ban đầu s = (2 + 1, 1 + 2) = (3, 3); sau đó s = (4 + 1, 1 + 2) = (5, 3). Chỉ thay a_x thì chỉ s_x thay đổi, vì phép cộng vector thực hiện độc lập theo từng trục.",
+        "skill": "relationship"
+      },
+      {
+        "id": "vector-addition-u06",
+        "prompt": "Giữ độ dài một vector bằng 5. So sánh khi nó hướng dọc trục x dương với khi hướng dọc trục y dương: thành phần thay đổi thế nào?",
+        "options": [{"id":"a","text":"Từ (5, 0) thành (5, 5)."},{"id":"b","text":"Từ (5, 0) thành (0, 5)."},{"id":"c","text":"Từ (5, 0) thành (0, −5)."},{"id":"d","text":"Luôn là (5, 0), vì độ dài không đổi."}],
+        "correctOptionId": "b",
+        "explanation": "Các thành phần là hình chiếu của vector lên các trục. Hướng x dương cho (5, 0), còn hướng y dương cho (0, 5). Độ dài có thể giữ nguyên nhưng thành phần thay đổi khi hướng thay đổi.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-vector-addition-equations",
+    "simulationSlug": "vector-addition-equations",
+    "title": "Bài test hiểu biết: Cộng Vector: phương trình",
+    "description": "Điều chỉnh vector cơ sở, hệ số và kiểu phương trình để hiểu phép cộng, trừ, nhân số và điều kiện cân bằng vector.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/vector-addition-equations"],
+    "questions": [
+      {
+        "id": "vector-addition-equations-u01",
+        "prompt": "Chọn kiểu phương trình a + b = c trong cảnh Cartesian, đặt các hệ số của a và b bằng 1. Dùng điều khiển thành phần để đặt a = (2, 1), b = (1, −1). Khi bật vector c, các thành phần của c là gì?",
+        "options": [{"id":"a","text":"(1, 2)."},{"id":"b","text":"(3, −2)."},{"id":"c","text":"(2, 0)."},{"id":"d","text":"(3, 0)."}],
+        "correctOptionId": "d",
+        "explanation": "Cộng từng thành phần: c_x = 2 + 1 = 3, c_y = 1 + (−1) = 0. Hai thành phần thẳng đứng triệt tiêu, nên vector c nằm trên trục x dương.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-equations-u02",
+        "prompt": "Chọn phương trình m a + b = c. Giữ a = (2, 0), b = (0, 1) và hệ số của b bằng 1. Đổi hệ số m của a từ 1 thành 2. Vector c mới có thành phần nào?",
+        "options": [{"id":"a","text":"(4, 1)."},{"id":"b","text":"(4, 2)."},{"id":"c","text":"(2, 2)."},{"id":"d","text":"(2, 1)."}],
+        "correctOptionId": "a",
+        "explanation": "Hệ số 2 nhân riêng vector a, cho 2a = (4, 0), còn b giữ nguyên (0, 1). Do đó c = 2a + b = (4, 1). Thay hệ số của a không đồng thời nhân b lên hai lần.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-equations-u03",
+        "prompt": "Giữ vector cơ sở a = (4, 1), b = (1, 1), với các hệ số bằng 1. Chuyển kiểu phương trình từ a + b = c sang a − b = c. Vector c lúc này là gì?",
+        "options": [{"id":"a","text":"(5, 2)."},{"id":"b","text":"(−3, 0)."},{"id":"c","text":"(3, 0)."},{"id":"d","text":"(3, 2)."}],
+        "correctOptionId": "c",
+        "explanation": "Phép trừ thực hiện theo thành phần: c_x = 4 − 1 = 3 và c_y = 1 − 1 = 0. Kết quả (5, 2) thuộc phép cộng ban đầu, còn (−3, 0) là b − a chứ không phải a − b.",
+        "skill": "interaction"
+      },
+      {
+        "id": "vector-addition-equations-u04",
+        "prompt": "Với vector a khác vector không, nhân a với hệ số −1 có ý nghĩa hình học nào?",
+        "options": [{"id":"a","text":"Giữ nguyên cả hướng và độ dài."},{"id":"b","text":"Giữ độ dài nhưng đảo chiều."},{"id":"c","text":"Quay vector 90° và tăng độ dài."},{"id":"d","text":"Làm độ dài thành số âm trong khi giữ chiều mũi tên."}],
+        "correctOptionId": "b",
+        "explanation": "Nhân với −1 đổi dấu mọi thành phần của a, tạo vector đối −a. Độ dài vẫn bằng |a| và luôn không âm, còn chiều mũi tên đảo ngược 180°.",
+        "skill": "theory"
+      },
+      {
+        "id": "vector-addition-equations-u05",
+        "prompt": "Trong phương trình a + b + c = 0, giữ a và b sao cho a + b = (2, −3). Điều kiện này buộc c bằng vector nào?",
+        "options": [{"id":"a","text":"(2, −3)."},{"id":"b","text":"(0, 0)."},{"id":"c","text":"(−2, −3)."},{"id":"d","text":"(−2, 3)."}],
+        "correctOptionId": "d",
+        "explanation": "Chuyển a + b sang vế kia được c = −(a + b). Vì a + b = (2, −3), c phải là (−2, 3) để tổng của cả hai thành phần bằng 0.",
+        "skill": "relationship"
+      },
+      {
+        "id": "vector-addition-equations-u06",
+        "prompt": "Giữ hai vector cơ sở a, b không đổi và xét c = 2a + 2b. So với vector tổng a + b, c liên hệ thế nào?",
+        "options": [{"id":"a","text":"c = 2(a + b); nếu tổng khác không thì c cùng hướng và dài gấp đôi."},{"id":"b","text":"c = a + b, vì hai hệ số bằng nhau nên triệt tiêu."},{"id":"c","text":"c luôn ngược hướng với a + b."},{"id":"d","text":"c luôn dài gấp bốn lần a + b."}],
+        "correctOptionId": "a",
+        "explanation": "Phép nhân số phân phối qua phép cộng vector: 2a + 2b = 2(a + b). Hệ số dương 2 giữ hướng của tổng khác không và nhân độ dài lên hai lần. Nếu a + b = 0 thì c cũng bằng 0 và không có hướng xác định.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-wave-interference",
+    "simulationSlug": "wave-interference",
+    "title": "Bài test hiểu biết: Giao thoa sóng",
+    "description": "Khảo sát hai nguồn cùng pha, sự chồng chất dao động và ảnh hưởng của biên độ, khoảng cách nguồn, bề rộng khe đến hình ảnh sóng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/wave-interference"],
+    "questions": [
+      {
+        "id": "wave-interference-u01",
+        "prompt": "Trong màn Sóng với máy tạo sóng nước, tăng Biên độ, giữ tần số và môi trường nước không đổi. Quan sát Nhìn ngang: thay đổi nào trực tiếp phù hợp nhất?",
+        "options": [{"id":"a","text":"Khoảng cách giữa hai đỉnh liên tiếp nhất thiết tăng gấp đôi."},{"id":"b","text":"Đỉnh và đáy sóng lệch xa mức cân bằng hơn."},{"id":"c","text":"Sóng nhất thiết truyền nhanh hơn."},{"id":"d","text":"Số dao động trong một giây giảm."}],
+        "correctOptionId": "b",
+        "explanation": "Biên độ đặc trưng độ lệch cực đại khỏi trạng thái cân bằng. Tăng biên độ làm dao động mặt nước lớn hơn. Trong mô hình sóng tuyến tính với môi trường và tần số giữ nguyên, thao tác này không tự thay đổi tần số hay tốc độ truyền.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-interference-u02",
+        "prompt": "Trong màn Giao thoa, xét hai nguồn nước có cùng tần số, cùng pha và cùng biên độ. Thay đổi Khoảng cách 2 nguồn, giữ các điều kiện đó và môi trường không đổi. Một điểm vẫn cách đều hai nguồn thuộc loại giao thoa nào?",
+        "options": [{"id":"a","text":"Luôn triệt tiêu vì hai nguồn khác vị trí."},{"id":"b","text":"Không có giao thoa vì hai quãng đường bằng nhau."},{"id":"c","text":"Luôn đổi từ tăng cường sang triệt tiêu sau mỗi lần kéo."},{"id":"d","text":"Tăng cường vì hiệu đường đi vẫn bằng không."}],
+        "correctOptionId": "d",
+        "explanation": "Tại điểm cách đều hai nguồn cùng pha, hai sóng có cùng thời gian truyền nên đến cùng pha: hiệu đường đi Δr = 0. Chúng tăng cường nhau dù khoảng cách nguồn thay đổi. Dao động tổng vẫn có lúc đi qua mức cân bằng; tăng cường nói về biên độ, không phải độ cao luôn dương.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-interference-u03",
+        "prompt": "Trong màn Khe, chọn Một khe. Giữ nguyên bước sóng, môi trường và vị trí quan sát, rồi giảm Bề rộng khe đến cỡ bước sóng. Sóng phía sau khe có xu hướng thế nào?",
+        "options": [{"id":"a","text":"Lan rộng sang hai bên rõ hơn do nhiễu xạ."},{"id":"b","text":"Truyền nhanh hơn vì khe hẹp."},{"id":"c","text":"Đổi tần số theo bề rộng khe."},{"id":"d","text":"Chỉ đi thẳng thành một tia không loe rộng."}],
+        "correctOptionId": "a",
+        "explanation": "Nhiễu xạ rõ khi bề rộng khe không lớn so với bước sóng. Với bước sóng giữ nguyên, thu hẹp khe về cỡ bước sóng làm sóng phía sau lan rộng theo nhiều hướng hơn. Khe không tự đổi tần số nguồn hay tốc độ truyền trong cùng môi trường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-interference-u04",
+        "prompt": "Hai nguồn kết hợp cùng pha và cùng tần số phát sóng trong cùng môi trường. Tại điểm có hiệu đường đi bằng λ/2, với λ là bước sóng, hai sóng đến có quan hệ pha nào?",
+        "options": [{"id":"a","text":"Cùng pha, nên luôn tăng cường."},{"id":"b","text":"Lệch pha π/2, nên không thể chồng chất."},{"id":"c","text":"Ngược pha; nếu biên độ tại điểm bằng nhau thì triệt tiêu hoàn toàn."},{"id":"d","text":"Không thể liên hệ đường đi với pha dù đã biết bước sóng."}],
+        "correctOptionId": "c",
+        "explanation": "Với hai nguồn cùng pha, độ lệch pha tại điểm quan sát là Δφ = 2πΔr/λ. Khi Δr = λ/2, Δφ = π nên hai sóng ngược pha. Biên độ bằng nhau thì dao động tổng bằng 0; nếu biên độ khác nhau thì chỉ triệt tiêu một phần.",
+        "skill": "relationship"
+      },
+      {
+        "id": "wave-interference-u05",
+        "prompt": "Tại cùng một điểm trên mặt nước và cùng thời điểm, một sóng gây độ lệch +2 mm còn sóng kia gây độ lệch −2 mm. Trong mô hình chồng chất tuyến tính, độ lệch tổng bằng bao nhiêu?",
+        "options": [{"id":"a","text":"+4 mm."},{"id":"b","text":"0 mm."},{"id":"c","text":"−4 mm."},{"id":"d","text":"+2 mm vì chỉ sóng đến trước được tính."}],
+        "correctOptionId": "b",
+        "explanation": "Nguyên lí chồng chất cộng các độ lệch có dấu tại cùng điểm, cùng thời điểm: y = 2 + (−2) = 0 mm. Hai sóng không biến mất khỏi toàn bộ môi trường; sự triệt tiêu này mô tả độ lệch tổng ở điểm và thời điểm đang xét.",
+        "skill": "theory"
+      },
+      {
+        "id": "wave-interference-u06",
+        "prompt": "Trong cùng môi trường có tốc độ truyền v không đổi, giữ biên độ nguồn không đổi và tăng tần số f gấp đôi. Bước sóng của mỗi nguồn thay đổi thế nào?",
+        "options": [{"id":"a","text":"Tăng gấp đôi."},{"id":"b","text":"Không đổi."},{"id":"c","text":"Tăng gấp bốn."},{"id":"d","text":"Giảm còn một nửa."}],
+        "correctOptionId": "d",
+        "explanation": "Hệ thức sóng là v = fλ. Với v do môi trường quyết định và được giữ không đổi, λ = v/f nên tăng f gấp đôi làm λ giảm một nửa. Tăng tần số không đồng nghĩa tốc độ truyền tăng gấp đôi trong điều kiện này.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-wave-on-a-string",
+    "simulationSlug": "wave-on-a-string",
+    "title": "Bài test hiểu biết: Sóng trên một sợi dây",
+    "description": "Khảo sát tần số, sức căng và phản xạ xung; liên hệ bước sóng, chu kì, tốc độ truyền và khối lượng trên một đơn vị chiều dài.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/wave-on-a-string"],
+    "questions": [
+      {
+        "id": "wave-on-a-string-u01",
+        "prompt": "Chọn Dao động và Không vật cản, đặt Tắt dần bằng 0. Giữ sức căng, khối lượng trên một đơn vị chiều dài và biên độ không đổi; tăng Tần số gấp đôi. Dùng Thước ngang đo khoảng cách hai đỉnh liên tiếp khi sóng đã ổn định: kết quả thế nào?",
+        "options": [{"id":"a","text":"Bước sóng giảm còn một nửa."},{"id":"b","text":"Bước sóng tăng gấp đôi."},{"id":"c","text":"Bước sóng không đổi vì sức căng không đổi."},{"id":"d","text":"Bước sóng tăng gấp bốn."}],
+        "correctOptionId": "a",
+        "explanation": "Trên dây lí tưởng, v = √(F/μ), với F là lực căng và μ là khối lượng trên một đơn vị chiều dài. F và μ giữ nguyên nên v không đổi. Từ λ = v/f, tăng f gấp đôi làm khoảng cách hai đỉnh liên tiếp giảm một nửa.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-on-a-string-u02",
+        "prompt": "Ở chế độ Dao động và Không vật cản, giữ tần số, biên độ và khối lượng trên một đơn vị chiều dài không đổi; đặt Tắt dần bằng 0. Tăng Sức căng dây thì tốc độ truyền và bước sóng thay đổi theo xu hướng nào?",
+        "options": [{"id":"a","text":"Tốc độ giảm, bước sóng giảm."},{"id":"b","text":"Tốc độ tăng, bước sóng giảm."},{"id":"c","text":"Tốc độ tăng, bước sóng tăng."},{"id":"d","text":"Tốc độ không đổi, chỉ biên độ thay đổi."}],
+        "correctOptionId": "c",
+        "explanation": "Khi μ giữ nguyên, tăng lực căng F làm v = √(F/μ) tăng. Tần số nguồn vẫn cố định nên λ = v/f cũng tăng. Đây là thay đổi tính chất dây, khác với chỉ tăng tần số nguồn trên cùng dây.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-on-a-string-u03",
+        "prompt": "Chọn Xung và Vật cản cố định, tạo một xung hướng lên rồi quan sát nó phản xạ ở đầu dây. Với tắt dần rất nhỏ, xung phản xạ có đặc điểm nào?",
+        "options": [{"id":"a","text":"Tiếp tục đi xuyên qua chỗ kẹp mà không phản xạ."},{"id":"b","text":"Bị đảo chiều độ lệch, trở thành xung hướng xuống và truyền ngược lại."},{"id":"c","text":"Vẫn hướng lên và tiếp tục truyền theo chiều ban đầu."},{"id":"d","text":"Biến thành chuyển động dọc của dây theo phương ngang."}],
+        "correctOptionId": "b",
+        "explanation": "Đầu cố định buộc độ lệch tại chỗ kẹp luôn bằng 0. Để thỏa điều kiện đó, xung phản xạ đảo dấu so với xung tới và đi ngược chiều truyền. Phản xạ ở đầu tự do thì không đảo dấu theo cách này.",
+        "skill": "interaction"
+      },
+      {
+        "id": "wave-on-a-string-u04",
+        "prompt": "Một điểm trên dây dao động tuần hoàn với tần số 2 Hz. Thời gian để điểm đó thực hiện một dao động toàn phần là bao nhiêu?",
+        "options": [{"id":"a","text":"2 giây."},{"id":"b","text":"4 giây."},{"id":"c","text":"1 giây."},{"id":"d","text":"0,5 giây."}],
+        "correctOptionId": "d",
+        "explanation": "Tần số 2 Hz nghĩa là hai dao động trong mỗi giây. Chu kì là thời gian cho một dao động toàn phần: T = 1/f = 1/2 = 0,5 giây. Tần số không phải thời gian truyền từ nguồn đến cuối dây.",
+        "skill": "relationship"
+      },
+      {
+        "id": "wave-on-a-string-u05",
+        "prompt": "So sánh hai dây lí tưởng có cùng lực căng. Dây thứ hai có khối lượng trên một đơn vị chiều dài μ lớn gấp bốn dây thứ nhất. Theo v = √(F/μ), tốc độ truyền trên dây thứ hai bằng bao nhiêu so với dây thứ nhất?",
+        "options": [{"id":"a","text":"Bằng một nửa."},{"id":"b","text":"Gấp đôi."},{"id":"c","text":"Bằng một phần tư."},{"id":"d","text":"Bằng nhau vì chỉ lực căng quyết định tốc độ."}],
+        "correctOptionId": "a",
+        "explanation": "Với F không đổi, tốc độ tỉ lệ nghịch căn bậc hai của μ. Tăng μ bốn lần làm v giảm theo hệ số 1/√4 = 1/2. μ là tính chất của dây trong phép so sánh lí thuyết này, không phải tần số của nguồn.",
+        "skill": "relationship"
+      },
+      {
+        "id": "wave-on-a-string-u06",
+        "prompt": "Một đỉnh sóng truyền từ trái sang phải trên dây. Chuyển động của một phần tử dây trong mô hình sóng ngang này được mô tả đúng thế nào?",
+        "options": [{"id":"a","text":"Phần tử chạy theo đỉnh sóng từ đầu này sang đầu kia."},{"id":"b","text":"Phần tử chỉ dịch chuyển đều sang phải, không dao động."},{"id":"c","text":"Phần tử dao động lên xuống quanh vị trí cân bằng; hình dạng sóng truyền sang phải."},{"id":"d","text":"Phần tử phải đứng yên để năng lượng có thể truyền."}],
+        "correctOptionId": "c",
+        "explanation": "Sóng trên dây trong mô hình này là sóng ngang: phần tử dây dao động vuông góc với phương truyền sóng. Sự nhiễu động và năng lượng truyền dọc dây, nhưng phần tử không đi theo đỉnh sóng từ đầu dây đến cuối dây.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-waves-intro",
+    "simulationSlug": "waves-intro",
+    "title": "Bài test hiểu biết: Sóng",
+    "description": "So sánh sóng nước, âm và ánh sáng; đọc đúng đại lượng trên hình nhìn ngang, hình hạt và đồ thị thay vì đồng nhất mọi sóng với chuyển động mặt nước.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": ["https://phet.colorado.edu/vi/simulations/waves-intro"],
+    "questions": [
+      {
+        "id": "waves-intro-u01",
+        "prompt": "Chọn Nước, dùng máy tạo sóng nước và xem Nhìn ngang. Giữ tần số và môi trường không đổi, tăng Biên độ. Đại lượng nào tăng trực tiếp?",
+        "options": [{"id":"a","text":"Số chu kì dao động trong một giây."},{"id":"b","text":"Tốc độ truyền sóng trong nước."},{"id":"c","text":"Khoảng cách hai đỉnh liên tiếp do đổi tần số."},{"id":"d","text":"Độ lệch cực đại của mặt nước so với mực cân bằng."}],
+        "correctOptionId": "d",
+        "explanation": "Trong phần Nước, biên độ mô tả độ dao động của mặt nước quanh mực cân bằng. Tăng biên độ không có nghĩa tăng tần số; trong mô hình với cùng môi trường, nó cũng không tự làm tốc độ truyền tăng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "waves-intro-u02",
+        "prompt": "Trong phần Nước, giữ nguyên nguồn và mọi thông số, chuyển từ Nhìn từ trên xuống sang Nhìn ngang. Cách hiểu nào đúng về hai hình ảnh?",
+        "options": [{"id":"a","text":"Chúng biểu diễn cùng sóng từ hai góc nhìn; hình nhìn ngang giúp nhận ra đỉnh và đáy theo độ cao."},{"id":"b","text":"Chuyển góc nhìn làm sóng nước biến thành sóng âm."},{"id":"c","text":"Chuyển góc nhìn làm tần số nguồn tăng gấp đôi."},{"id":"d","text":"Hình nhìn từ trên xuống chứng minh các phân tử nước chạy cùng đỉnh sóng."}],
+        "correctOptionId": "a",
+        "explanation": "Hai lựa chọn chỉ đổi cách biểu diễn cùng hiện tượng. Nhìn từ trên xuống nhấn mạnh sự lan truyền mặt sóng, còn nhìn ngang cho thấy độ cao mặt nước. Đổi góc nhìn không đổi nguồn, môi trường hay tần số.",
+        "skill": "interaction"
+      },
+      {
+        "id": "waves-intro-u03",
+        "prompt": "Chọn Âm, bật biểu diễn Hạt và xem Đồ thị áp suất. Các vùng hạt dày và thưa xen kẽ tương ứng với hiện tượng nào?",
+        "options": [{"id":"a","text":"Các đỉnh và đáy của một mặt nước thật trong không khí."},{"id":"b","text":"Các hạt không khí biến thành điện trường."},{"id":"c","text":"Các vùng nén và giãn của không khí, gắn với áp suất cao và thấp."},{"id":"d","text":"Các khối không khí đi một chiều từ nguồn đến tai rồi dừng lại."}],
+        "correctOptionId": "c",
+        "explanation": "Âm trong không khí là sóng dọc: các hạt dao động tạo vùng nén và giãn truyền đi. Đồ thị áp suất biểu diễn biến thiên áp suất, không phải một đường đi uốn lượn của hạt không khí như hình dạng dây hay mặt nước.",
+        "skill": "interaction"
+      },
+      {
+        "id": "waves-intro-u04",
+        "prompt": "Xét âm trong cùng môi trường không khí với tốc độ truyền không đổi. Giữ biên độ không đổi và tăng tần số nguồn gấp đôi. Bước sóng thay đổi thế nào?",
+        "options": [{"id":"a","text":"Tăng gấp đôi vì âm cao hơn truyền nhanh hơn."},{"id":"b","text":"Giảm còn một nửa."},{"id":"c","text":"Không đổi vì biên độ không đổi."},{"id":"d","text":"Tăng gấp bốn."}],
+        "correctOptionId": "b",
+        "explanation": "Với môi trường cố định, dùng v = fλ và giữ v không đổi. Khi f tăng gấp đôi, λ giảm một nửa. Tần số liên quan độ cao của âm, còn tốc độ truyền phụ thuộc môi trường trong điều kiện đang xét.",
+        "skill": "relationship"
+      },
+      {
+        "id": "waves-intro-u05",
+        "prompt": "So sánh âm trong không khí và ánh sáng: phát biểu nào đúng về nhu cầu có môi trường vật chất để truyền sóng?",
+        "options": [{"id":"a","text":"Cả âm và ánh sáng đều bắt buộc có không khí."},{"id":"b","text":"Âm truyền được trong chân không, còn ánh sáng thì không."},{"id":"c","text":"Cả hai đều là chuyển động cơ học của hạt nước."},{"id":"d","text":"Âm cần môi trường vật chất; ánh sáng là sóng điện từ và truyền được trong chân không."}],
+        "correctOptionId": "d",
+        "explanation": "Âm là sóng cơ, truyền nhờ dao động và tương tác của các phần tử môi trường nên không truyền trong chân không. Ánh sáng là sóng điện từ, không cần môi trường vật chất để truyền; không nên đồng nhất nó với dao động của hạt không khí hay mặt nước.",
+        "skill": "theory"
+      },
+      {
+        "id": "waves-intro-u06",
+        "prompt": "Trong phần Ánh sáng, đại lượng Điện trường trên đồ thị phải được hiểu như thế nào, thay vì coi đường đồ thị là hình dạng một sợi dây?",
+        "options": [{"id":"a","text":"Đồ thị biểu diễn giá trị điện trường dao động; đường vẽ không phải đường đi của một hạt vật chất."},{"id":"b","text":"Đồ thị là độ cao của mặt nước tại mọi điểm có ánh sáng."},{"id":"c","text":"Đồ thị là quỹ đạo lên xuống của từng hạt không khí mang ánh sáng."},{"id":"d","text":"Đồ thị biểu diễn dây thật nối máy phát với màn."}],
+        "correctOptionId": "a",
+        "explanation": "Sóng ánh sáng được biểu diễn bằng đại lượng điện trường biến thiên. Hình sin trên đồ thị là cách mã hóa giá trị của trường theo trục được ghi, không phải một sợi dây vật chất hay quỹ đạo của phân tử. Mỗi loại sóng cần đọc đúng đại lượng: mực nước, áp suất hoặc điện trường.",
+        "skill": "theory"
+      }
+    ]
+  }
+]

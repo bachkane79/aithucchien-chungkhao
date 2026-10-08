@@ -1,0 +1,42 @@
+{
+  "slug": "acid-base-solutions",
+  "title": "Dung dịch Acid-Base",
+  "englishTitle": "Acid-Base Solutions",
+  "subjects": [
+    "Hóa học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/acid-base-solutions",
+  "controls": {
+    "ACID_BASE_SOLUTIONS/screen.introduction": "Phần giới thiệu",
+    "ACID_BASE_SOLUTIONS/screen.mySolution": "Dung dịch của tôi",
+    "ACID_BASE_SOLUTIONS/showSolvent": "Hiển thị dung môi",
+    "ACID_BASE_SOLUTIONS/showTheSolventMoleculesInParticlesView": "Hiển thị dung môi dưới dạng hạt",
+    "ACID_BASE_SOLUTIONS/solution": "Dung dịch",
+    "ACID_BASE_SOLUTIONS/water": "Nước",
+    "ACID_BASE_SOLUTIONS/strongAcid": "Acid mạnh",
+    "ACID_BASE_SOLUTIONS/weakAcid": "Acid yếu",
+    "ACID_BASE_SOLUTIONS/strongBase": "Base mạnh",
+    "ACID_BASE_SOLUTIONS/weakBase": "Base yếu",
+    "ACID_BASE_SOLUTIONS/patternSolutionNameFormula": "{{solutionName}} ({{formula}})",
+    "ACID_BASE_SOLUTIONS/pattern.0value.1units": "{0}{1}",
+    "ACID_BASE_SOLUTIONS/liters": "L",
+    "ACID_BASE_SOLUTIONS/concentrationGraph.yAxis": "Nồng độ cân bằng (mol/l)",
+    "ACID_BASE_SOLUTIONS/pHColorKey": "Bảng màu pH",
+    "ACID_BASE_SOLUTIONS/pattern.0label.1value": "{0}: {1}",
+    "ACID_BASE_SOLUTIONS/pH": "pH",
+    "ACID_BASE_SOLUTIONS/views": "Hiển thị",
+    "ACID_BASE_SOLUTIONS/particles": "Hạt",
+    "ACID_BASE_SOLUTIONS/graph": "Đồ thị",
+    "ACID_BASE_SOLUTIONS/hideViews": "Ẩn chi tiết",
+    "ACID_BASE_SOLUTIONS/initialConcentration": "Nồng độ\nban đầu:",
+    "ACID_BASE_SOLUTIONS/strength": "Nồng độ:",
+    "ACID_BASE_SOLUTIONS/acid": "Acid",
+    "ACID_BASE_SOLUTIONS/base": "Base",
+    "ACID_BASE_SOLUTIONS/negligible": "không đáng kể",
+    "ACID_BASE_SOLUTIONS/weaker": "yếu hơn",
+    "ACID_BASE_SOLUTIONS/stronger": "mạnh hơn",
+    "ACID_BASE_SOLUTIONS/weak": "thấp",
+    "ACID_BASE_SOLUTIONS/strong": "cao",
+    "ACID_BASE_SOLUTIONS/acid-base-solutions.title": "Dung dịch Acid-Base"
+  }
+}

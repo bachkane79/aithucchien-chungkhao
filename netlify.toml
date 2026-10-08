@@ -1,0 +1,13 @@
+# Trong Netlify UI, đặt Base directory = chung-khao để tìm tệp cấu hình này.
+[build]
+  base = "chung-khao"
+  command = "npm run build"
+  publish = "mapstudy-stem/.next"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Next.js routes are served through Netlify's Next.js runtime. Do not add a
+# catch-all SPA redirect: it would bypass Next.js routing and 404 handling.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

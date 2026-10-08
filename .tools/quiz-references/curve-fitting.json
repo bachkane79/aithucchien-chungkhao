@@ -1,0 +1,39 @@
+{
+  "slug": "curve-fitting",
+  "title": "Vẽ đường cong thực nghiệm",
+  "englishTitle": "Curve Fitting",
+  "subjects": [
+    "Vật lí",
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/curve-fitting",
+  "controls": {
+    "CURVE_FITTING/pointCoordinatesPattern": "({{xCoordinate}}, {{yCoordinate}})",
+    "CURVE_FITTING/deltaEqualsPattern": "Δ<sub>{{y}}</sub> = {{deltaValue}}",
+    "CURVE_FITTING/ySymbol": "y",
+    "CURVE_FITTING/cubic": "Bậc 3",
+    "CURVE_FITTING/linear": "Tuyến tính",
+    "CURVE_FITTING/quadratic": "Bậc 2",
+    "CURVE_FITTING/aSymbol": "a",
+    "CURVE_FITTING/bSymbol": "b",
+    "CURVE_FITTING/cSymbol": "c",
+    "CURVE_FITTING/dSymbol": "d",
+    "CURVE_FITTING/xSymbol": "x",
+    "CURVE_FITTING/adjustableFit": "Điều chỉnh tham số",
+    "CURVE_FITTING/bestFit": "Thích hợp nhất",
+    "CURVE_FITTING/curve": "Đường cong",
+    "CURVE_FITTING/residuals": "Sai số",
+    "CURVE_FITTING/values": "Giá trị",
+    "CURVE_FITTING/fEqualsNumberOfParametersPattern": "{{fSymbol}} = số tham số vẽ (td {{fSymbol}} = 4, đối với phép vẽ bậc 3)",
+    "CURVE_FITTING/nEqualsNumberOfDataPointsPattern": "{{nSymbol}} = số điểm dữ liệu",
+    "CURVE_FITTING/chiSymbol": "X",
+    "CURVE_FITTING/fSymbol": "f",
+    "CURVE_FITTING/nSymbol": "N",
+    "CURVE_FITTING/theReducedChiSquaredStatisticIs": "Số liệu thống kê chi bình phương giảm là:",
+    "CURVE_FITTING/deviations": "Độ lệch",
+    "CURVE_FITTING/rSymbol": "r",
+    "CURVE_FITTING/equation": "Phương trình",
+    "CURVE_FITTING/undefined": "không xác định",
+    "CURVE_FITTING/curve-fitting.title": "Vẽ đường cong thực nghiệm"
+  }
+}

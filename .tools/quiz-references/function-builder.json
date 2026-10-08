@@ -1,0 +1,25 @@
+{
+  "slug": "function-builder",
+  "title": "Hàm số",
+  "englishTitle": "Function Builder",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/function-builder",
+  "controls": {
+    "FUNCTION_BUILDER/screen.equations": "Phương trình",
+    "FUNCTION_BUILDER/screen.mystery": "Bi mật",
+    "FUNCTION_BUILDER/screen.numbers": "Số",
+    "FUNCTION_BUILDER/screen.patterns": "Hình mẫu",
+    "FUNCTION_BUILDER/x": "x",
+    "FUNCTION_BUILDER/y": "y",
+    "FUNCTION_BUILDER/mysteryCharacter": "?",
+    "FUNCTION_BUILDER/input": "Nhập",
+    "FUNCTION_BUILDER/output": "Xuất",
+    "FUNCTION_BUILDER/mysteryA": "?<sub>A</sub>",
+    "FUNCTION_BUILDER/mysteryB": "?<sub>B</sub>",
+    "FUNCTION_BUILDER/mysteryC": "?<sub>C</sub>",
+    "FUNCTION_BUILDER/simplify": "Giản ước",
+    "FUNCTION_BUILDER/function-builder.title": "Hàm số"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fractions-intro",
+  "title": "Phân số: phần giới thiệu",
+  "englishTitle": "Fractions: Intro",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-intro",
+  "controls": {
+    "VEGAS/done": "Done",
+    "VEGAS/youCompletedAllLevels": "Bạn đã hoàn thành mọi câu đố!",
+    "FRACTIONS_COMMON/levelTitlePattern": "Mức độ {{number}}",
+    "VEGAS/next": "Kế tiếp",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "VEGAS/pattern.score.number": "Điểm: {{score}}",
+    "VEGAS/score": "Điểm:",
+    "VEGAS/chooseYourLevel": "Chọn mức độ!",
+    "FRACTIONS_INTRO/screen.game": "Game",
+    "FRACTIONS_COMMON/representationMax": "Max",
+    "FRACTIONS_COMMON/equation": "Phương trình",
+    "FRACTIONS_COMMON/mixedNumber": "Hỗn số",
+    "FRACTIONS_INTRO/screen.intro": "Phần giới thiệu",
+    "FRACTIONS_INTRO/screen.lab": "Lab",
+    "FRACTIONS_INTRO/fractions-intro.title": "Phân số: phần giới thiệu"
+  }
+}

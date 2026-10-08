@@ -1,0 +1,36 @@
+{
+  "slug": "neuron",
+  "title": "Neuron",
+  "englishTitle": "Neuron",
+  "subjects": [
+    "Sinh học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/neuron",
+  "controls": {
+    "NEURON/concentrationReadoutPattern.0label.1value.2units": "{0} [{1} {2}]",
+    "NEURON/potassiumChemicalSymbol": "K+",
+    "NEURON/sodiumChemicalSymbol": "Na+",
+    "NEURON/units.mM": "mM",
+    "NEURON/chartTitle": "Điện thế màng theo Thời gian",
+    "NEURON/chartClear": "Xoá",
+    "NEURON/chartXAxisLabel": "Thời gian (ms)",
+    "NEURON/chartYAxisLabel": "Điện thế màng (mV)",
+    "NEURON/legend": "Chú thích",
+    "NEURON/sodiumIon": "Ion Na+",
+    "NEURON/potassiumIon": "Ion K+",
+    "NEURON/sodiumGatedChannel": "Kênh có cổng Natrium",
+    "NEURON/potassiumGatedChannel": "Kênh có cổng Kalium",
+    "NEURON/sodiumLeakChannel": "Kênh thoát Natrium",
+    "NEURON/potassiumLeakChannel": "Kênh thoát Kalium",
+    "NEURON/showLegend": "Hiển thị",
+    "NEURON/allIons": "Tất cả ion",
+    "NEURON/potentialChart": "Đồ thị điện thế",
+    "NEURON/charges": "Điện tích",
+    "NEURON/concentrations": "Nồng độ",
+    "NEURON/fastForward": "Chuyển động nhanh",
+    "NEURON/normal": "Bình thường",
+    "NEURON/slowMotion": "Chuyển động chậm",
+    "NEURON/stimulateNeuron": "Kích thích\nNeuron",
+    "NEURON/neuron.title": "Neuron"
+  }
+}

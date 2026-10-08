@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "ph-scale",
+    "title": "Thang đo pH",
+    "englishTitle": "pH Scale",
+    "subjects": [
+      "Sinh học",
+      "Hóa học",
+      "Khoa học Trái Đất"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/ph-scale",
+    "referenceFile": ".tools/quiz-references/ph-scale.json",
+    "controlCount": 153
+  },
+  {
+    "slug": "ph-scale-basics",
+    "title": "Thang đo pH: phần cơ bản",
+    "englishTitle": "pH Scale: Basics",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/ph-scale-basics",
+    "referenceFile": ".tools/quiz-references/ph-scale-basics.json",
+    "controlCount": 97
+  },
+  {
+    "slug": "plinko-probability",
+    "title": "Xác suất Plinko",
+    "englishTitle": "Plinko Probability",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/plinko-probability",
+    "referenceFile": ".tools/quiz-references/plinko-probability.json",
+    "controlCount": 20
+  },
+  {
+    "slug": "projectile-data-lab",
+    "title": "Phòng thí nghiệm đạn tử",
+    "englishTitle": "Projectile Data Lab",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/projectile-data-lab",
+    "referenceFile": ".tools/quiz-references/projectile-data-lab.json",
+    "controlCount": 77
+  },
+  {
+    "slug": "projectile-motion",
+    "title": "Chuyển động của đạn tử",
+    "englishTitle": "Projectile Motion",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/projectile-motion",
+    "referenceFile": ".tools/quiz-references/projectile-motion.json",
+    "controlCount": 46
+  },
+  {
+    "slug": "projectile-sampling-distributions",
+    "title": "Phân bố mẫu của đạn tử",
+    "englishTitle": "Projectile Sampling Distributions",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/projectile-sampling-distributions",
+    "referenceFile": ".tools/quiz-references/projectile-sampling-distributions.json",
+    "controlCount": 41
+  },
+  {
+    "slug": "proportion-playground",
+    "title": "Sân chơi tỷ lệ",
+    "englishTitle": "Proportion Playground",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/proportion-playground",
+    "referenceFile": ".tools/quiz-references/proportion-playground.json",
+    "controlCount": 12
+  },
+  {
+    "slug": "quadrilateral",
+    "title": "Tứ giác",
+    "englishTitle": "Quadrilateral",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/quadrilateral",
+    "referenceFile": ".tools/quiz-references/quadrilateral.json",
+    "controlCount": 283
+  },
+  {
+    "slug": "quantum-coin-toss",
+    "title": "Xác suất lượng tử",
+    "englishTitle": "Quantum Coin Toss",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/quantum-coin-toss",
+    "referenceFile": ".tools/quiz-references/quantum-coin-toss.json",
+    "controlCount": 61
+  },
+  {
+    "slug": "quantum-measurement",
+    "title": "Thí nghiệm lượng tử",
+    "englishTitle": "Quantum Measurement",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/quantum-measurement",
+    "referenceFile": ".tools/quiz-references/quantum-measurement.json",
+    "controlCount": 125
+  },
+  {
+    "slug": "quantum-wave-interference",
+    "title": "Giao thoa sóng lượng tử",
+    "englishTitle": "Quantum Wave Interference",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/quantum-wave-interference",
+    "referenceFile": ".tools/quiz-references/quantum-wave-interference.json",
+    "controlCount": 339
+  },
+  {
+    "slug": "ratio-and-proportion",
+    "title": "Tỷ số và tỷ lệ",
+    "englishTitle": "Ratio and Proportion",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/ratio-and-proportion",
+    "referenceFile": ".tools/quiz-references/ratio-and-proportion.json",
+    "controlCount": 220
+  },
+  {
+    "slug": "reactants-products-and-leftovers",
+    "title": "Chất phản ứng, Sản phẩm và Chất dư",
+    "englishTitle": "Reactants, Products and Leftovers",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/reactants-products-and-leftovers",
+    "referenceFile": ".tools/quiz-references/reactants-products-and-leftovers.json",
+    "controlCount": 44
+  },
+  {
+    "slug": "resistance-in-a-wire",
+    "title": "Điện trở",
+    "englishTitle": "Resistance in a Wire",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/resistance-in-a-wire",
+    "referenceFile": ".tools/quiz-references/resistance-in-a-wire.json",
+    "controlCount": 42
+  },
+  {
+    "slug": "rutherford-scattering",
+    "title": "Tán xạ Rutherford",
+    "englishTitle": "Rutherford Scattering",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/rutherford-scattering",
+    "referenceFile": ".tools/quiz-references/rutherford-scattering.json",
+    "controlCount": 167
+  },
+  {
+    "slug": "sound-waves",
+    "title": "Sóng âm",
+    "englishTitle": "Sound Waves",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/sound-waves",
+    "referenceFile": ".tools/quiz-references/sound-waves.json",
+    "controlCount": 24
+  }
+]

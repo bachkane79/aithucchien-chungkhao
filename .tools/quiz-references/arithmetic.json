@@ -1,0 +1,33 @@
+{
+  "slug": "arithmetic",
+  "title": "Số học",
+  "englishTitle": "Arithmetic",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/arithmetic",
+  "controls": {
+    "ARITHMETIC/arithmetic.title": "Số học",
+    "ARITHMETIC/check": "Chấm điểm",
+    "ARITHMETIC/chooseYourLevel": "Chọn mức độ",
+    "ARITHMETIC/divide": "Chia",
+    "ARITHMETIC/factor": "Thừa số",
+    "ARITHMETIC/multiply": "Nhân",
+    "ARITHMETIC/pattern.level.0levelNumber": "Mức {0}",
+    "ARITHMETIC/tryAgain": "Thử lại",
+    "ARITHMETIC/unknownValueIndicator": "?",
+    "VEGAS/continue": "Tiếp tục",
+    "VEGAS/excellent": "Tuyệt vời!",
+    "VEGAS/good": "Tốt!",
+    "VEGAS/great": "Giỏi!",
+    "VEGAS/keepTrying": "Tiếp tục",
+    "VEGAS/label.level": "Mức độ: {0}",
+    "VEGAS/label.score.max": "Điểm: {0} / {1}",
+    "VEGAS/label.scorePattern": "Điểm: {0}",
+    "VEGAS/label.time": "Thời gian: {0}",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "VEGAS/pattern.0yourBest": "(Điểm cao nhất: {0})",
+    "VEGAS/yourNewBest": "(Kỷ lục mới!)"
+  }
+}

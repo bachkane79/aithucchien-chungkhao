@@ -1,0 +1,40 @@
+{
+  "slug": "fractions-equality",
+  "title": "Phân số: đẳng thức",
+  "englishTitle": "Fractions: Equality",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-equality",
+  "controls": {
+    "FRACTIONS_EQUALITY/screen.equalityLab": "Lab đẳng thức",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "VEGAS/pattern.score.number": "Điểm: {{score}}",
+    "VEGAS/score": "Điểm:",
+    "VEGAS/continue": "Tiếp tục",
+    "VEGAS/excellent": "Tuyệt vời!",
+    "VEGAS/good": "Tốt!",
+    "VEGAS/great": "Giỏi!",
+    "VEGAS/keepTrying": "Tiếp tục",
+    "VEGAS/label.level": "Mức độ: {0}",
+    "VEGAS/label.score.max": "Điểm: {0} / {1}",
+    "VEGAS/label.time": "Thời gian: {0}",
+    "VEGAS/pattern.0yourBest": "(Điểm cao nhất: {0})",
+    "VEGAS/yourNewBest": "(Kỷ lục mới!)",
+    "VEGAS/check": "Chấm điểm",
+    "VEGAS/label.scorePattern": "Điểm: {0}",
+    "FRACTIONS_COMMON/myMatches": "Các bộ đáp số của tôi",
+    "FRACTIONS_COMMON/ok": "OK",
+    "VEGAS/showAnswer": "Hiển thị câu trả lời",
+    "FRACTIONS_COMMON/timeNumberSec": "Thời gian: {0} s",
+    "VEGAS/tryAgain": "Thử lại",
+    "VEGAS/chooseYourLevel": "Chọn mức độ!",
+    "FRACTIONS_COMMON/fractionsChooseYourLevel": "Phân số: hãy chọn mức độ!",
+    "FRACTIONS_COMMON/levelTitlePattern": "Mức độ {{number}}",
+    "FRACTIONS_COMMON/mixedNumbersChooseYourLevel": "Hỗn số: hãy chọn mức độ!",
+    "FRACTION_MATCHER/fractionsTitle": "Phân số",
+    "FRACTIONS_EQUALITY/fractions-equality.title": "Phân số: đẳng thức",
+    "FRACTIONS_EQUALITY/screen.game": "Game"
+  }
+}

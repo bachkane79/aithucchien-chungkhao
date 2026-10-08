@@ -1,0 +1,23 @@
+{
+  "slug": "proportion-playground",
+  "title": "Sân chơi tỷ lệ",
+  "englishTitle": "Proportion Playground",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/proportion-playground",
+  "controls": {
+    "PROPORTION_PLAYGROUND/appleCost": "Tiền mua táo",
+    "PROPORTION_PLAYGROUND/apple": "Táo",
+    "PROPORTION_PLAYGROUND/pricePattern": "${{price}}",
+    "PROPORTION_PLAYGROUND/totalCost": "Tổng chi phí",
+    "PROPORTION_PLAYGROUND/apples": "Táo",
+    "PROPORTION_PLAYGROUND/costPerApple": "Chi phí cho mỗi quả táo",
+    "PROPORTION_PLAYGROUND/length": "Chiều dài",
+    "PROPORTION_PLAYGROUND/width": "Chiều rộng",
+    "PROPORTION_PLAYGROUND/pattern": "Mẫu",
+    "PROPORTION_PLAYGROUND/screen.explore": "Tìm hiểu",
+    "PROPORTION_PLAYGROUND/screen.predict": "Tiên đoán",
+    "PROPORTION_PLAYGROUND/proportion-playground.title": "Sân chơi tỷ lệ"
+  }
+}

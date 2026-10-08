@@ -1,0 +1,30 @@
+{
+  "slug": "expression-exchange",
+  "title": "Biểu thức",
+  "englishTitle": "Expression Exchange",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/expression-exchange",
+  "controls": {
+    "EXPRESSION_EXCHANGE/allCoefficients": "Hệ số",
+    "EXPRESSION_EXCHANGE/coinValues": "Giá trị đồng xu",
+    "EXPRESSION_EXCHANGE/myCollection": "Bộ sưu tập của tôi",
+    "EXPRESSION_EXCHANGE/numberCentsPattern": "{{number}} cents",
+    "EXPRESSION_EXCHANGE/total": "Tổng cộng",
+    "EXPRESSION_EXCHANGE/variables": "Biến",
+    "EXPRESSION_EXCHANGE/variableValues": "Giá trị của biến",
+    "EXPRESSION_EXCHANGE/basics": "Cơ bản",
+    "EXPRESSION_EXCHANGE/explore": "Khám phá",
+    "EXPRESSION_EXCHANGE/done": "Hoàn tất",
+    "EXPRESSION_EXCHANGE/youCompletedAllLevels": "Bạn đã kết thúc\ntrò chơi! ",
+    "EXPRESSION_EXCHANGE/next": "Kế tiếp",
+    "EXPRESSION_EXCHANGE/levelNumberPattern": " Mức {{levelNumber}}",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "EXPRESSION_EXCHANGE/chooseYourLevel": "Hãy chọn độ khó! ",
+    "EXPRESSION_EXCHANGE/game": "Trò chơi",
+    "EXPRESSION_EXCHANGE/negatives": "Số âm",
+    "EXPRESSION_EXCHANGE/expression-exchange.title": "Biểu thức"
+  }
+}

@@ -1,0 +1,2626 @@
+[
+  {
+    "id": "understanding-gravity-force-lab-basics",
+    "simulationSlug": "gravity-force-lab-basics",
+    "title": "Bài test hiểu biết: Lực hấp dẫn: Phần cơ bản",
+    "description": "Đọc khoảng cách tâm, thay đổi khối lượng và giải thích cặp lực hấp dẫn trong bản cơ bản.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/gravity-force-lab-basics"
+    ],
+    "questions": [
+      {
+        "id": "gravity-force-lab-basics-u01",
+        "prompt": "Bật 'Khoảng cách' rồi kéo hai quả cầu. Đại lượng hiện bằng km dùng trong định luật hấp dẫn là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khoảng cách giữa hai tâm."
+          },
+          {
+            "id": "b",
+            "text": "Khoảng hở giữa hai bề mặt."
+          },
+          {
+            "id": "c",
+            "text": "Tổng bán kính hai quả cầu."
+          },
+          {
+            "id": "d",
+            "text": "Khoảng cách giữa hai robot."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Trong F = Gm₁m₂/r², r đo giữa hai tâm quả cầu. Bản cơ bản hiển thị khoảng cách này bằng km; khoảng hở bề mặt không phải r.",
+        "skill": "interaction"
+      },
+      {
+        "id": "gravity-force-lab-basics-u02",
+        "prompt": "Bật 'Cường độ lực', tăng riêng 'Khối lượng 1', giữ khối lượng 2 và khoảng cách tâm không đổi. Hai số đo lực thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chỉ lực lên vật 2 tăng."
+          },
+          {
+            "id": "b",
+            "text": "Cả hai tăng, vẫn bằng nhau về độ lớn."
+          },
+          {
+            "id": "c",
+            "text": "Lực lên vật 1 giảm, lên vật 2 tăng."
+          },
+          {
+            "id": "d",
+            "text": "Cả hai không đổi."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Tăng m₁ làm tích m₁m₂ tăng nên lực tăng. Hai vật luôn tác dụng lên nhau cặp lực bằng nhau về độ lớn, ngược chiều, dù khối lượng khác nhau.",
+        "skill": "interaction"
+      },
+      {
+        "id": "gravity-force-lab-basics-u03",
+        "prompt": "Bật 'Kích thước không đổi'. Lựa chọn này giúp làm gì khi thay đổi khối lượng sau đó?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giữ lực bằng không."
+          },
+          {
+            "id": "b",
+            "text": "Buộc hai khối lượng bằng nhau."
+          },
+          {
+            "id": "c",
+            "text": "Giữ kích thước hình cầu khi điều chỉnh khối lượng."
+          },
+          {
+            "id": "d",
+            "text": "Khóa khoảng cách hai tâm."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ô này điều khiển cách biểu diễn kích thước quả cầu, không khóa vị trí hay khối lượng. Lực vẫn phụ thuộc khối lượng và khoảng cách tâm theo định luật hấp dẫn.",
+        "skill": "interaction"
+      },
+      {
+        "id": "gravity-force-lab-basics-u04",
+        "prompt": "Giữ hai khối lượng không đổi, tăng khoảng cách tâm từ r lên 2r trong phạm vi cho phép. Lực mới bằng bao nhiêu lần lực cũ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 lần."
+          },
+          {
+            "id": "b",
+            "text": "4 lần."
+          },
+          {
+            "id": "c",
+            "text": "1/2 lần."
+          },
+          {
+            "id": "d",
+            "text": "1/4 lần."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Lực tỉ lệ nghịch với bình phương khoảng cách: F mới = Gm₁m₂/(2r)² = F cũ/4. Đây không phải quan hệ tỉ lệ nghịch đơn thuần với r.",
+        "skill": "relationship"
+      },
+      {
+        "id": "gravity-force-lab-basics-u05",
+        "prompt": "Vật 1 nặng hơn vật 2. Hai lực hấp dẫn chúng tác dụng lên nhau có đặc điểm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cùng độ lớn, ngược chiều, đặt lên hai vật khác nhau."
+          },
+          {
+            "id": "b",
+            "text": "Lực do vật 1 tác dụng lớn hơn."
+          },
+          {
+            "id": "c",
+            "text": "Cùng độ lớn và cùng chiều."
+          },
+          {
+            "id": "d",
+            "text": "Triệt tiêu trên từng vật."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Theo định luật III Newton, lực và phản lực bằng nhau, ngược chiều. Chúng đặt lên hai vật khác nhau nên không tự triệt tiêu trên từng vật; gia tốc có thể khác nếu khối lượng khác.",
+        "skill": "theory"
+      },
+      {
+        "id": "gravity-force-lab-basics-u06",
+        "prompt": "Giữ khoảng cách tâm cố định, tăng cả m₁ và m₂ gấp đôi trong phạm vi cho phép. Lực thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng 2 lần."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi."
+          },
+          {
+            "id": "c",
+            "text": "Tăng 4 lần."
+          },
+          {
+            "id": "d",
+            "text": "Giảm 4 lần."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "F = Gm₁m₂/r². Mỗi khối lượng tăng 2 lần làm tích tăng 2 × 2 = 4 lần, còn mẫu số không đổi vì khoảng cách được giữ cố định.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-greenhouse-effect",
+    "simulationSlug": "greenhouse-effect",
+    "title": "Bài test hiểu biết: Hiệu ứng Nhà kính",
+    "description": "Phân biệt ánh sáng tới và hồng ngoại phát ra; khảo sát khí nhà kính, lớp hấp thu và cân bằng năng lượng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/greenhouse-effect"
+    ],
+    "questions": [
+      {
+        "id": "greenhouse-effect-u01",
+        "prompt": "Ở 'Photon', đã khởi đầu ánh sáng Mặt trời và không có mây. Tăng riêng nồng độ khí nhà kính, giữ nguồn sáng và điều kiện khác không đổi. Hiện tượng nào tăng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ánh sáng vàng tới bị hấp thu hoàn toàn ngay trong khí quyển."
+          },
+          {
+            "id": "b",
+            "text": "Hồng ngoại đỏ bị hấp thu và phát lại, một phần về bề mặt."
+          },
+          {
+            "id": "c",
+            "text": "Toàn bộ photon đỏ đi thẳng ra không gian."
+          },
+          {
+            "id": "d",
+            "text": "Bề mặt chỉ phát thêm ánh sáng vàng thay cho hồng ngoại."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Khí nhà kính tương tác với hồng ngoại do bề mặt phát ra và phát lại theo các hướng. Chúng không chủ yếu chặn toàn bộ ánh sáng khả kiến tới; phần hồng ngoại trở lại bề mặt góp phần làm ấm.",
+        "skill": "interaction"
+      },
+      {
+        "id": "greenhouse-effect-u02",
+        "prompt": "Trong 'Mô hình lớp', có một lớp hấp thu. Giữ nguồn sáng, phản xạ bề mặt và số lớp, đặt 'Năng suất hấp thu hồng ngoại' là 0%. Hồng ngoại gặp lớp thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tất cả phản xạ xuống."
+          },
+          {
+            "id": "b",
+            "text": "Bị giữ vĩnh viễn."
+          },
+          {
+            "id": "c",
+            "text": "Chuyển thành ánh sáng khả kiến."
+          },
+          {
+            "id": "d",
+            "text": "Đi qua mà không bị lớp hấp thu."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Mức 0% nghĩa là lớp không hấp thu hồng ngoại. Ở mức khác 0%, phần bị hấp thu được phát lại lên hoặc xuống; nút này không điều khiển phản xạ ánh sáng Mặt trời.",
+        "skill": "interaction"
+      },
+      {
+        "id": "greenhouse-effect-u03",
+        "prompt": "Trong 'Mô hình lớp', giữ nguồn sáng và các lớp như cũ, tăng riêng 'Năng suất phản xạ bề mặt'. Năng lượng Mặt trời bề mặt hấp thu thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giảm vì nhiều ánh sáng tới bị phản xạ."
+          },
+          {
+            "id": "b",
+            "text": "Tăng vì phản xạ tạo năng lượng."
+          },
+          {
+            "id": "c",
+            "text": "Không đổi vì chỉ hồng ngoại bị ảnh hưởng."
+          },
+          {
+            "id": "d",
+            "text": "Bằng 0 ở mọi mức phản xạ khác 0%."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Phản xạ là phần ánh sáng tới bị trả lại thay vì hấp thu. Nguồn cố định nên tăng phản xạ làm giảm công suất hấp thu; chỉ ở phản xạ 100% mới không hấp thu ánh sáng tại bề mặt trong mô hình.",
+        "skill": "interaction"
+      },
+      {
+        "id": "greenhouse-effect-u04",
+        "prompt": "Trong mô phỏng, ánh sáng Mặt trời tới khác bức xạ chủ yếu do bề mặt Trái Đất phát ra ra sao?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đều chỉ là hồng ngoại cùng bước sóng."
+          },
+          {
+            "id": "b",
+            "text": "Bề mặt chỉ phát ánh sáng khả kiến vàng."
+          },
+          {
+            "id": "c",
+            "text": "Ánh sáng tới biểu diễn vàng; hồng ngoại phát ra đỏ và bước sóng dài hơn."
+          },
+          {
+            "id": "d",
+            "text": "Hồng ngoại đỏ có bước sóng ngắn hơn ánh sáng vàng."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Mặt trời nóng nên bức xạ tới được mô hình hóa là bước sóng ngắn. Trái Đất mát hơn phát bức xạ nhiệt hồng ngoại bước sóng dài. Đỏ và vàng là màu quy ước để phân biệt các loại bức xạ.",
+        "skill": "theory"
+      },
+      {
+        "id": "greenhouse-effect-u05",
+        "prompt": "Khi nhiệt độ hệ ổn định, bảng 'Quyết toán năng lượng' ở đỉnh khí quyển phải có quan hệ trung bình nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Xuất luôn gấp đôi nhập."
+          },
+          {
+            "id": "b",
+            "text": "Nhập bằng xuất, dòng ròng xấp xỉ 0."
+          },
+          {
+            "id": "c",
+            "text": "Xuất bằng 0 khi có khí nhà kính."
+          },
+          {
+            "id": "d",
+            "text": "Nhập lớn hơn xuất mãi nhưng nhiệt độ không tăng."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Ổn định đòi hỏi không tích lũy năng lượng liên tục. Tính cả ánh sáng phản xạ và hồng ngoại thoát ra, công suất ra bằng vào; khí nhà kính thay đổi nhiệt độ cần để đạt cân bằng này.",
+        "skill": "relationship"
+      },
+      {
+        "id": "greenhouse-effect-u06",
+        "prompt": "Giữ nguồn sáng và phản xạ không đổi. Vì sao thêm khí nhà kính có thể làm bề mặt ấm hơn mà không tạo năng lượng mới?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Khí nhà kính tăng công suất của nguồn Mặt trời."
+          },
+          {
+            "id": "b",
+            "text": "Khí nhà kính chỉ phản xạ ánh sáng khả kiến vào bề mặt, không tương tác hồng ngoại."
+          },
+          {
+            "id": "c",
+            "text": "Năng lượng không bao giờ thoát ra nữa."
+          },
+          {
+            "id": "d",
+            "text": "Trao đổi hồng ngoại thay đổi, cân bằng đạt ở nhiệt độ bề mặt cao hơn."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Khí hấp thu rồi phát lại hồng ngoại, kể cả về bề mặt. Hệ ấm lên đến khi tổng năng lượng ra ở đỉnh khí quyển lại bằng vào; đây là thay đổi trao đổi năng lượng, không phải tạo năng lượng.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-hookes-law",
+    "simulationSlug": "hookes-law",
+    "title": "Bài test hiểu biết: Định luật Hooke",
+    "description": "Điều chỉnh lực và hệ số đàn hồi, đọc đồ thị lực–biến dạng và hiểu thế năng lò xo.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/hookes-law"
+    ],
+    "questions": [
+      {
+        "id": "hookes-law-u01",
+        "prompt": "Ở 'Phần giới thiệu', giữ k cố định, tăng độ lớn 'Lực tác dụng' kéo giãn lò xo. Ở cân bằng, độ giãn thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giảm vì lực đàn hồi ngược chiều."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi vì k cố định."
+          },
+          {
+            "id": "c",
+            "text": "Tăng theo độ lớn lực kéo."
+          },
+          {
+            "id": "d",
+            "text": "Luôn bằng chiều dài tự nhiên."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ở cân bằng, F kéo = kx về độ lớn. k không đổi nên lực kéo lớn hơn cần độ giãn lớn hơn; lực đàn hồi ngược chiều lực kéo nhưng không làm quan hệ này đảo ngược.",
+        "skill": "interaction"
+      },
+      {
+        "id": "hookes-law-u02",
+        "prompt": "Giữ cùng lực kéo khác 0 ở cân bằng, tăng riêng 'Hệ số đàn hồi của lò xo'. Kết quả nào đúng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Độ giãn giảm vì x = F/k."
+          },
+          {
+            "id": "b",
+            "text": "Độ giãn tăng vì x = Fk."
+          },
+          {
+            "id": "c",
+            "text": "Lực đàn hồi bằng 0."
+          },
+          {
+            "id": "d",
+            "text": "Độ giãn không đổi ở mọi k."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "k lớn hơn nghĩa là lò xo cứng hơn. Với lực kéo giữ cố định, kx = F cho x nhỏ hơn; lực đàn hồi vẫn cân bằng lực kéo chứ không biến mất.",
+        "skill": "interaction"
+      },
+      {
+        "id": "hookes-law-u03",
+        "prompt": "Bật 'Đồ thị lực', xét lực đàn hồi theo độ biến dạng có dấu x với k cố định. Đồ thị F đàn hồi theo x là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đường ngang F = k."
+          },
+          {
+            "id": "b",
+            "text": "Parabol luôn dương."
+          },
+          {
+            "id": "c",
+            "text": "Đường thẳng qua gốc, độ dốc +k."
+          },
+          {
+            "id": "d",
+            "text": "Đường thẳng qua gốc, độ dốc −k."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "F đàn hồi = −kx nên độ dốc âm, thể hiện lực phục hồi chống biến dạng. Lực tác dụng để giữ cân bằng có dấu ngược lại; không được đồng nhất hai lực trên đồ thị.",
+        "skill": "interaction"
+      },
+      {
+        "id": "hookes-law-u04",
+        "prompt": "Trong miền đàn hồi, giữ k cố định, tăng độ lớn biến dạng từ x lên 2x. Thế năng đàn hồi thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng 2 lần."
+          },
+          {
+            "id": "b",
+            "text": "Tăng 4 lần."
+          },
+          {
+            "id": "c",
+            "text": "Giảm một nửa."
+          },
+          {
+            "id": "d",
+            "text": "Không đổi."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "U = ½kx² nên tăng |x| gấp đôi làm thế năng tăng gấp bốn. Độ lớn lực k|x| chỉ tăng gấp đôi, vì quan hệ lực và quan hệ năng lượng khác nhau.",
+        "skill": "relationship"
+      },
+      {
+        "id": "hookes-law-u05",
+        "prompt": "Khi lò xo bị nén so với chiều dài tự nhiên, lực đàn hồi có xu hướng nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nén thêm lò xo."
+          },
+          {
+            "id": "b",
+            "text": "Cùng chiều lực gây nén."
+          },
+          {
+            "id": "c",
+            "text": "Đưa lò xo về trạng thái không biến dạng."
+          },
+          {
+            "id": "d",
+            "text": "Bằng 0 vì Hooke chỉ áp dụng khi giãn."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Lực Hooke là lực phục hồi F = −kx cho cả nén và giãn trong miền đàn hồi. Khi nén, lực chống lại biến dạng nén; khi giãn, lực chống lại biến dạng giãn.",
+        "skill": "theory"
+      },
+      {
+        "id": "hookes-law-u06",
+        "prompt": "Hai lò xo có k₂ = 2k₁, cùng độ lớn biến dạng khác 0 trong miền Hooke. Lực đàn hồi lò xo 2 so với 1 ra sao?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gấp đôi."
+          },
+          {
+            "id": "b",
+            "text": "Bằng một nửa."
+          },
+          {
+            "id": "c",
+            "text": "Bằng nhau."
+          },
+          {
+            "id": "d",
+            "text": "Gấp bốn."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "|F| = k|x|. Với cùng |x|, lực tỉ lệ thuận với k, nên k tăng 2 lần cho lực tăng 2 lần; k không bị bình phương trong công thức lực.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-isotopes-and-atomic-mass",
+    "simulationSlug": "isotopes-and-atomic-mass",
+    "title": "Bài test hiểu biết: Đồng vị và nguyên tử khối",
+    "description": "Tạo đồng vị, so sánh hỗn hợp tự chọn và tự nhiên, tính nguyên tử khối trung bình theo tỉ lệ.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/isotopes-and-atomic-mass"
+    ],
+    "questions": [
+      {
+        "id": "isotopes-and-atomic-mass-u01",
+        "prompt": "Ở 'Đồng vị', chọn carbon rồi thêm một neutron vào hạt nhân, không đổi nguyên tố đã chọn. Điều gì thay đổi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Số proton tăng một."
+          },
+          {
+            "id": "b",
+            "text": "Số khối tăng một, nguyên tố vẫn là carbon."
+          },
+          {
+            "id": "c",
+            "text": "Carbon thành nitrogen."
+          },
+          {
+            "id": "d",
+            "text": "Số khối giảm một."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "A = Z + N. Thêm neutron làm N và A tăng một, còn số proton Z quyết định nguyên tố không đổi. Ta tạo đồng vị khác của carbon, không tạo nguyên tố mới.",
+        "skill": "interaction"
+      },
+      {
+        "id": "isotopes-and-atomic-mass-u02",
+        "prompt": "Trong 'Hỗn hợp của tôi', giữ hai loại đồng vị cùng nguyên tố, tăng tỉ lệ loại nặng hơn. Nguyên tử khối trung bình thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Luôn bằng khối lượng loại nhẹ."
+          },
+          {
+            "id": "b",
+            "text": "Giảm về 0."
+          },
+          {
+            "id": "c",
+            "text": "Vượt khối lượng loại nặng nhất."
+          },
+          {
+            "id": "d",
+            "text": "Tăng về phía khối lượng loại nặng."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Trung bình là tổng khối lượng từng đồng vị nhân phần số của nó. Tăng trọng số loại nặng làm trung bình tăng, nhưng nó vẫn nằm giữa các khối lượng thành phần khi các tỉ lệ có tổng bằng 1.",
+        "skill": "interaction"
+      },
+      {
+        "id": "isotopes-and-atomic-mass-u03",
+        "prompt": "Với cùng nguyên tố, chuyển sang 'Hỗn hợp trong thiên nhiên'. Trung bình dùng tỉ lệ nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tỉ lệ đồng vị tự nhiên của nguyên tố được mô phỏng."
+          },
+          {
+            "id": "b",
+            "text": "Tỉ lệ người dùng vừa đặt, luôn giữ nguyên."
+          },
+          {
+            "id": "c",
+            "text": "Tất cả đồng vị có tỉ lệ bằng nhau."
+          },
+          {
+            "id": "d",
+            "text": "Chỉ số neutron của một nguyên tử."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Chế độ thiên nhiên dùng độ phổ biến tự nhiên của đồng vị. Chế độ tự chọn cho thành phần khác nên trung bình tự chọn không nhất thiết trùng giá trị tự nhiên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "isotopes-and-atomic-mass-u04",
+        "prompt": "Hai nguyên tử nào là đồng vị của nhau?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cùng neutron, khác proton."
+          },
+          {
+            "id": "b",
+            "text": "Cùng số khối, khác proton."
+          },
+          {
+            "id": "c",
+            "text": "Cùng proton, khác neutron."
+          },
+          {
+            "id": "d",
+            "text": "Cùng electron là đủ, bất kể hạt nhân."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Đồng vị cùng nguyên tố nên có cùng Z, tức số proton. Khác số neutron tạo khác số khối; cùng số electron hoặc cùng số khối chưa đủ để là đồng vị.",
+        "skill": "theory"
+      },
+      {
+        "id": "isotopes-and-atomic-mass-u05",
+        "prompt": "Hỗn hợp giả định có 75% nguyên tử khối 10 amu và 25% nguyên tử khối 11 amu. Trung bình bằng bao nhiêu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "10,50 amu."
+          },
+          {
+            "id": "b",
+            "text": "10,25 amu."
+          },
+          {
+            "id": "c",
+            "text": "10,75 amu."
+          },
+          {
+            "id": "d",
+            "text": "21 amu."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Trung bình có trọng số theo số nguyên tử là 0,75 × 10 + 0,25 × 11 = 10,25 amu. Trung bình đơn giản 10,50 chỉ đúng nếu hai loại có tỉ lệ bằng nhau.",
+        "skill": "relationship"
+      },
+      {
+        "id": "isotopes-and-atomic-mass-u06",
+        "prompt": "Vì sao nguyên tử khối trung bình có thể không nguyên dù số khối từng đồng vị là số nguyên?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hạt nhân có nửa neutron."
+          },
+          {
+            "id": "b",
+            "text": "Số proton thay đổi liên tục."
+          },
+          {
+            "id": "c",
+            "text": "amu bắt buộc mọi giá trị có phần thập phân."
+          },
+          {
+            "id": "d",
+            "text": "Đó là trung bình theo tỉ lệ, không phải số nucleon của một hạt nhân."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Số khối đếm proton và neutron nên nguyên. Nguyên tử khối trung bình có trọng số của nhiều nguyên tử; khối lượng từng đồng vị cũng không nhất thiết bằng đúng số khối do liên kết hạt nhân.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-john-travoltage",
+    "simulationSlug": "john-travoltage",
+    "title": "Bài test hiểu biết: John Travoltage",
+    "description": "Dùng chuyển động chân và tay để nhận biết tích điện do cọ xát, phóng điện và vai trò khoảng cách tới tay nắm.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/john-travoltage"
+    ],
+    "questions": [
+      {
+        "id": "john-travoltage-u01",
+        "prompt": "Để tay John xa tay nắm cửa, di chuyển chân qua lại để cọ bàn chân trên thảm. Trước khi có tia lửa, điều gì xảy ra trong mô phỏng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Electron dư tích lũy trên cơ thể John."
+          },
+          {
+            "id": "b",
+            "text": "Proton rời hạt nhân và chạy tới tay."
+          },
+          {
+            "id": "c",
+            "text": "John mất hết electron sau mỗi lượt cọ."
+          },
+          {
+            "id": "d",
+            "text": "Tay nắm tự tạo electron trong chân."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Cọ chân trên thảm chuyển electron từ thảm sang cơ thể trong mô hình. Tay xa tay nắm giúp tránh phóng điện sớm, nên có thể quan sát điện tích dư tích lũy; không phải proton chạy qua cơ thể.",
+        "skill": "interaction"
+      },
+      {
+        "id": "john-travoltage-u02",
+        "prompt": "John đã có nhiều electron dư. Giữ chân không cọ thêm, đưa riêng bàn tay lại gần tay nắm cửa. Khi tia lửa xuất hiện, số electron dư trên John thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng vì tay nắm nạp thêm điện."
+          },
+          {
+            "id": "b",
+            "text": "Giảm vì electron phóng từ John sang tay nắm."
+          },
+          {
+            "id": "c",
+            "text": "Không đổi vì tia lửa chỉ là ánh sáng."
+          },
+          {
+            "id": "d",
+            "text": "Đổi thành số proton dư."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Tia lửa biểu diễn phóng điện qua khe không khí từ cơ thể tích điện tới tay nắm dẫn điện. Electron dư trên John giảm, phù hợp thông báo trước/sau phóng điện; năng lượng điện chuyển một phần thành ánh sáng và nhiệt.",
+        "skill": "interaction"
+      },
+      {
+        "id": "john-travoltage-u03",
+        "prompt": "Giữ tay xa cửa và cho chân chuyển động ở vùng không chạm thảm. So với cọ chân trên thảm, vì sao thao tác này không tiếp tục nạp electron theo cơ chế mô phỏng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chuyển động chân chỉ nạp điện khi tay ở cửa."
+          },
+          {
+            "id": "b",
+            "text": "Chân phải đứng yên mới nạp điện."
+          },
+          {
+            "id": "c",
+            "text": "Không có sự cọ xát bàn chân–thảm để chuyển electron."
+          },
+          {
+            "id": "d",
+            "text": "Chân ngoài thảm tự động nối đất hoàn toàn."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Nguồn tích điện được mô hình hóa là cọ xát bàn chân với thảm. Chuyển động trong vùng không tiếp xúc thảm không thực hiện tương tác đó; không thể suy ra cứ đưa chân khỏi thảm là cơ thể mất toàn bộ điện tích.",
+        "skill": "interaction"
+      },
+      {
+        "id": "john-travoltage-u04",
+        "prompt": "So sánh hai lần đưa tay gần cùng tay nắm trong cùng điều kiện: một lần John có ít electron dư, một lần có nhiều hơn. Nhận định định tính nào phù hợp?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nhiều electron dư luôn làm tia lửa khó xuất hiện hơn."
+          },
+          {
+            "id": "b",
+            "text": "Tích điện không ảnh hưởng phóng điện."
+          },
+          {
+            "id": "c",
+            "text": "Có electron dư thì mọi khoảng cách đều có tia lửa."
+          },
+          {
+            "id": "d",
+            "text": "Nhiều điện tích dư có thể gây phóng điện qua khe lớn hơn."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Điện tích dư lớn hơn thường tạo chênh lệch điện thế và điện trường mạnh hơn. Trong cùng môi trường, nó có thể vượt ngưỡng đánh thủng không khí ở khoảng cách lớn hơn; không có nghĩa tia lửa xuất hiện ở mọi khoảng cách.",
+        "skill": "relationship"
+      },
+      {
+        "id": "john-travoltage-u05",
+        "prompt": "Nếu cơ thể John nhận thêm electron từ thảm, dấu điện tích thuần của cơ thể là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Âm vì electron mang điện tích âm."
+          },
+          {
+            "id": "b",
+            "text": "Dương vì số hạt tăng."
+          },
+          {
+            "id": "c",
+            "text": "Trung hòa vì electron không có điện tích."
+          },
+          {
+            "id": "d",
+            "text": "Dương vì proton vẫn ở trong cơ thể."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Vật trung hòa có điện tích dương và âm cân bằng. Nhận thêm electron làm lượng điện tích âm vượt lượng dương nên cơ thể mang điện âm; số hạt tăng không quyết định điện tích là dương.",
+        "skill": "theory"
+      },
+      {
+        "id": "john-travoltage-u06",
+        "prompt": "Cọ chân tạo điện tích dư trên John nhưng không tạo điện tích từ hư không. Phát biểu nào phù hợp bảo toàn điện tích?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mọi electron mới được sinh ra từ ma sát."
+          },
+          {
+            "id": "b",
+            "text": "Proton và electron cùng biến mất."
+          },
+          {
+            "id": "c",
+            "text": "Electron chuyển giữa thảm và cơ thể; tổng điện tích của hệ kín được bảo toàn."
+          },
+          {
+            "id": "d",
+            "text": "Thảm và John đều nhận điện tích âm không có nguồn."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ma sát có thể làm electron chuyển từ vật này sang vật khác. John nhận điện tích âm thì phần đối ứng mất electron; xét toàn bộ hệ kín, tổng điện tích không đổi, dù điện tích riêng mỗi vật thay đổi.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-keplers-laws",
+    "simulationSlug": "keplers-laws",
+    "title": "Bài test hiểu biết: Định luật Kepler",
+    "description": "Đọc tiêu điểm ellipse, diện tích quét và chu kỳ; phân biệt quỹ đạo liên kết với thoát ly hoặc va chạm.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/keplers-laws"
+    ],
+    "questions": [
+      {
+        "id": "keplers-laws-u01",
+        "prompt": "Ở 'Định luật 1', chọn một quỹ đạo ellipse không tròn rồi bật 'Tiêu điểm' và 'Trục'. Ngôi sao nằm ở đâu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ở tâm hình ellipse."
+          },
+          {
+            "id": "b",
+            "text": "Trên mọi điểm của trục phụ."
+          },
+          {
+            "id": "c",
+            "text": "Tại một tiêu điểm của ellipse."
+          },
+          {
+            "id": "d",
+            "text": "Luôn ở đỉnh xa nhất của ellipse."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Với quỹ đạo liên kết Kepler, ngôi sao ở một tiêu điểm, không ở tâm ellipse khi tâm sai khác 0. Quỹ đạo tròn là trường hợp đặc biệt khi hai tiêu điểm trùng tâm.",
+        "skill": "interaction"
+      },
+      {
+        "id": "keplers-laws-u02",
+        "prompt": "Ở 'Định luật 2', bật 'Diện tích quét', 'Giá trị diện tích' và 'Giá trị thời gian', dùng các phần chu kỳ bằng nhau. Hai vùng gần cận điểm và viễn điểm có diện tích thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bằng nhau nếu khoảng thời gian quét bằng nhau."
+          },
+          {
+            "id": "b",
+            "text": "Vùng cận điểm luôn lớn hơn vì tốc độ cao."
+          },
+          {
+            "id": "c",
+            "text": "Vùng viễn điểm luôn lớn hơn vì bán kính dài."
+          },
+          {
+            "id": "d",
+            "text": "Chỉ bằng nhau khi quỹ đạo là đường tròn."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Định luật II cho diện tích quét bằng nhau trong thời gian bằng nhau. Gần cận điểm bán kính ngắn nhưng hành tinh đi nhanh; gần viễn điểm bán kính dài nhưng đi chậm, nên diện tích trên đơn vị thời gian giữ nguyên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "keplers-laws-u03",
+        "prompt": "Bật 'Luôn luôn tròn' rồi xem 'Tâm sai' của quỹ đạo tròn được mô phỏng. Giá trị tâm sai tương ứng là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1."
+          },
+          {
+            "id": "b",
+            "text": "Một giá trị âm."
+          },
+          {
+            "id": "c",
+            "text": "Lớn hơn 1."
+          },
+          {
+            "id": "d",
+            "text": "0."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Tâm sai e = c/a, với c là khoảng cách tâm ellipse tới tiêu điểm. Đường tròn có hai tiêu điểm trùng tâm nên c = 0 và e = 0; e lớn hơn hoặc bằng 1 không mô tả ellipse liên kết thông thường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "keplers-laws-u04",
+        "prompt": "Xét hai quỹ đạo liên kết quanh cùng ngôi sao, bỏ qua khối lượng hành tinh. Nếu bán trục chính tăng gấp đôi, chu kỳ tăng bao nhiêu lần?",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 lần."
+          },
+          {
+            "id": "b",
+            "text": "2√2 lần."
+          },
+          {
+            "id": "c",
+            "text": "4 lần."
+          },
+          {
+            "id": "d",
+            "text": "√2 lần."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Với khối lượng sao cố định, T² tỉ lệ a³. Vì vậy T mới/T cũ = √(2³) = 2√2. Phải dùng bán trục chính, không dùng một khoảng cách tức thời bất kỳ tới sao.",
+        "skill": "relationship"
+      },
+      {
+        "id": "keplers-laws-u05",
+        "prompt": "Trên cùng quỹ đạo ellipse liên kết quanh một ngôi sao, ở đâu hành tinh có tốc độ lớn nhất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tại viễn điểm."
+          },
+          {
+            "id": "b",
+            "text": "Ở mọi điểm như nhau."
+          },
+          {
+            "id": "c",
+            "text": "Tại cận điểm."
+          },
+          {
+            "id": "d",
+            "text": "Ở tâm ellipse dù hành tinh không đi qua đó."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Bảo toàn mômen động lượng và năng lượng trong trường hấp dẫn tâm khiến hành tinh nhanh nhất khi gần sao nhất. Diện tích quét trên đơn vị thời gian không đổi không có nghĩa tốc độ dài không đổi.",
+        "skill": "theory"
+      },
+      {
+        "id": "keplers-laws-u06",
+        "prompt": "Khi điều chỉnh trạng thái ban đầu và xuất hiện cảnh báo 'Vật sẽ ra khỏi hệ thống', kết luận nào đúng về việc áp dụng công thức chu kỳ quỹ đạo ellipse?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không có chu kỳ lặp lại của ellipse liên kết để dùng công thức đó."
+          },
+          {
+            "id": "b",
+            "text": "Chu kỳ vẫn hữu hạn và bằng 0."
+          },
+          {
+            "id": "c",
+            "text": "Mọi chuyển động hấp dẫn đều là ellipse kín."
+          },
+          {
+            "id": "d",
+            "text": "Quỹ đạo thoát có hai tiêu điểm như ellipse và lặp lại định kỳ."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Quỹ đạo thoát không phải quỹ đạo ellipse liên kết tuần hoàn. Quan hệ chu kỳ T² theo a³ cho ellipse đòi hỏi trạng thái liên kết; cảnh báo va chạm cũng cần được chú ý, không xem mọi điều kiện đầu là quỹ đạo bền.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-least-squares-regression",
+    "simulationSlug": "least-squares-regression",
+    "title": "Bài test hiểu biết: Hồi quy bình phương cực tiểu",
+    "description": "Đọc thặng dư, chọn bộ dữ liệu và giải thích bình phương cực tiểu, tương quan cùng giới hạn suy luận nhân quả.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/least-squares-regression"
+    ],
+    "questions": [
+      {
+        "id": "least-squares-regression-u01",
+        "prompt": "Giữ bộ điểm dữ liệu cố định, bật 'Đường hồi quy của tôi' và 'Thặng dư bình phương'. Khi điều chỉnh đường của mình, tiêu chí nào cho đường bình phương cực tiểu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tổng khoảng cách ngang lớn nhất."
+          },
+          {
+            "id": "b",
+            "text": "Tổng bình phương thặng dư theo phương dọc nhỏ nhất."
+          },
+          {
+            "id": "c",
+            "text": "Mọi thặng dư đều dương."
+          },
+          {
+            "id": "d",
+            "text": "Đường phải qua gốc tọa độ."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Hồi quy tuyến tính y theo x tối thiểu hóa tổng (yᵢ − ŷᵢ)². Các ô thặng dư bình phương giúp thấy độ lớn đóng góp của từng điểm; không có điều kiện chung buộc đường đi qua gốc.",
+        "skill": "interaction"
+      },
+      {
+        "id": "least-squares-regression-u02",
+        "prompt": "Bật 'Thặng dư' với một đường đang hiển thị. Một điểm nằm phía trên đường ở cùng hoành độ. Thặng dư y thực tế trừ y dự đoán có dấu gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Âm."
+          },
+          {
+            "id": "b",
+            "text": "Bằng 0 dù không nằm trên đường."
+          },
+          {
+            "id": "c",
+            "text": "Dương."
+          },
+          {
+            "id": "d",
+            "text": "Luôn bằng hệ số tương quan."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Thặng dư eᵢ = yᵢ − ŷᵢ. Điểm ở trên đường có y thực tế lớn hơn y dự đoán nên thặng dư dương; điểm ở dưới có thặng dư âm. Đây là chênh lệch dọc, không phải hệ số tương quan.",
+        "skill": "interaction"
+      },
+      {
+        "id": "least-squares-regression-u03",
+        "prompt": "Chọn bộ dữ liệu 'Chiều cao theo cỡ giày'. Nếu dùng đường hồi quy để dự đoán, đại lượng nào là đầu vào x và đầu ra y?",
+        "options": [
+          {
+            "id": "a",
+            "text": "x là cỡ giày Mỹ, y là chiều cao theo inch."
+          },
+          {
+            "id": "b",
+            "text": "x là chiều cao, y là cỡ giày."
+          },
+          {
+            "id": "c",
+            "text": "x là năm, y là giá giày."
+          },
+          {
+            "id": "d",
+            "text": "x là số quốc gia, y là tuổi thọ."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Tên trục của bộ dữ liệu đặt cỡ giày (Mỹ) ở x và chiều cao (in) ở y. Dự đoán y từ x phải theo đúng trục; đổi chiều hồi quy là một bài toán khác, không tự động cho cùng đường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "least-squares-regression-u04",
+        "prompt": "Một bộ dữ liệu có r gần −1. Mô tả nào phù hợp nhất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không có quan hệ tuyến tính vì r âm."
+          },
+          {
+            "id": "b",
+            "text": "Quan hệ tuyến tính dương rất mạnh."
+          },
+          {
+            "id": "c",
+            "text": "Mọi giá trị y đều âm."
+          },
+          {
+            "id": "d",
+            "text": "Quan hệ tuyến tính âm mạnh: x lớn thường đi cùng y nhỏ."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Dấu âm chỉ chiều liên hệ ngược, còn |r| gần 1 cho thấy các điểm gần một xu hướng tuyến tính rõ. Nó không nói mọi y phải âm, cũng không biến tương quan thành quan hệ nhân quả.",
+        "skill": "relationship"
+      },
+      {
+        "id": "least-squares-regression-u05",
+        "prompt": "Bộ dữ liệu tuổi thọ và số người trên mỗi TV cho thấy tương quan. Kết luận nào được dữ liệu quan sát này hỗ trợ mà không vượt quá bằng chứng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mua thêm TV chắc chắn trực tiếp tăng tuổi thọ."
+          },
+          {
+            "id": "b",
+            "text": "Hai đại lượng có liên hệ trong dữ liệu; chưa đủ chứng minh TV gây thay đổi tuổi thọ."
+          },
+          {
+            "id": "c",
+            "text": "Tương quan cho phép loại mọi yếu tố kinh tế."
+          },
+          {
+            "id": "d",
+            "text": "Chỉ cần r khác 0 là đã có quan hệ nhân quả."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Tương quan mô tả đồng biến thiên, không tự chứng minh nguyên nhân. Thu nhập, y tế và nhiều yếu tố khác có thể cùng ảnh hưởng; muốn suy luận nhân quả cần thiết kế và bằng chứng bổ sung.",
+        "skill": "theory"
+      },
+      {
+        "id": "least-squares-regression-u06",
+        "prompt": "Vì sao tiêu chí bình phương cực tiểu dùng tổng bình phương thặng dư thay vì chỉ tổng thặng dư có dấu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bình phương luôn làm mọi thặng dư nhỏ hơn."
+          },
+          {
+            "id": "b",
+            "text": "Tổng có dấu luôn chỉ ra đường tốt nhất duy nhất."
+          },
+          {
+            "id": "c",
+            "text": "Bình phương tránh sai lệch dương và âm triệt tiêu, đồng thời phạt sai lệch lớn hơn mạnh hơn."
+          },
+          {
+            "id": "d",
+            "text": "Bình phương buộc mọi điểm nằm đúng trên đường."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Sai lệch dương và âm có thể có tổng bằng 0 dù dự đoán rất tệ. Bình phương tạo đóng góp không âm và tăng nhanh với độ lớn sai lệch, cho một tiêu chí đánh giá độ phù hợp không bị triệt tiêu dấu.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-magnet-and-compass",
+    "simulationSlug": "magnet-and-compass",
+    "title": "Bài test hiểu biết: Nam châm và la bàn",
+    "description": "Khảo sát hướng kim la bàn, đảo cực nam châm, đo từ trường và hiểu đường sức trong–ngoài nam châm thẳng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/magnet-and-compass"
+    ],
+    "questions": [
+      {
+        "id": "magnet-and-compass-u01",
+        "prompt": "Không bật 'Thêm Trái Đất', giữ la bàn cố định bên ngoài nam châm. Bấm 'Đảo cực' của nam châm, giữ cường độ và vị trí nam châm. Sau khi ổn định, kim la bàn thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không đổi vì cường độ không đổi."
+          },
+          {
+            "id": "b",
+            "text": "Luôn quay về phía trên màn hình."
+          },
+          {
+            "id": "c",
+            "text": "Mất khả năng định hướng."
+          },
+          {
+            "id": "d",
+            "text": "Đổi hướng vì từ trường tại điểm đó đảo chiều."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Đảo cực đổi hướng từ trường của nam châm ở cùng điểm. Kim la bàn định hướng theo từ trường nên đầu Bắc của kim quay theo hướng mới; giữ cường độ không có nghĩa giữ hướng trường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnet-and-compass-u02",
+        "prompt": "Bật 'Trường kế', đặt đầu đo ở một điểm cố định ngoài nam châm, không thêm Trái Đất. Tăng riêng 'Cường độ' nam châm, giữ vị trí và chiều nam châm. Độ lớn B đọc được thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng."
+          },
+          {
+            "id": "b",
+            "text": "Giảm."
+          },
+          {
+            "id": "c",
+            "text": "Luôn bằng 0."
+          },
+          {
+            "id": "d",
+            "text": "Không đổi vì đầu đo đứng yên."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Với hình học và điểm đo cố định, nam châm mạnh hơn tạo từ trường có độ lớn lớn hơn. Đầu đo không cần chuyển động để thấy thay đổi B; sự thay đổi này không nhất thiết đổi hướng trường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnet-and-compass-u03",
+        "prompt": "Bật 'Xem bên trong' để quan sát từ trường trong nam châm thẳng. Chiều đường sức bên trong so với bên ngoài thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đều đi từ Bắc sang Nam ở mọi nơi."
+          },
+          {
+            "id": "b",
+            "text": "Bên trong đi từ Nam sang Bắc, nối với phần ngoài Bắc sang Nam."
+          },
+          {
+            "id": "c",
+            "text": "Bên trong không có từ trường."
+          },
+          {
+            "id": "d",
+            "text": "Đường sức luôn kết thúc ở tâm nam châm."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Đường sức từ tạo vòng kín. Ngoài nam châm, chiều quy ước đi từ cực Bắc tới cực Nam; bên trong đi từ Nam tới Bắc. Tùy chọn xem trong cho thấy phần nối của cấu trúc trường này.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnet-and-compass-u04",
+        "prompt": "Đầu Bắc của kim la bàn ở một điểm ngoài nam châm chỉ theo đại lượng nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hướng từ kim tới tâm nam châm, ở mọi vị trí."
+          },
+          {
+            "id": "b",
+            "text": "Hướng có giá trị B nhỏ nhất."
+          },
+          {
+            "id": "c",
+            "text": "Hướng của vector từ trường địa phương."
+          },
+          {
+            "id": "d",
+            "text": "Hướng chuyển động của người kéo nam châm."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "La bàn chịu mômen do từ trường và định hướng đầu Bắc theo B tại vị trí kim. Trường quanh nam châm có hướng biến thiên theo vị trí, nên kim không phải lúc nào cũng chỉ thẳng tới tâm nam châm.",
+        "skill": "theory"
+      },
+      {
+        "id": "magnet-and-compass-u05",
+        "prompt": "Không có trường Trái Đất, giữ nam châm và cường độ cố định. Đưa trường kế ra xa dần dọc phần kéo dài của trục, bên ngoài cùng một cực. Độ lớn B thường thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng vì đường sức dài hơn."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi ở mọi khoảng cách."
+          },
+          {
+            "id": "c",
+            "text": "Đổi dấu độ lớn qua mỗi cm."
+          },
+          {
+            "id": "d",
+            "text": "Giảm khi khoảng cách tăng."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Từ trường của nam châm thẳng yếu đi theo khoảng cách trong vùng ngoài. Nêu cùng một trục và cùng phía tránh so sánh các điểm có hình học khác nhau; độ lớn B không mang dấu âm.",
+        "skill": "relationship"
+      },
+      {
+        "id": "magnet-and-compass-u06",
+        "prompt": "Khi thêm mô hình 'Trái Đất', vì sao đầu Bắc la bàn có thể hướng gần Bắc địa lí?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vùng gần Bắc địa lí có tính chất cực Nam từ, hút đầu Bắc của kim."
+          },
+          {
+            "id": "b",
+            "text": "Bắc địa lí bắt buộc là cực Bắc từ theo quy tắc hai cực cùng tên hút nhau."
+          },
+          {
+            "id": "c",
+            "text": "Trái Đất không có từ trường nên kim hướng theo trọng lực."
+          },
+          {
+            "id": "d",
+            "text": "Kim chỉ Bắc vì mọi đường sức đều thẳng đứng."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Hai cực khác tên hút nhau. Vùng gần Bắc địa lí hoạt động như cực Nam từ đối với kim Bắc; tên gọi địa lí và quy ước cực nam châm cần phân biệt, và trục từ không trùng hoàn toàn trục quay.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-magnets-and-electromagnets",
+    "simulationSlug": "magnets-and-electromagnets",
+    "title": "Bài test hiểu biết: Nam châm và nam châm điện",
+    "description": "So sánh nam châm thẳng với cuộn dây có dòng điện; khảo sát nguồn một chiều, số vòng dây và chiều từ trường.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/magnets-and-electromagnets"
+    ],
+    "questions": [
+      {
+        "id": "magnets-and-electromagnets-u01",
+        "prompt": "Ở 'Nam châm điện', chọn nguồn điện không đổi. Giữ số vòng dây, hình học cuộn dây và điểm đo, tăng độ lớn hiệu thế từ một giá trị dương lên giá trị dương lớn hơn. Trường kế cho xu hướng nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "B nhỏ hơn vì dòng điện bị cản hơn."
+          },
+          {
+            "id": "b",
+            "text": "B lớn hơn do dòng điện qua cuộn tăng trong mô hình."
+          },
+          {
+            "id": "c",
+            "text": "B luôn bằng 0 với nguồn một chiều."
+          },
+          {
+            "id": "d",
+            "text": "B không đổi vì chỉ số vòng quyết định."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Với cuộn dây và nguồn một chiều trong mô hình, hiệu thế lớn hơn tạo dòng lớn hơn. Từ trường cuộn dây phụ thuộc dòng và số vòng, nên ở cùng điểm đo độ lớn B tăng khi các yếu tố hình học giữ nguyên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnets-and-electromagnets-u02",
+        "prompt": "Giữ cuộn dây, số vòng và độ lớn hiệu thế, đổi hiệu thế nguồn một chiều từ dương sang âm cùng độ lớn. Đầu Bắc kim la bàn gần cuộn sẽ phản ứng thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Giữ nguyên hướng vì độ lớn hiệu thế bằng nhau."
+          },
+          {
+            "id": "b",
+            "text": "Mọi từ trường biến mất vĩnh viễn."
+          },
+          {
+            "id": "c",
+            "text": "Đổi hướng theo từ trường bị đảo chiều."
+          },
+          {
+            "id": "d",
+            "text": "Kim quay 90° vì độ lớn hiệu thế không đổi."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Đổi dấu hiệu thế làm dòng điện đổi chiều. Theo quy tắc nắm tay phải, từ trường cuộn dây đổi chiều và các cực Bắc–Nam đổi chỗ; la bàn định hướng theo trường mới.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnets-and-electromagnets-u03",
+        "prompt": "Ở 'Nam châm điện', giữ nguồn một chiều ở cùng hiệu thế khác 0 và điểm đo cố định. Tăng 'Số vòng dây' trong mô hình, giữ các điều kiện khác. Độ lớn từ trường thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng theo tác dụng cộng của các vòng dây."
+          },
+          {
+            "id": "b",
+            "text": "Giảm vì mỗi vòng tạo trường ngược vòng trước."
+          },
+          {
+            "id": "c",
+            "text": "Luôn không đổi vì chỉ nguồn điện quan trọng."
+          },
+          {
+            "id": "d",
+            "text": "Đổi chiều sau mỗi lần thêm một vòng."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Các vòng quấn cùng chiều tạo từ trường cùng hướng trong lòng cuộn. Trong điều kiện điều khiển của mô phỏng, thêm vòng làm tác dụng từ mạnh hơn, không tự đảo chiều; đảo chiều dòng mới đảo chiều trường.",
+        "skill": "interaction"
+      },
+      {
+        "id": "magnets-and-electromagnets-u04",
+        "prompt": "So với nam châm thẳng, đặc điểm nào của nam châm điện cuộn dây thể hiện cơ chế tạo trường?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nó chỉ có một cực từ."
+          },
+          {
+            "id": "b",
+            "text": "Nó luôn cần chuyển động để có từ trường."
+          },
+          {
+            "id": "c",
+            "text": "Nó không ảnh hưởng la bàn."
+          },
+          {
+            "id": "d",
+            "text": "Từ trường của nó gắn với dòng điện chạy qua cuộn dây."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Dòng điện tạo từ trường và cuộn dây sắp xếp các đóng góp trường thành dạng giống nam châm thẳng. Trong mô hình cuộn dây không có từ dư, ngắt dòng làm mất tác dụng từ của dòng; cả hai đều có hai cực từ.",
+        "skill": "theory"
+      },
+      {
+        "id": "magnets-and-electromagnets-u05",
+        "prompt": "Với cùng cuộn dây, cùng điểm đo và cùng độ lớn dòng điện, chỉ đảo chiều dòng. Vector từ trường thay đổi ra sao?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Độ lớn giảm một nửa, hướng giữ nguyên."
+          },
+          {
+            "id": "b",
+            "text": "Độ lớn giữ nguyên, hướng đảo ngược."
+          },
+          {
+            "id": "c",
+            "text": "Độ lớn tăng gấp đôi, hướng giữ nguyên."
+          },
+          {
+            "id": "d",
+            "text": "Không có thay đổi nào."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Từ trường do dòng điện tỉ lệ tuyến tính với dòng có dấu trong mô hình. Thay I bằng −I làm B đổi dấu vector, không đổi độ lớn; đây là thay đổi hướng chứ không phải tăng cường độ.",
+        "skill": "relationship"
+      },
+      {
+        "id": "magnets-and-electromagnets-u06",
+        "prompt": "Nếu chọn cách hiển thị dòng 'Electron' thay cho 'Quy ước' mà giữ nguyên nguồn và cuộn, nhận định nào đúng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Dòng thực tế đảo chiều nên hai cực đổi chỗ."
+          },
+          {
+            "id": "b",
+            "text": "Từ trường tự giảm về 0."
+          },
+          {
+            "id": "c",
+            "text": "Electron chuyển động ngược chiều dòng quy ước; đổi cách biểu diễn không đổi trường vật lí."
+          },
+          {
+            "id": "d",
+            "text": "Electron và dòng quy ước có cùng chiều vì đều mang điện dương."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Dòng quy ước được định nghĩa theo chiều chuyển động điện tích dương. Electron âm đi ngược chiều đó; lựa chọn hiển thị chỉ thay quy ước mô tả, không thay hiệu thế hay dòng vật lí qua cuộn.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-make-a-ten",
+    "simulationSlug": "make-a-ten",
+    "title": "Bài test hiểu biết: Tạo ra 10",
+    "description": "Dùng các mức Game để chọn chiến lược tạo chục, cộng theo hàng và nhận biết việc đổi nhóm bảo toàn tổng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/make-a-ten"
+    ],
+    "questions": [
+      {
+        "id": "make-a-ten-u01",
+        "prompt": "Chọn 'Mức độ 2' trong Game, mức cộng 9 với số một chữ số. Với bài 9 + 6, cách tách 6 nào giúp tạo 10 ngay?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tách 6 thành 3 + 3 rồi tính 9 + 3 trước."
+          },
+          {
+            "id": "b",
+            "text": "Tách 6 thành 6 + 0 rồi giữ nguyên 9."
+          },
+          {
+            "id": "c",
+            "text": "Tách 6 thành 2 + 4 để tạo 11."
+          },
+          {
+            "id": "d",
+            "text": "Tách 6 thành 1 + 5: (9 + 1) + 5."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "9 cần thêm 1 để thành 10. Tách 6 thành 1 và 5 bảo toàn số lượng, nên 9 + 6 = 10 + 5 = 15; đây là chiến lược tạo chục của mức này, không phải cộng thêm ngoài 6.",
+        "skill": "interaction"
+      },
+      {
+        "id": "make-a-ten-u02",
+        "prompt": "Chọn 'Mức độ 4', mức cộng với bội của 10. Trong bài 30 + 40, cách đọc theo nhóm chục nào đúng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "3 chục + 4 chục = 7 chục, tức 70."
+          },
+          {
+            "id": "b",
+            "text": "3 chục + 4 chục = 7 đơn vị, tức 7."
+          },
+          {
+            "id": "c",
+            "text": "3 chục + 4 chục = 12 chục, tức 120."
+          },
+          {
+            "id": "d",
+            "text": "30 + 40 = 3040 vì ghép chữ số."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "30 và 40 lần lượt là 3 và 4 nhóm mười. Cộng số nhóm được 7 nhóm mười, tức 70; phải giữ đơn vị hàng chục, không đổi thành đơn vị hay ghép kí hiệu số.",
+        "skill": "interaction"
+      },
+      {
+        "id": "make-a-ten-u03",
+        "prompt": "Chọn 'Mức độ 7', được mô tả là cộng số hai chữ số có tổng lớn hơn 100. Bài nào phù hợp đúng mô tả mức này?",
+        "options": [
+          {
+            "id": "a",
+            "text": "24 + 35."
+          },
+          {
+            "id": "b",
+            "text": "8 + 95."
+          },
+          {
+            "id": "c",
+            "text": "68 + 47."
+          },
+          {
+            "id": "d",
+            "text": "120 + 15."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "68 và 47 đều có hai chữ số, tổng là 115 > 100. 24 + 35 chưa vượt 100, còn hai bài kia có một số không phải hai chữ số; chọn mức cần xét cả kiểu số và phạm vi tổng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "make-a-ten-u04",
+        "prompt": "Vì sao đổi 10 khối đơn vị thành một nhóm chục không làm thay đổi giá trị tổng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vì một chục bằng một đơn vị."
+          },
+          {
+            "id": "b",
+            "text": "Vì 10 đơn vị và 1 chục cùng biểu diễn lượng bằng 10."
+          },
+          {
+            "id": "c",
+            "text": "Vì đổi nhóm luôn làm tăng thêm 10."
+          },
+          {
+            "id": "d",
+            "text": "Vì chỉ cách viết số, không số lượng, mới quan trọng."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Trong hệ thập phân, 1 chục = 10 đơn vị. Đổi cách nhóm là đổi biểu diễn của cùng lượng, không thêm hay bớt vật; tính cộng dựa trên bảo toàn số lượng qua việc đổi nhóm.",
+        "skill": "theory"
+      },
+      {
+        "id": "make-a-ten-u05",
+        "prompt": "Để tính 28 + 7 bằng tạo chục, chuyển 2 đơn vị từ 7 sang 28. Biểu thức mới bằng biểu thức cũ là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "30 + 7."
+          },
+          {
+            "id": "b",
+            "text": "26 + 5."
+          },
+          {
+            "id": "c",
+            "text": "30 + 9."
+          },
+          {
+            "id": "d",
+            "text": "30 + 5."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "28 nhận 2 thành 30 thì 7 phải mất 2 còn 5, nên tổng giữ nguyên: 28 + 7 = 30 + 5 = 35. Chỉ tăng một số mà không giảm số kia sẽ làm thay đổi tổng.",
+        "skill": "relationship"
+      },
+      {
+        "id": "make-a-ten-u06",
+        "prompt": "Khi cộng 146 + 27, có 6 + 7 = 13 đơn vị. Cách đổi nhóm nào đúng để tiếp tục cộng theo hàng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Đổi 10 trong 13 đơn vị thành 1 chục, giữ lại 3 đơn vị."
+          },
+          {
+            "id": "b",
+            "text": "Đổi cả 13 đơn vị thành 13 chục."
+          },
+          {
+            "id": "c",
+            "text": "Bỏ 3 đơn vị dư vì đã tạo chục."
+          },
+          {
+            "id": "d",
+            "text": "Giữ 13 ở hàng đơn vị và không tính hàng chục."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "13 đơn vị gồm 1 chục và 3 đơn vị. Chục mới được cộng vào các chục sẵn có: 4 + 2 + 1 = 7 chục; cùng 1 trăm và 3 đơn vị cho tổng 173, không mất hay tạo đơn vị.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-masses-and-springs",
+    "simulationSlug": "masses-and-springs",
+    "title": "Bài test hiểu biết: Con lắc lò xo",
+    "description": "Dùng màn hình Năng lượng và Vector của bản đầy đủ để phân tích tắt dần, cân bằng lực và chu kỳ lò xo.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/masses-and-springs"
+    ],
+    "questions": [
+      {
+        "id": "masses-and-springs-u01",
+        "prompt": "Ở 'Năng lượng', cho vật dao động rồi tăng 'Ma sát', giữ khối lượng, k và trọng lực. Đồ thị cho thấy cơ năng và nhiệt năng thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cơ năng tăng, nhiệt năng giảm."
+          },
+          {
+            "id": "b",
+            "text": "Cả hai đều luôn bằng 0."
+          },
+          {
+            "id": "c",
+            "text": "Cơ năng giảm dần, nhiệt năng tăng do chuyển hóa năng lượng."
+          },
+          {
+            "id": "d",
+            "text": "Cơ năng không đổi dù dao động tắt dần."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ma sát làm động năng và thế năng cơ học chuyển thành nhiệt năng. Dao động tắt dần không có nghĩa năng lượng biến mất: khi đồ thị tính cả nhiệt năng, năng lượng toàn phần vẫn được theo dõi trong mô hình.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-u02",
+        "prompt": "Ở 'Vector', bật các lực và 'Hợp lực'. Cho vật đứng yên tại vị trí cân bằng, với trọng lực khác 0. So sánh lực lò xo và trọng lực thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ngược chiều, cùng độ lớn nên hợp lực bằng 0."
+          },
+          {
+            "id": "b",
+            "text": "Cả hai đều bằng 0 vì vật đứng yên."
+          },
+          {
+            "id": "c",
+            "text": "Lực lò xo nhỏ hơn trọng lực."
+          },
+          {
+            "id": "d",
+            "text": "Hai lực cùng chiều nên hợp lực gấp đôi trọng lực."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Cân bằng tĩnh đòi hỏi hợp lực bằng 0: lực lò xo hướng lên cân bằng trọng lực hướng xuống. Từng lực không bằng 0; vật đứng yên không đồng nghĩa không có lực tác dụng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-u03",
+        "prompt": "Ở 'Lab', giữ cùng vật, cùng lò xo và k, đổi trọng lực từ 'Trái đất' sang 'Mặt trăng'. Chờ vật đứng yên. Độ giãn so với chiều dài tự nhiên thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lớn hơn vì vật nhẹ hơn."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi vì khối lượng không đổi."
+          },
+          {
+            "id": "c",
+            "text": "Bằng 0 vì Mặt trăng không có trọng lực."
+          },
+          {
+            "id": "d",
+            "text": "Nhỏ hơn vì gia tốc trọng trường nhỏ hơn."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Ở cân bằng, kΔl = mg nên Δl = mg/k. Khối lượng và k giữ nguyên, g ở Mặt trăng nhỏ hơn làm độ giãn nhỏ hơn; Mặt trăng vẫn có trọng lực.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-u04",
+        "prompt": "Trong mô hình lò xo lí tưởng không ma sát, giữ k và g, tăng khối lượng từ m lên 4m trong phạm vi cho phép. Chu kỳ dao động quanh cân bằng thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng 4 lần."
+          },
+          {
+            "id": "b",
+            "text": "Tăng 2 lần."
+          },
+          {
+            "id": "c",
+            "text": "Giảm 2 lần."
+          },
+          {
+            "id": "d",
+            "text": "Không đổi."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Chu kỳ T = 2π√(m/k). Khối lượng tăng 4 lần làm T tăng √4 = 2 lần; trọng lực dịch vị trí cân bằng nhưng không xuất hiện trong chu kỳ của mô hình lò xo tuyến tính.",
+        "skill": "relationship"
+      },
+      {
+        "id": "masses-and-springs-u05",
+        "prompt": "Trong dao động thẳng đứng không ma sát, khi vật qua vị trí cân bằng, tốc độ có đặc điểm nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bằng 0 vì hợp lực bằng 0."
+          },
+          {
+            "id": "b",
+            "text": "Nhỏ nhất ở mọi chu kỳ."
+          },
+          {
+            "id": "c",
+            "text": "Lớn nhất trong chu kỳ dao động đó."
+          },
+          {
+            "id": "d",
+            "text": "Luôn bằng tốc độ tại biên."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Tại cân bằng, tổng thế năng đàn hồi và trọng trường đạt cực tiểu quanh vị trí đó nên động năng cực đại. Hợp lực và gia tốc tức thời bằng 0 không có nghĩa vận tốc bằng 0; ở biên vận tốc mới bằng 0.",
+        "skill": "theory"
+      },
+      {
+        "id": "masses-and-springs-u06",
+        "prompt": "Giữ m không đổi, bỏ ma sát, tăng k gấp đôi. Chu kỳ lò xo thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Còn 1/√2 lần."
+          },
+          {
+            "id": "b",
+            "text": "Tăng √2 lần."
+          },
+          {
+            "id": "c",
+            "text": "Còn 1/2 lần."
+          },
+          {
+            "id": "d",
+            "text": "Tăng 2 lần."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "T = 2π√(m/k), nên T mới/T cũ = √(k/(2k)) = 1/√2. Lò xo cứng hơn làm dao động nhanh hơn nhưng chu kỳ không tỉ lệ nghịch trực tiếp với k.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-masses-and-springs-basics",
+    "simulationSlug": "masses-and-springs-basics",
+    "title": "Bài test hiểu biết: Con lắc lò xo: Phần cơ bản",
+    "description": "Khảo sát Độ giãn, Dao động và Lab của bản cơ bản; phân biệt vị trí đứng yên, độ cứng và vai trò trọng lực.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/masses-and-springs-basics"
+    ],
+    "questions": [
+      {
+        "id": "masses-and-springs-basics-u01",
+        "prompt": "Ở 'Độ giãn', treo vật, bật 'Chiều dài tự nhiên' và 'Vị trí lúc vật đứng yên'. Hai mốc giúp xác định đại lượng nào khi vật đã đứng yên?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Biên độ dao động tự do."
+          },
+          {
+            "id": "b",
+            "text": "Độ giãn cân bằng so với chiều dài lò xo không treo vật."
+          },
+          {
+            "id": "c",
+            "text": "Quãng đường vật đi trong một chu kỳ."
+          },
+          {
+            "id": "d",
+            "text": "Tốc độ cực đại của vật."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Chiều dài tự nhiên là mốc chưa chịu tải; mốc đứng yên cho vị trí cân bằng khi treo vật. Chênh lệch hai mốc phản ánh độ giãn tĩnh, khác biên độ đo từ tâm dao động tới biên.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-basics-u02",
+        "prompt": "Ở 'Độ giãn', giữ vật và trọng lực, tăng riêng 'Độ cứng lò xo'. Khi vật đứng yên trở lại, lò xo có độ giãn thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lớn hơn."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi vì trọng lượng giữ nguyên."
+          },
+          {
+            "id": "c",
+            "text": "Nhỏ hơn."
+          },
+          {
+            "id": "d",
+            "text": "Luôn bằng 0 dù trọng lực khác 0."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ở cân bằng, kΔl = mg. Giữ mg cố định và tăng độ cứng k làm Δl giảm; lò xo vẫn phải giãn một lượng để tạo lực đỡ trọng lượng, không tự trở về độ giãn bằng 0.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-basics-u03",
+        "prompt": "Ở 'Dao động', giữ cùng vật, cùng độ cứng và trọng lực; tăng 'Ma sát' từ 'Không có' lên mức lớn hơn. Dạng chuyển động thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Biên độ giảm dần rõ hơn theo thời gian."
+          },
+          {
+            "id": "b",
+            "text": "Biên độ tự tăng mãi."
+          },
+          {
+            "id": "c",
+            "text": "Vật không còn chịu trọng lực."
+          },
+          {
+            "id": "d",
+            "text": "Chiều dài tự nhiên tự tăng sau mỗi chu kỳ."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ma sát tiêu hao cơ năng thành nhiệt nên dao động tắt dần. Nó thay đổi sự suy giảm biên độ, không phải xóa trọng lực hay làm chiều dài tự nhiên liên tục thay đổi; ma sát mạnh có thể khiến vật không dao động qua lại nhiều.",
+        "skill": "interaction"
+      },
+      {
+        "id": "masses-and-springs-basics-u04",
+        "prompt": "Giữ độ cứng và trọng lực, treo lần lượt hai vật có khối lượng m và 2m, đều đứng yên. Độ giãn của vật 2m so với m thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bằng nhau."
+          },
+          {
+            "id": "b",
+            "text": "Bằng một nửa."
+          },
+          {
+            "id": "c",
+            "text": "Gấp bốn."
+          },
+          {
+            "id": "d",
+            "text": "Gấp đôi."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Độ giãn cân bằng Δl = mg/k. Khi m tăng gấp đôi và g, k cố định, trọng lượng và độ giãn cùng tăng gấp đôi; đây là độ giãn tĩnh, không phải chu kỳ hay biên độ.",
+        "skill": "relationship"
+      },
+      {
+        "id": "masses-and-springs-basics-u05",
+        "prompt": "Vật treo đứng yên dưới lò xo trong trọng lực khác 0. Phát biểu nào giải thích đúng vì sao nó không tiếp tục rơi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trọng lực đã biến mất."
+          },
+          {
+            "id": "b",
+            "text": "Lực đàn hồi hướng lên cân bằng trọng lực hướng xuống."
+          },
+          {
+            "id": "c",
+            "text": "Khối lượng đã giảm về 0."
+          },
+          {
+            "id": "d",
+            "text": "Hai lực cùng chiều nhưng vật không chuyển động."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Đứng yên ổn định nghĩa là tổng lực bằng 0. Vật vẫn chịu trọng lực mg và lực đàn hồi; hai lực có cùng độ lớn, ngược chiều ở vị trí cân bằng nên không gây gia tốc tiếp tục rơi.",
+        "skill": "theory"
+      },
+      {
+        "id": "masses-and-springs-basics-u06",
+        "prompt": "Trong lò xo lí tưởng không ma sát, kéo vật xuống dưới tâm dao động rồi thả từ nghỉ. Ở vị trí thả ban đầu, vận tốc và hướng hợp lực thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vận tốc cực đại, hợp lực bằng 0."
+          },
+          {
+            "id": "b",
+            "text": "Vận tốc bằng 0, hợp lực hướng xuống."
+          },
+          {
+            "id": "c",
+            "text": "Vận tốc bằng 0, hợp lực hướng lên về tâm dao động."
+          },
+          {
+            "id": "d",
+            "text": "Vận tốc hướng lên, hợp lực luôn bằng 0."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Thả từ nghỉ nghĩa là vận tốc ban đầu bằng 0. Dưới cân bằng, lò xo giãn thêm nên lực kéo lên lớn hơn trọng lực, tạo hợp lực hướng về tâm dao động; vị trí này là một biên, không phải điểm tốc độ cực đại.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-mean-share-and-balance",
+    "simulationSlug": "mean-share-and-balance",
+    "title": "Bài test hiểu biết: Trung bình: phân chia và cân bằng",
+    "description": "Khảo sát san đều nước, phân phối kẹo và điểm tựa để hiểu trung bình như chia đều và cân bằng.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/mean-share-and-balance"
+    ],
+    "questions": [
+      {
+        "id": "mean-share-and-balance-u01",
+        "prompt": "Ở 'Phân đều', có ba cốc giống nhau với mức nước lần lượt 1, 2 và 3 đơn vị. Mở ống nối, không thêm hay bớt nước. Mức nước cuối ở mỗi cốc là bao nhiêu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1 đơn vị."
+          },
+          {
+            "id": "b",
+            "text": "3 đơn vị."
+          },
+          {
+            "id": "c",
+            "text": "6 đơn vị."
+          },
+          {
+            "id": "d",
+            "text": "2 đơn vị."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Ba cốc giống nhau nên sau cân bằng có cùng mực nước. Tổng lượng nước tương ứng 1 + 2 + 3 = 6 đơn vị được bảo toàn, chia cho 3 cốc cho mức 2; không phải lấy mức cao nhất hay tổng làm mức mỗi cốc.",
+        "skill": "interaction"
+      },
+      {
+        "id": "mean-share-and-balance-u02",
+        "prompt": "Ở 'Chia đều', ba người có 1, 4 và 7 thanh kẹo. Kéo hai thanh từ chồng 7 sang chồng 1, giữ số người và tổng kẹo. Trung bình thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Không đổi, vẫn là 4 thanh mỗi người."
+          },
+          {
+            "id": "b",
+            "text": "Giảm từ 4 xuống 3 vì đã di chuyển 2 thanh."
+          },
+          {
+            "id": "c",
+            "text": "Tăng từ 4 lên 6 vì người ít có thêm kẹo."
+          },
+          {
+            "id": "d",
+            "text": "Trở thành 7 vì đó là chồng cao nhất ban đầu."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Di chuyển kẹo giữa các chồng không đổi tổng 12 và số người 3. Trung bình 12/3 = 4 vẫn giữ nguyên, dù độ không đều giảm; phân phối thực tế và trung bình là hai khái niệm khác nhau.",
+        "skill": "interaction"
+      },
+      {
+        "id": "mean-share-and-balance-u03",
+        "prompt": "Ở 'Điểm cân bằng', đặt ba quả bóng cùng khối lượng tại các vị trí 2 m, 4 m và 6 m trên trục. Kéo 'Tam giác tựa' tới đâu để dự đoán rồi kiểm tra cân bằng?",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 m."
+          },
+          {
+            "id": "b",
+            "text": "6 m."
+          },
+          {
+            "id": "c",
+            "text": "4 m."
+          },
+          {
+            "id": "d",
+            "text": "12 m."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Với các quả bóng bằng khối lượng, điểm cân bằng là trung bình vị trí: (2 + 4 + 6)/3 = 4 m. Tại đó mômen hai phía bù nhau; 12 m là tổng các vị trí chứ không phải trung bình.",
+        "skill": "interaction"
+      },
+      {
+        "id": "mean-share-and-balance-u04",
+        "prompt": "Một nhóm 4 người có tổng 20 quả táo. Nếu giữ nguyên tổng táo và đổi thành 5 người để chia công bằng, phần trung bình mỗi người là bao nhiêu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5 quả."
+          },
+          {
+            "id": "b",
+            "text": "4 quả."
+          },
+          {
+            "id": "c",
+            "text": "20 quả."
+          },
+          {
+            "id": "d",
+            "text": "25 quả."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Trung bình bằng tổng chia số người. Tổng giữ ở 20, số người tăng từ 4 lên 5 làm phần trung bình giảm từ 5 xuống 20/5 = 4; không cần tạo thêm táo khi tăng số người.",
+        "skill": "relationship"
+      },
+      {
+        "id": "mean-share-and-balance-u05",
+        "prompt": "Với dữ liệu 1, 2 và 9, vì sao trung bình 4 không bắt buộc trùng với một giá trị ban đầu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Trung bình luôn phải là giá trị xuất hiện nhiều nhất."
+          },
+          {
+            "id": "b",
+            "text": "Trung bình luôn là số ở giữa sau khi sắp xếp."
+          },
+          {
+            "id": "c",
+            "text": "Dữ liệu có 9 nên trung bình phải bằng 9."
+          },
+          {
+            "id": "d",
+            "text": "Trung bình là tổng chia số giá trị, biểu diễn mức chia đều chứ không cần là một quan sát."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "(1 + 2 + 9)/3 = 4 dù không có quan sát nào bằng 4. Trung bình là mức chung nếu san đều toàn bộ lượng; nó khác trung vị 2 và không nhất thiết trùng một phần tử của dữ liệu.",
+        "skill": "theory"
+      },
+      {
+        "id": "mean-share-and-balance-u06",
+        "prompt": "Giữ số cốc không đổi. Nếu tăng mức nước ban đầu trong mỗi cốc thêm cùng 1 đơn vị, mức nước trung bình thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng thêm 1 đơn vị."
+          },
+          {
+            "id": "b",
+            "text": "Tăng thêm số cốc đơn vị."
+          },
+          {
+            "id": "c",
+            "text": "Không đổi vì các cốc tăng như nhau."
+          },
+          {
+            "id": "d",
+            "text": "Tăng gấp đôi bất kể mức ban đầu."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Với n cốc, tổng tăng n đơn vị, nên trung bình tăng n/n = 1. Đây là cộng cùng một hằng số vào mọi giá trị, không phải nhân mọi giá trị với 2; cần giữ số cốc cố định.",
+        "skill": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "understanding-membrane-transport",
+    "simulationSlug": "membrane-transport",
+    "title": "Bài test hiểu biết: Vận chuyển qua màng tế bào",
+    "description": "So sánh khuếch tán đơn giản, tính chọn lọc của kênh, cổng ligand–điện thế và bơm Na⁺/K⁺ dùng ATP.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/membrane-transport"
+    ],
+    "questions": [
+      {
+        "id": "membrane-transport-u01",
+        "prompt": "Ở 'Khuếch tán đơn giản', chọn O₂ và thêm nhiều O₂ ngoài tế bào, ít hơn bên trong; không thay các điều kiện khác. Xu hướng vận chuyển ròng ban đầu là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ra ngoài từ nơi ít tới nơi nhiều."
+          },
+          {
+            "id": "b",
+            "text": "Vào trong từ nơi nồng độ O₂ cao tới thấp."
+          },
+          {
+            "id": "c",
+            "text": "Không qua màng vì mọi phân tử cần kênh."
+          },
+          {
+            "id": "d",
+            "text": "Chỉ vào trong nếu thêm ATP."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "O₂ là phân tử nhỏ, không phân cực nên khuếch tán qua lớp lipid. Khi nồng độ ngoài cao hơn trong, chuyển động ngẫu nhiên tạo dòng ròng vào trong; các phân tử riêng lẻ vẫn có thể đi cả hai chiều.",
+        "skill": "interaction"
+      },
+      {
+        "id": "membrane-transport-u02",
+        "prompt": "Ở 'Khuếch tán tăng cường', thêm Na⁺ và K⁺ phía ngoài nhưng chỉ đặt kênh thoát chọn lọc Na⁺ vào màng, không có protein khác. Ion nào đi qua kênh này?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Chỉ K⁺ vì nó lớn hơn."
+          },
+          {
+            "id": "b",
+            "text": "Na⁺ và K⁺ như nhau vì đều dương."
+          },
+          {
+            "id": "c",
+            "text": "Na⁺; kênh có tính chọn lọc, không cho K⁺ đi qua kênh này."
+          },
+          {
+            "id": "d",
+            "text": "Không ion nào vì kênh thoát luôn đóng."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Kênh thoát trong mô hình luôn mở nhưng chọn lọc loại ion. Kênh Na⁺ cho Na⁺ đi qua, không đồng nghĩa cho mọi ion dương qua; ion không tự đi qua lớp lipid như O₂.",
+        "skill": "interaction"
+      },
+      {
+        "id": "membrane-transport-u03",
+        "prompt": "Ở 'Khuếch tán tăng cường', đặt kênh Na⁺ có cổng ligand đang đóng. Dùng 'Thêm Ligand' rồi gắn ligand tam giác đúng vị trí. Kênh phản ứng thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mở khi ligand phù hợp gắn vào vị trí liên kết."
+          },
+          {
+            "id": "b",
+            "text": "Thành bơm dùng ATP."
+          },
+          {
+            "id": "c",
+            "text": "Đổi thành kênh K⁺."
+          },
+          {
+            "id": "d",
+            "text": "Giữ đóng vì chỉ ligand ngôi sao mở kênh Na⁺."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Trong mô hình, kênh ligand Na⁺ nhận ligand tam giác, còn kênh K⁺ nhận ligand ngôi sao. Gắn đúng ligand làm mở cổng; đó là điều khiển trạng thái kênh, không đổi tính chọn lọc hay biến kênh thành bơm.",
+        "skill": "interaction"
+      },
+      {
+        "id": "membrane-transport-u04",
+        "prompt": "Ở 'Khuếch tán tăng cường', đặt cả kênh Na⁺ và K⁺ có cổng hiệu thế. Giữ lượng chất tan, đổi 'Điện thế màng' từ −70 mV sang −50 mV. Trạng thái nào đúng trong mô hình?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cả hai kênh đều mở."
+          },
+          {
+            "id": "b",
+            "text": "Kênh K⁺ mở, Na⁺ đóng."
+          },
+          {
+            "id": "c",
+            "text": "Cả hai đóng như ở −70 mV."
+          },
+          {
+            "id": "d",
+            "text": "Kênh Na⁺ mở, K⁺ vẫn đóng."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Các mức điện thế rời rạc điều khiển cổng khác nhau: ở −50 mV, kênh Na⁺ mở còn kênh K⁺ đóng; kênh K⁺ mở ở +30 mV. Đây là hành vi của các kênh cụ thể trong mô hình, không phải mọi protein đều mở đồng thời.",
+        "skill": "interaction"
+      },
+      {
+        "id": "membrane-transport-u05",
+        "prompt": "O₂ khuếch tán qua màng và nồng độ hai phía đã gần bằng nhau, không có nguồn tạo hay tiêu thụ O₂. Điều gì tiếp tục xảy ra?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Mọi phân tử dừng chuyển động."
+          },
+          {
+            "id": "b",
+            "text": "O₂ vẫn qua lại hai chiều nhưng dòng ròng trung bình xấp xỉ 0."
+          },
+          {
+            "id": "c",
+            "text": "Chỉ O₂ bên ngoài chuyển động."
+          },
+          {
+            "id": "d",
+            "text": "Màng bắt đầu tạo ATP từ O₂ tự động."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Cân bằng khuếch tán là cân bằng động: phân tử vẫn chuyển động nhiệt và qua màng hai chiều. Khi không còn chênh lệch nồng độ, lượng trao đổi hai chiều trung bình cân bằng, không phải mọi chuyển động ngừng lại.",
+        "skill": "theory"
+      },
+      {
+        "id": "membrane-transport-u06",
+        "prompt": "Ở 'Vận chuyển chủ động', bơm Na⁺/K⁺ có đủ ATP, Na⁺ bên trong và K⁺ bên ngoài. Một chu trình đầy đủ của bơm trong mô hình vận chuyển thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "2 Na⁺ ra ngoài và 3 K⁺ vào trong, không cần năng lượng."
+          },
+          {
+            "id": "b",
+            "text": "3 Na⁺ vào trong và 2 K⁺ ra ngoài."
+          },
+          {
+            "id": "c",
+            "text": "3 Na⁺ ra ngoài và 2 K⁺ vào trong, gắn với sử dụng ATP."
+          },
+          {
+            "id": "d",
+            "text": "Mọi ion chỉ đi xuống nồng độ qua một kênh luôn mở."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Bơm gắn 3 Na⁺ phía trong, dùng ATP/phosphate để đổi cấu hình và đưa Na⁺ ra; sau đó gắn 2 K⁺ phía ngoài rồi đưa vào. Bơm có thể duy trì chênh lệch nồng độ bằng năng lượng, khác kênh khuếch tán thụ động.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-models-of-the-hydrogen-atom",
+    "simulationSlug": "models-of-the-hydrogen-atom",
+    "title": "Bài test hiểu biết: Mô hình nguyên tử Hydrogen",
+    "description": "Kết nối điều khiển ánh sáng, phổ phát xạ và mức năng lượng electron với mô hình lượng tử của hydrogen.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/models-of-the-hydrogen-atom"
+    ],
+    "questions": [
+      {
+        "id": "models-of-the-hydrogen-atom-u01",
+        "prompt": "Ở 'Mức năng lượng', chọn mô hình Bohr và nguồn 'Đơn sắc'. Electron ban đầu ở n = 1; chọn bước sóng cho chuyển dời n = 1 lên n = 2 trong bảng 'Các chuyển dời', rồi bật nguồn. Vì sao photon này có thể được hấp thu?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vì mọi photon đều đưa electron lên n = 2."
+          },
+          {
+            "id": "b",
+            "text": "Vì bước sóng càng dài luôn kích thích electron mạnh hơn."
+          },
+          {
+            "id": "c",
+            "text": "Vì photon có năng lượng bất kỳ cũng được nguyên tử giữ lại."
+          },
+          {
+            "id": "d",
+            "text": "Vì năng lượng photon bằng chênh lệch hai mức cho chuyển dời đó."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Trong mô hình Bohr, hấp thu đưa electron lên mức cao hơn khi hc/λ phù hợp chênh lệch mức. Chọn bước sóng trong bảng giúp khớp chuyển dời từ trạng thái hiện tại; không phải mọi photon tới đều được hấp thu.",
+        "skill": "interaction"
+      },
+      {
+        "id": "models-of-the-hydrogen-atom-u02",
+        "prompt": "Ở 'Phổ', thu dữ liệu 'Thí nghiệm' dưới ánh sáng trắng rồi dùng chụp snapshot. Chuyển sang một mô hình với cùng nguồn và thời gian quan sát tương đương. Nên so sánh đặc điểm nào để kiểm tra mô hình có tái hiện phổ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Các vị trí bước sóng của vạch phát xạ, không chỉ tổng số photon."
+          },
+          {
+            "id": "b",
+            "text": "Chỉ tổng số photon, không cần quan tâm bước sóng."
+          },
+          {
+            "id": "c",
+            "text": "Chỉ màu của ánh sáng trắng trước khi gặp nguyên tử."
+          },
+          {
+            "id": "d",
+            "text": "Chỉ hình vẽ quỹ đạo electron, bỏ qua quang phổ kế."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Snapshot lưu histogram photon phát xạ theo bước sóng. Các vị trí vạch cho dấu hiệu về chênh lệch mức năng lượng; giữ điều kiện chiếu sáng và thời gian giúp so sánh có ý nghĩa, còn hình vẽ đẹp không chứng minh mô hình đúng.",
+        "skill": "interaction"
+      },
+      {
+        "id": "models-of-the-hydrogen-atom-u03",
+        "prompt": "Trong mô hình Bohr ở 'Mức năng lượng', quan sát electron chuyển từ n = 3 về n = 2 và có photon đi ra. Sơ đồ năng lượng thể hiện quá trình gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Electron hấp thu photon và tăng năng lượng."
+          },
+          {
+            "id": "b",
+            "text": "Electron giữ nguyên năng lượng, chỉ đổi màu."
+          },
+          {
+            "id": "c",
+            "text": "Electron giảm năng lượng và phát photon mang phần chênh lệch."
+          },
+          {
+            "id": "d",
+            "text": "Electron biến thành photon và nguyên tử mất electron."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "n = 3 có năng lượng cao hơn n = 2 trong hydrogen. Chuyển xuống giải phóng chênh lệch năng lượng dưới dạng photon; electron vẫn ở nguyên tử, không biến thành photon.",
+        "skill": "interaction"
+      },
+      {
+        "id": "models-of-the-hydrogen-atom-u04",
+        "prompt": "Vì sao phổ phát xạ hydrogen gồm các vạch tại một số bước sóng thay vì liên tục ở mọi bước sóng trong mô hình lượng tử?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Electron có mọi năng lượng liên tục và chọn ngẫu nhiên màu."
+          },
+          {
+            "id": "b",
+            "text": "Các mức năng lượng liên kết là rời rạc; chuyển dời cho những chênh lệch năng lượng xác định."
+          },
+          {
+            "id": "c",
+            "text": "Quang phổ kế cố ý bỏ mọi photon ngoài khả kiến."
+          },
+          {
+            "id": "d",
+            "text": "Mỗi nguyên tử chỉ có một mức năng lượng."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Các trạng thái liên kết có năng lượng rời rạc. Photon phát ra thỏa E = ΔE = hc/λ nên các chuyển dời cho các bước sóng đặc trưng; nhiều mức và chuyển dời tạo nhiều vạch, kể cả ngoài vùng khả kiến.",
+        "skill": "theory"
+      },
+      {
+        "id": "models-of-the-hydrogen-atom-u05",
+        "prompt": "Hai photon có bước sóng λ và λ/2. Giữ h và c như nhau. Photon thứ hai có năng lượng bao nhiêu lần photon thứ nhất?",
+        "options": [
+          {
+            "id": "a",
+            "text": "1/2 lần."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi."
+          },
+          {
+            "id": "c",
+            "text": "4 lần."
+          },
+          {
+            "id": "d",
+            "text": "2 lần."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Năng lượng photon E = hc/λ tỉ lệ nghịch với bước sóng. Giảm λ còn một nửa làm E tăng gấp đôi; bước sóng không tỉ lệ thuận với năng lượng photon.",
+        "skill": "relationship"
+      },
+      {
+        "id": "models-of-the-hydrogen-atom-u06",
+        "prompt": "Khi chọn mô hình Schrödinger, orbital nên được hiểu thế nào so với vòng quỹ đạo cố định trong hình Bohr?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Là mô tả xác suất tìm electron trong không gian, không phải đường chạy xác định."
+          },
+          {
+            "id": "b",
+            "text": "Là đường electron đi chính xác với bán kính luôn cố định."
+          },
+          {
+            "id": "c",
+            "text": "Là vỏ vật chất đặc bao quanh proton."
+          },
+          {
+            "id": "d",
+            "text": "Là đường chuyển động của photon quanh hạt nhân."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Orbital mô tả trạng thái lượng tử và phân bố xác suất vị trí electron. Các số lượng tử liên hệ năng lượng, hình dạng và định hướng; không thể coi mây xác suất là một quỹ đạo cơ học xác định như hành tinh.",
+        "skill": "theory"
+      }
+    ]
+  },
+  {
+    "id": "understanding-molarity",
+    "simulationSlug": "molarity",
+    "title": "Bài test hiểu biết: Nồng độ Mol",
+    "description": "Đọc mol và lít, pha loãng ở lượng chất tan cố định, nhận biết bão hòa và giới hạn so sánh màu giữa chất khác nhau.",
+    "estimatedMinutes": 6,
+    "isDemo": false,
+    "level": "understanding",
+    "sources": [
+      "https://phet.colorado.edu/vi/simulations/molarity"
+    ],
+    "questions": [
+      {
+        "id": "molarity-u01",
+        "prompt": "Chọn copper(II) sulfate, bật 'Hiển thị giá trị', đặt 0,10 mol trong 0,50 L và tất cả đã tan. Giữ nguyên lượng, loại chất tan và các điều kiện khác, tăng 'Thể tích dung dịch' lên 1,00 L. Nồng độ mới là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "0,20 M."
+          },
+          {
+            "id": "b",
+            "text": "0,10 M."
+          },
+          {
+            "id": "c",
+            "text": "0,05 M."
+          },
+          {
+            "id": "d",
+            "text": "1,00 M."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Ban đầu c = 0,10/0,50 = 0,20 M. Pha loãng ở số mol chất tan cố định làm c mới = 0,10/1,00 = 0,10 M; số mol không tăng theo thể tích và không phải rút bớt dung dịch.",
+        "skill": "interaction"
+      },
+      {
+        "id": "molarity-u02",
+        "prompt": "Vẫn dùng copper(II) sulfate chưa bão hòa và bật giá trị. Giữ thể tích 0,50 L, tăng 'Lượng chất tan' từ 0,10 lên 0,20 mol, tất cả đều tan. Nồng độ mới là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "0,10 M."
+          },
+          {
+            "id": "b",
+            "text": "0,20 M."
+          },
+          {
+            "id": "c",
+            "text": "0,40 M."
+          },
+          {
+            "id": "d",
+            "text": "0,50 M."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "c = n/V, với n là lượng đã hòa tan. 0,20 mol trong 0,50 L cho 0,40 mol/L; ở thể tích cố định và chưa bão hòa, tăng n gấp đôi làm nồng độ tăng gấp đôi.",
+        "skill": "interaction"
+      },
+      {
+        "id": "molarity-u03",
+        "prompt": "Chọn một chất tan và điều chỉnh đến 'Bão hoà!' với chất rắn dư ở đáy. Giữ loại chất, thể tích và các điều kiện khác, tăng thêm 'Lượng chất tan'. Điều gì xảy ra nếu vẫn có chất rắn dư?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nồng độ dung dịch giữ ở mức bão hòa, chất rắn dư tăng."
+          },
+          {
+            "id": "b",
+            "text": "Nồng độ luôn tăng không giới hạn."
+          },
+          {
+            "id": "c",
+            "text": "Toàn bộ chất rắn tự tan ngay."
+          },
+          {
+            "id": "d",
+            "text": "Nồng độ giảm vì thêm chất rắn."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ở bão hòa với điều kiện không đổi, dung dịch đã đạt lượng chất tan hòa tan tối đa cho thể tích đó. Thêm chất làm tăng phần chưa tan, không làm nồng độ phần dung dịch tăng vượt độ tan; không dùng toàn bộ mol thêm vào làm mol hòa tan.",
+        "skill": "interaction"
+      },
+      {
+        "id": "molarity-u04",
+        "prompt": "Định nghĩa đúng của nồng độ mol c là gì?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lít dung môi chia cho mol chất tan."
+          },
+          {
+            "id": "b",
+            "text": "Mol chất tan nhân lít dung dịch."
+          },
+          {
+            "id": "c",
+            "text": "Khối lượng cả cốc chia chiều cao chất lỏng."
+          },
+          {
+            "id": "d",
+            "text": "Số mol chất tan đã hòa tan chia thể tích dung dịch theo lít."
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "c = n hòa tan/V dung dịch, đơn vị mol/L hay M. Mẫu số là thể tích dung dịch, không chỉ thể tích dung môi; phần rắn chưa tan không được tính vào số mol hòa tan để xác định nồng độ.",
+        "skill": "theory"
+      },
+      {
+        "id": "molarity-u05",
+        "prompt": "Với cùng chất ở trạng thái chưa bão hòa và tất cả đã tan, đồng thời tăng số mol hòa tan và thể tích dung dịch gấp đôi. Nồng độ thay đổi thế nào?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tăng gấp đôi."
+          },
+          {
+            "id": "b",
+            "text": "Không đổi."
+          },
+          {
+            "id": "c",
+            "text": "Giảm một nửa."
+          },
+          {
+            "id": "d",
+            "text": "Tăng gấp bốn."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "c mới = (2n)/(2V) = n/V. Hai yếu tố tăng cùng tỉ lệ giữ nồng độ không đổi; khác với pha loãng giữ n cố định, khi chỉ thể tích tăng thì nồng độ giảm.",
+        "skill": "relationship"
+      },
+      {
+        "id": "molarity-u06",
+        "prompt": "Hai dung dịch chất tan khác nhau trong danh sách có màu đậm tương tự. Có thể kết luận chúng có cùng nồng độ mol chỉ từ màu không?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Có, mọi chất đậm như nhau đều cùng mol/L."
+          },
+          {
+            "id": "b",
+            "text": "Có, chỉ cần thể tích hai cốc bằng nhau."
+          },
+          {
+            "id": "c",
+            "text": "Không; màu và độ đậm phụ thuộc loại chất, cần đọc mol/L để so sánh."
+          },
+          {
+            "id": "d",
+            "text": "Không, vì dung dịch có màu không thể đo nồng độ mol."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Màu và mức đậm đặc trưng cho từng chất, nên không có thang màu chung để suy ra nồng độ bằng nhau giữa các chất khác nhau. Với cùng chất và điều kiện, độ đậm có thể giúp quan sát xu hướng, nhưng số liệu mol/L mới cho so sánh định lượng.",
+        "skill": "theory"
+      }
+    ]
+  }
+]

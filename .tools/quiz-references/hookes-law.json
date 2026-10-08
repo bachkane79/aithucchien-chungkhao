@@ -1,0 +1,40 @@
+{
+  "slug": "hookes-law",
+  "title": "Định luật Hooke",
+  "englishTitle": "Hooke's Law",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/hookes-law",
+  "controls": {
+    "HOOKES_LAW/appliedForce": "Lực tác dụng",
+    "HOOKES_LAW/appliedForceColon": "Lực tác dụng:",
+    "HOOKES_LAW/appliedForceNumber": "Lực tác dụng {0}:",
+    "HOOKES_LAW/barGraph": "Biểu đồ thanh",
+    "HOOKES_LAW/bottomSpring": "Lò xo dưới",
+    "HOOKES_LAW/components": "Thành phần",
+    "HOOKES_LAW/displacement": "Độ biến dạng",
+    "HOOKES_LAW/displacementColon": "Độ biến dạng",
+    "HOOKES_LAW/energy": "Năng lượng",
+    "HOOKES_LAW/energyPlot": "Đồ thị năng lượng",
+    "HOOKES_LAW/equilibriumPosition": "Vị trí cân bằng",
+    "HOOKES_LAW/forcePlot": "Đồ thị lực",
+    "HOOKES_LAW/hookes-law.title": "Định luật Hooke",
+    "HOOKES_LAW/intro": "Phần giới thiệu",
+    "HOOKES_LAW/joules": "J",
+    "HOOKES_LAW/leftSpring": "Lò xo trái",
+    "HOOKES_LAW/meters": "m",
+    "HOOKES_LAW/newtons": "N",
+    "HOOKES_LAW/newtonsPerMeter": "N/m",
+    "HOOKES_LAW/pattern.0value.1units": "{0} {1}",
+    "HOOKES_LAW/potentialEnergy": "Thế năng",
+    "HOOKES_LAW/rightSpring": "Lò xo phải",
+    "HOOKES_LAW/springConstant": "Hệ số đàn hồi của lò xo",
+    "HOOKES_LAW/springConstantNumber": "Hệ số đàn hồi của lò xo {0}:",
+    "HOOKES_LAW/springForce": "Lực đàn hồi",
+    "HOOKES_LAW/systems": "Hệ thống lò xo",
+    "HOOKES_LAW/topSpring": "Lò xo trên",
+    "HOOKES_LAW/total": "Tổng",
+    "HOOKES_LAW/values": "Giá trị"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "function-builder-basics",
+  "title": "Hàm số: phần cơ bản",
+  "englishTitle": "Function Builder: Basics",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/function-builder-basics",
+  "controls": {
+    "FUNCTION_BUILDER/screen.mystery": "Bi mật",
+    "FUNCTION_BUILDER/screen.patterns": "Hình mẫu",
+    "FUNCTION_BUILDER/mysteryCharacter": "?",
+    "FUNCTION_BUILDER/x": "x",
+    "FUNCTION_BUILDER/y": "y",
+    "FUNCTION_BUILDER/mysteryA": "?<sub>A</sub>",
+    "FUNCTION_BUILDER/mysteryB": "?<sub>B</sub>",
+    "FUNCTION_BUILDER/mysteryC": "?<sub>C</sub>",
+    "FUNCTION_BUILDER_BASICS/function-builder-basics.title": "Hàm số: phần cơ bản"
+  }
+}

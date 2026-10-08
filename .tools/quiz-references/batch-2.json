@@ -1,0 +1,183 @@
+[
+  {
+    "slug": "build-a-nucleus",
+    "title": "Tạo dựng hạt nhân",
+    "englishTitle": "Build a Nucleus",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/build-a-nucleus",
+    "referenceFile": ".tools/quiz-references/build-a-nucleus.json",
+    "controlCount": 187
+  },
+  {
+    "slug": "build-an-atom",
+    "title": "Tạo dựng nguyên tử",
+    "englishTitle": "Build an Atom",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/build-an-atom",
+    "referenceFile": ".tools/quiz-references/build-an-atom.json",
+    "controlCount": 376
+  },
+  {
+    "slug": "buoyancy",
+    "title": "Sự nổi",
+    "englishTitle": "Buoyancy",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/buoyancy",
+    "referenceFile": ".tools/quiz-references/buoyancy.json",
+    "controlCount": 142
+  },
+  {
+    "slug": "buoyancy-basics",
+    "title": "Sự nổi: phần cơ bản",
+    "englishTitle": "Buoyancy: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/buoyancy-basics",
+    "referenceFile": ".tools/quiz-references/buoyancy-basics.json",
+    "controlCount": 119
+  },
+  {
+    "slug": "calculus-grapher",
+    "title": "Máy vẽ đồ thị vi tích phân",
+    "englishTitle": "Calculus Grapher",
+    "subjects": [
+      "Vật lí",
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/calculus-grapher",
+    "referenceFile": ".tools/quiz-references/calculus-grapher.json",
+    "controlCount": 239
+  },
+  {
+    "slug": "capacitor-lab-basics",
+    "title": "Tụ điện: phần cơ bản",
+    "englishTitle": "Capacitor Lab: Basics",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/capacitor-lab-basics",
+    "referenceFile": ".tools/quiz-references/capacitor-lab-basics.json",
+    "controlCount": 20
+  },
+  {
+    "slug": "center-and-variability",
+    "title": "Trung tâm và độ biến thiên",
+    "englishTitle": "Center and Variability",
+    "subjects": [
+      "Toán học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/center-and-variability",
+    "referenceFile": ".tools/quiz-references/center-and-variability.json",
+    "controlCount": 191
+  },
+  {
+    "slug": "charges-and-fields",
+    "title": "Điện tích và điện trường",
+    "englishTitle": "Charges and Fields",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/charges-and-fields",
+    "referenceFile": ".tools/quiz-references/charges-and-fields.json",
+    "controlCount": 17
+  },
+  {
+    "slug": "circuit-construction-kit-ac",
+    "title": "Bộ lắp ráp mạch điện: AC",
+    "englishTitle": "Circuit Construction Kit: AC",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/circuit-construction-kit-ac",
+    "referenceFile": ".tools/quiz-references/circuit-construction-kit-ac.json",
+    "controlCount": 73
+  },
+  {
+    "slug": "circuit-construction-kit-ac-virtual-lab",
+    "title": "Bộ lắp ráp mạch điện: AC - Phòng thí nghiệm ảo",
+    "englishTitle": "Circuit Construction Kit: AC - Virtual Lab",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/circuit-construction-kit-ac-virtual-lab",
+    "referenceFile": ".tools/quiz-references/circuit-construction-kit-ac-virtual-lab.json",
+    "controlCount": 71
+  },
+  {
+    "slug": "circuit-construction-kit-dc",
+    "title": "Bộ lắp ráp mạch điện: DC",
+    "englishTitle": "Circuit Construction Kit: DC",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/circuit-construction-kit-dc",
+    "referenceFile": ".tools/quiz-references/circuit-construction-kit-dc.json",
+    "controlCount": 280
+  },
+  {
+    "slug": "circuit-construction-kit-dc-virtual-lab",
+    "title": "Bộ lắp ráp mạch điện: DC - Phòng thí nghiệm ảo",
+    "englishTitle": "Circuit Construction Kit: DC - Virtual Lab",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/circuit-construction-kit-dc-virtual-lab",
+    "referenceFile": ".tools/quiz-references/circuit-construction-kit-dc-virtual-lab.json",
+    "controlCount": 278
+  },
+  {
+    "slug": "collision-lab",
+    "title": "Va chạm",
+    "englishTitle": "Collision Lab",
+    "subjects": [
+      "Vật lí"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/collision-lab",
+    "referenceFile": ".tools/quiz-references/collision-lab.json",
+    "controlCount": 49
+  },
+  {
+    "slug": "color-vision",
+    "title": "Thị giác màu",
+    "englishTitle": "Color Vision",
+    "subjects": [
+      "Vật lí",
+      "Sinh học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/color-vision",
+    "referenceFile": ".tools/quiz-references/color-vision.json",
+    "controlCount": 17
+  },
+  {
+    "slug": "concentration",
+    "title": "Nồng độ",
+    "englishTitle": "Concentration",
+    "subjects": [
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/concentration",
+    "referenceFile": ".tools/quiz-references/concentration.json",
+    "controlCount": 100
+  },
+  {
+    "slug": "coulombs-law",
+    "title": "Định luật Coulomb",
+    "englishTitle": "Coulomb's Law",
+    "subjects": [
+      "Vật lí",
+      "Hóa học"
+    ],
+    "sourcePage": "https://phet.colorado.edu/vi/simulations/coulombs-law",
+    "referenceFile": ".tools/quiz-references/coulombs-law.json",
+    "controlCount": 32
+  }
+]

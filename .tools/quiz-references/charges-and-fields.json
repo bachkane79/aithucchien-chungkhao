@@ -1,0 +1,28 @@
+{
+  "slug": "charges-and-fields",
+  "title": "Điện tích và điện trường",
+  "englishTitle": "Charges and Fields",
+  "subjects": [
+    "Vật lí"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/charges-and-fields",
+  "controls": {
+    "CHARGES_AND_FIELDS/electricField": "Điện trường",
+    "CHARGES_AND_FIELDS/directionOnly": "Chỉ hiển thị hướng",
+    "CHARGES_AND_FIELDS/voltage": "Hiệu thế",
+    "CHARGES_AND_FIELDS/grid": "Lưới",
+    "CHARGES_AND_FIELDS/values": "Trị số",
+    "CHARGES_AND_FIELDS/voltageUnit": "V",
+    "CHARGES_AND_FIELDS/minusOneNanoC": "-1 nC",
+    "CHARGES_AND_FIELDS/plusOneNanoC": "+1 nC",
+    "CHARGES_AND_FIELDS/sensors": "Đầu đo",
+    "CHARGES_AND_FIELDS/pattern.0value.1units": "{0} {1}",
+    "CHARGES_AND_FIELDS/eFieldUnit": "V/m",
+    "CHARGES_AND_FIELDS/angleUnit": "độ",
+    "CHARGES_AND_FIELDS/equipotential": "Mặt đẳng thế",
+    "CHARGES_AND_FIELDS/centimeterUnit": "cm",
+    "CHARGES_AND_FIELDS/oneMeter": "1 m",
+    "CHARGES_AND_FIELDS/charges-and-fields.title": "Điện tích và điện trường",
+    "CHARGES_AND_FIELDS/options.projectorColors": "Chế độ đèn chiếu"
+  }
+}

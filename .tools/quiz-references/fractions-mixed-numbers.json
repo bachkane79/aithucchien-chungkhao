@@ -1,0 +1,27 @@
+{
+  "slug": "fractions-mixed-numbers",
+  "title": "Phân số: hỗn số",
+  "englishTitle": "Fractions: Mixed Numbers",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/fractions-mixed-numbers",
+  "controls": {
+    "VEGAS/done": "Done",
+    "VEGAS/youCompletedAllLevels": "Bạn đã hoàn thành mọi câu đố!",
+    "FRACTIONS_COMMON/levelTitlePattern": "Mức độ {{number}}",
+    "VEGAS/next": "Kế tiếp",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "VEGAS/pattern.score.number": "Điểm: {{score}}",
+    "VEGAS/score": "Điểm:",
+    "VEGAS/chooseYourLevel": "Chọn mức độ!",
+    "FRACTIONS_MIXED_NUMBERS/screen.game": "Game",
+    "FRACTIONS_COMMON/representationMax": "Max",
+    "FRACTIONS_COMMON/equation": "Phương trình",
+    "FRACTIONS_COMMON/mixedNumber": "Hỗn số",
+    "FRACTIONS_MIXED_NUMBERS/screen.intro": "Phần giới thiệu",
+    "FRACTIONS_MIXED_NUMBERS/screen.lab": "Lab",
+    "FRACTIONS_MIXED_NUMBERS/fractions-mixed-numbers.title": "Phân số: hỗn số"
+  }
+}

@@ -1,0 +1,3566 @@
+{
+  "sourceFilter": "https://phet.colorado.edu/en/simulations/filter?type=html",
+  "metadataUrl": "https://phet.colorado.edu/services/metadata/1.3/simulations?format=json&summary&includePrototypes",
+  "discoveredAt": "2026-10-08T06:59:25.726Z",
+  "discoveryMethod": "Rendered exact official filter DOM membership matched to metadata projects type=2 and html/ prefix",
+  "exactHtml5Membership": [
+    "quantum-wave-interference",
+    "membrane-transport",
+    "quantum-coin-toss",
+    "number-pairs",
+    "quantum-measurement",
+    "models-of-the-hydrogen-atom",
+    "buoyancy-basics",
+    "buoyancy",
+    "mean-share-and-balance",
+    "generator",
+    "magnets-and-electromagnets",
+    "magnet-and-compass",
+    "faradays-electromagnetic-lab",
+    "projectile-sampling-distributions",
+    "projectile-data-lab",
+    "center-and-variability",
+    "build-a-nucleus",
+    "keplers-laws",
+    "sound-waves",
+    "quadrilateral",
+    "my-solar-system",
+    "calculus-grapher",
+    "number-compare",
+    "number-play",
+    "greenhouse-effect",
+    "geometric-optics-basics",
+    "geometric-optics",
+    "density",
+    "circuit-construction-kit-ac",
+    "circuit-construction-kit-ac-virtual-lab",
+    "normal-modes",
+    "fourier-making-waves",
+    "number-line-distance",
+    "ratio-and-proportion",
+    "collision-lab",
+    "number-line-operations",
+    "energy-skate-park",
+    "build-a-molecule",
+    "natural-selection",
+    "number-line-integers",
+    "vector-addition-equations",
+    "vector-addition",
+    "curve-fitting",
+    "gravity-force-lab-basics",
+    "waves-intro",
+    "diffusion",
+    "gases-intro",
+    "gas-properties",
+    "blackbody-spectrum",
+    "masses-and-springs-basics",
+    "energy-forms-and-changes",
+    "wave-interference",
+    "fractions-mixed-numbers",
+    "fractions-intro",
+    "build-a-fraction",
+    "fractions-equality",
+    "coulombs-law",
+    "graphing-quadratics",
+    "masses-and-springs",
+    "equality-explorer-two-variables",
+    "equality-explorer-basics",
+    "equality-explorer",
+    "area-model-algebra",
+    "area-model-decimals",
+    "area-model-multiplication",
+    "area-model-introduction",
+    "gene-expression-essentials",
+    "capacitor-lab-basics",
+    "circuit-construction-kit-dc-virtual-lab",
+    "circuit-construction-kit-dc",
+    "pendulum-lab",
+    "projectile-motion",
+    "molecule-polarity",
+    "expression-exchange",
+    "graphing-slope-intercept",
+    "function-builder-basics",
+    "proportion-playground",
+    "unit-rates",
+    "make-a-ten",
+    "states-of-matter-basics",
+    "states-of-matter",
+    "gravity-and-orbits",
+    "plinko-probability",
+    "atomic-interactions",
+    "charges-and-fields",
+    "rutherford-scattering",
+    "function-builder",
+    "isotopes-and-atomic-mass",
+    "neuron",
+    "trig-tour",
+    "bending-light",
+    "arithmetic",
+    "hookes-law",
+    "molecules-and-light",
+    "least-squares-regression",
+    "molecule-shapes",
+    "molecule-shapes-basics",
+    "reactants-products-and-leftovers",
+    "energy-skate-park-basics",
+    "faradays-law",
+    "ph-scale-basics",
+    "area-builder",
+    "wave-on-a-string",
+    "color-vision",
+    "ph-scale",
+    "balancing-chemical-equations",
+    "graphing-lines",
+    "fraction-matcher",
+    "balancing-act",
+    "acid-base-solutions",
+    "under-pressure",
+    "friction",
+    "forces-and-motion-basics",
+    "john-travoltage",
+    "concentration",
+    "gravity-force-lab",
+    "balloons-and-static-electricity",
+    "beers-law-lab",
+    "molarity",
+    "ohms-law",
+    "resistance-in-a-wire",
+    "build-an-atom"
+  ],
+  "discoveredCount": 122,
+  "metadataHtmlProjectCount": 122,
+  "excludedProjectTypes": {
+    "java": 73,
+    "flash": 26
+  },
+  "metadataSchema": {
+    "root": [
+      "common",
+      "projects"
+    ],
+    "project": [
+      "id",
+      "name",
+      "type",
+      "version",
+      "simulations"
+    ],
+    "simulation": [
+      "id",
+      "name",
+      "subjects",
+      "lowGradeLevel",
+      "highGradeLevel",
+      "localizedSimulations"
+    ],
+    "htmlProjectType": 2,
+    "runUrlTemplate": "/sims/{{project-name}}/latest/{{sim-name}}_{{locale}}.html"
+  },
+  "localeCounts": {
+    "vi": 122,
+    "en": 0
+  },
+  "concurrency": 5,
+  "license": {
+    "name": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "source": "https://phet.colorado.edu/en/licensing",
+    "verifiedAt": "2026-10-08",
+    "attribution": "Simulation by PhET Interactive Simulations, University of Colorado Boulder, licensed under CC BY-NC 4.0 (https://phet.colorado.edu).",
+    "attributionVi": "Mô phỏng bởi PhET Interactive Simulations, University of Colorado Boulder, được cấp phép theo CC BY-NC 4.0 (https://phet.colorado.edu).",
+    "preserveEmbeddedNotices": true,
+    "preserveUnobstructedLogo": true,
+    "commercialUseRequiresSeparateLicense": true
+  },
+  "status": "completed",
+  "results": [
+    {
+      "slug": "quantum-wave-interference",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3138493,
+      "sha256": "0a5046690702a4910f6a3033d15272fa1a1232080181540c1b15cf794c9c7df5",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8792
+    },
+    {
+      "slug": "membrane-transport",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/membrane-transport/latest/membrane-transport_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3346297,
+      "sha256": "b63a51f9b8f240300a61ebaab1ca92d5eff86fb7783c78c19d83f5d28c5ead5b",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 13699
+    },
+    {
+      "slug": "quantum-coin-toss",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/quantum-coin-toss/latest/quantum-coin-toss_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2422762,
+      "sha256": "ce31178158c3700152065416e23315e72195eb79318b9add753b8679ac5b6f10",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6856
+    },
+    {
+      "slug": "number-pairs",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-pairs/latest/number-pairs_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3024507,
+      "sha256": "dea871fc583ded7d6eb40cd2fe395b0692d04bd3ac51104fc2ddf253ab7cefe6",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7091
+    },
+    {
+      "slug": "quantum-measurement",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/quantum-measurement/latest/quantum-measurement_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2578821,
+      "sha256": "e0f99b5f92aab972e36fa5e27a632d8d53877bfe3e44889f833ea8418013d070",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8948
+    },
+    {
+      "slug": "models-of-the-hydrogen-atom",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3307398,
+      "sha256": "efca7f65f256775065fc44d15210d621be681acbe8f6043cb8346bc46116b05b",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 11228
+    },
+    {
+      "slug": "buoyancy-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/buoyancy-basics/latest/buoyancy-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4938597,
+      "sha256": "9241c30eb5cf1a4c2716783414e7978b66ef1c06bb0a56942ffbc20a1df0e773",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7097
+    },
+    {
+      "slug": "buoyancy",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 5604250,
+      "sha256": "523318bd472721b7f8508ad947b60fbfdf9633f3af75c5b9d677b164bb883979",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8680
+    },
+    {
+      "slug": "mean-share-and-balance",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/mean-share-and-balance/latest/mean-share-and-balance_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4829681,
+      "sha256": "c19c5352572fa9a385ee897a8299d3b4b9432417d2f215e1fecaabb43ae851ac",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7209
+    },
+    {
+      "slug": "generator",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/generator/latest/generator_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2824547,
+      "sha256": "d526c6892c9138d7d2dd75cfcdde55f200c29c61d58357d96c2e05da80c9684d",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 15282
+    },
+    {
+      "slug": "magnets-and-electromagnets",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2705485,
+      "sha256": "6175fb3cfce1445457898de70db13362fb2dda222fbabb30411b26d2c37c9049",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 12942
+    },
+    {
+      "slug": "magnet-and-compass",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2664934,
+      "sha256": "38984f08b5386633ab0f018c48f9c82b1a836ab121ee8ddfd340ac03fac0c89a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10750
+    },
+    {
+      "slug": "faradays-electromagnetic-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2862507,
+      "sha256": "2f8c986aca7eb861aee55f96d4d2e0458cd8943db55a12ba9ec06067ba1b7cdd",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 13625
+    },
+    {
+      "slug": "projectile-sampling-distributions",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/projectile-sampling-distributions/latest/projectile-sampling-distributions_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2845333,
+      "sha256": "44bd5817f2ceb1a95fe88bb67f5766f18f8f93e539235a48d86c671a1fd18453",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 12781
+    },
+    {
+      "slug": "projectile-data-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3033829,
+      "sha256": "a5ec3ecaee3b8232501384aba5da4b3d330e50d546de8a63e4d5b2a311fcd13a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 15715
+    },
+    {
+      "slug": "center-and-variability",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/center-and-variability/latest/center-and-variability_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 5638101,
+      "sha256": "2aa8f1a05327cfab43759fbe35234ea88ae77be59386d5ea40fea961e5eee279",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7278
+    },
+    {
+      "slug": "build-a-nucleus",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/build-a-nucleus/latest/build-a-nucleus_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2917159,
+      "sha256": "2401ca8c298c99dcf8f184124bc28875e4d573e4ee0b55846ae77479765115b4",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8128
+    },
+    {
+      "slug": "keplers-laws",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4864103,
+      "sha256": "f435fa7d373dbffe85024a3623327d482a765998c6b8bfb1a8c3ef6ed2d24acf",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8806
+    },
+    {
+      "slug": "sound-waves",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3306446,
+      "sha256": "f2988fb38af22b94b18bba4cdba5c87801ce1c7d45700b349c15889a9301304a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 11501
+    },
+    {
+      "slug": "quadrilateral",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/quadrilateral/latest/quadrilateral_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4568983,
+      "sha256": "adf53fb881166f319e5d7b9f1e257094eb4073eb093b4d1571b9e6c247baff8c",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 3634
+    },
+    {
+      "slug": "my-solar-system",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4148014,
+      "sha256": "ec90c9acb0a3c64a7a1d67df608b197b046e91c0671c8f0c3251ac5e19cf55ca",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7785
+    },
+    {
+      "slug": "calculus-grapher",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/calculus-grapher/latest/calculus-grapher_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2773234,
+      "sha256": "d15c915d742eaa3895b5a9adac66aae1d00bf3ef3b4118eccdfec8e091c4316a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7531
+    },
+    {
+      "slug": "number-compare",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-compare/latest/number-compare_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2524028,
+      "sha256": "5c06124e0536377e53df4289c83d683f81883c5a0e3f278f227df784b9577c55",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8482
+    },
+    {
+      "slug": "number-play",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-play/latest/number-play_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2901003,
+      "sha256": "dbe11f2eea898feb8d354b8bdf83b6f0d3fa31afba8d06da8aaa9cde017ea33e",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6385
+    },
+    {
+      "slug": "greenhouse-effect",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3673985,
+      "sha256": "bb0791642884b17400f5767301de9035023a5a4e56070de39263d813ac2f33ec",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10629
+    },
+    {
+      "slug": "geometric-optics-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2354376,
+      "sha256": "37a1ae4973ea501ffaeaa499107bb965bf9dd92e496fe5e0b9b0dd8cc115000f",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6821
+    },
+    {
+      "slug": "geometric-optics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2353461,
+      "sha256": "4f5f660a3c1019a372771f91830133369821b1f0f00950d37dc6f860b4243034",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8116
+    },
+    {
+      "slug": "density",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/density/latest/density_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4846432,
+      "sha256": "00c9a12732eaa257a1df259809c5ff01e00bf11156974a881fe5f3dab4051eca",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6110
+    },
+    {
+      "slug": "circuit-construction-kit-ac",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2395663,
+      "sha256": "4dfe16b397d9d38d47bdcdef7e583b37716e7cb84b5c754b673febb5da03f4b0",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 11032
+    },
+    {
+      "slug": "circuit-construction-kit-ac-virtual-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2335071,
+      "sha256": "21684fbb04f154bc07acf0374d3d54855d303233a8602865ad883589b6bf7192",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7855
+    },
+    {
+      "slug": "normal-modes",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/normal-modes/latest/normal-modes_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1658070,
+      "sha256": "92889dab9c2bd2a0f10bfe98f0369c862647e51f9643b845bd13afae3aa088cf",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7596
+    },
+    {
+      "slug": "fourier-making-waves",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2614429,
+      "sha256": "c427aa4d85787b9665ba3c5f0ffb651870dbc4691fa8e8cdb7d8848ed3373cf8",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10563
+    },
+    {
+      "slug": "number-line-distance",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-line-distance/latest/number-line-distance_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4282589,
+      "sha256": "0cec4f15a446fc37bdbcaa4d016d53d75ac8a9094cd83db61ffff12af649b745",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7041
+    },
+    {
+      "slug": "ratio-and-proportion",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/ratio-and-proportion/latest/ratio-and-proportion_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2437731,
+      "sha256": "72c93d039b5dd15b84bd14c70d47d7d6543b13478d2939c976354cad39d51113",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 3542
+    },
+    {
+      "slug": "collision-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1568909,
+      "sha256": "c1a80b68af5c06ae13eb7bc865fba3a608412fc2f62169f77bde5980160e4b15",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8006
+    },
+    {
+      "slug": "number-line-operations",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-line-operations/latest/number-line-operations_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3077081,
+      "sha256": "3f3d5147e39f0d44f0e3774e44b358ddf81a1c670787b62bf41e9ac793627e56",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8181
+    },
+    {
+      "slug": "energy-skate-park",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4900346,
+      "sha256": "36e225df19d5014f89114124f2174deef77e25522839a5d295081f45c7e39ec4",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 13190
+    },
+    {
+      "slug": "build-a-molecule",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 8042982,
+      "sha256": "c3c7e848156f3192a969ac6f18a41c6a8c8e99c091a0780a6cf23febb69d08d8",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6627
+    },
+    {
+      "slug": "natural-selection",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3236365,
+      "sha256": "ea4e144fb636314521b2af8901ce72457ebf186ebb18e67876749b661d2480b6",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 12077
+    },
+    {
+      "slug": "number-line-integers",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/number-line-integers/latest/number-line-integers_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 5483709,
+      "sha256": "14237148d4890dfc7b0943835b237f571c9dbc1d588c5556e4baacaac992a1f3",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6020
+    },
+    {
+      "slug": "vector-addition-equations",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/vector-addition-equations/latest/vector-addition-equations_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2502070,
+      "sha256": "b289a7eca93d276f81624768e5a058c5b5f67f6b3378cf1489d3fe790c9cf1e6",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 13367
+    },
+    {
+      "slug": "vector-addition",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2535233,
+      "sha256": "2f7896e8e41a26cb88d36f1cf2d1d1e7909c39738ef4b71d160b539958b4c030",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5638
+    },
+    {
+      "slug": "curve-fitting",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/curve-fitting/latest/curve-fitting_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2414898,
+      "sha256": "f24bcf54c4a21a2ec54ad0509b052589499ff029683b98a0028fadaa9712b3cb",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6139
+    },
+    {
+      "slug": "gravity-force-lab-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2889101,
+      "sha256": "d2dc2cb83cb3e5247d614affcfb471894d2dde8e7b0d05b66ee60f2f03f4a232",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5778
+    },
+    {
+      "slug": "waves-intro",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3363187,
+      "sha256": "d80f5f8b54a513591e6f45f51cf46e0697daf33d843d19ffb1d6a0d3575e7e8a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 4366
+    },
+    {
+      "slug": "diffusion",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/diffusion/latest/diffusion_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2374766,
+      "sha256": "cafd9928422b31df37f23edff62c5d31c65d32c383032b073cff2c5fc7ed94f7",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10500
+    },
+    {
+      "slug": "gases-intro",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2520597,
+      "sha256": "95c87009d6d48a4d0c611219def26de6188e913d872d40e8859186523172d78f",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10991
+    },
+    {
+      "slug": "gas-properties",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2585931,
+      "sha256": "8c3cbd7a9e49dabc091e7c99dd72c8a53a69a35849fa08ca814253de6527f02d",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 12950
+    },
+    {
+      "slug": "blackbody-spectrum",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1529378,
+      "sha256": "533ec71690026b2c7c41f1f2aba9ce491a7db23c586e4cdc231f56280c2a0cd5",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7828
+    },
+    {
+      "slug": "masses-and-springs-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1762395,
+      "sha256": "59993d671671d2150b9aa5b4ae34bb04e85d9c4e323528a0db52f7d8ea4dcb13",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6536
+    },
+    {
+      "slug": "energy-forms-and-changes",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3524859,
+      "sha256": "0d1399edbbbc8b3a43f05f88eb248f651505498ba7d13d2dbf9485e20f2e7596",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9618
+    },
+    {
+      "slug": "wave-interference",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3455651,
+      "sha256": "fe5ef0398bd0df9981721dc28de5afdd81bca229778511e881e0beedb5760ad7",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 14079
+    },
+    {
+      "slug": "fractions-mixed-numbers",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/fractions-mixed-numbers/latest/fractions-mixed-numbers_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2517457,
+      "sha256": "80f27e394ba1a43b63b5de2cf889c8c6df4e14bc45898233e6ad5a9d823cb449",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8230
+    },
+    {
+      "slug": "fractions-intro",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/fractions-intro/latest/fractions-intro_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2526930,
+      "sha256": "a379c3e672ebea84dd9223c72bfcaf0e974046150a609e959e69f0fcfc415cdc",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6738
+    },
+    {
+      "slug": "build-a-fraction",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/build-a-fraction/latest/build-a-fraction_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1762112,
+      "sha256": "c8bc9c798ec3ec139a7819551786c02499ce80358bf55e38d9268cb5d6bbe9ae",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 4413
+    },
+    {
+      "slug": "fractions-equality",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/fractions-equality/latest/fractions-equality_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2430385,
+      "sha256": "d9bc34d70de050e334a264674d1201ed577a6100f8ece0d2e5565ea4986f972c",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8069
+    },
+    {
+      "slug": "coulombs-law",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2798716,
+      "sha256": "9cdef0202a68f47da7073ed8ddade975c67e650aa8858368847e93c6b64ba76a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6181
+    },
+    {
+      "slug": "graphing-quadratics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/graphing-quadratics/latest/graphing-quadratics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2509608,
+      "sha256": "07c51fa871f3878a19ccc6006d492479751f2acf4ce9545f53518f4858f87e12",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8735
+    },
+    {
+      "slug": "masses-and-springs",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1587367,
+      "sha256": "ace4d61c9ed3054a9c383e41772353b7a1b05418a6c2d77cd6f2d130bf9c57f4",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7241
+    },
+    {
+      "slug": "equality-explorer-two-variables",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/equality-explorer-two-variables/latest/equality-explorer-two-variables_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2424524,
+      "sha256": "38191c9f47a81f379fc34bfd967eb520e7982f71fac15c39bcf360c3ca3f4dd6",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6157
+    },
+    {
+      "slug": "equality-explorer-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2568236,
+      "sha256": "e415adb55438d84ce16a087abff5cc31a1048f06fa5c288a5c3fbfa8138af4de",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7291
+    },
+    {
+      "slug": "equality-explorer",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/equality-explorer/latest/equality-explorer_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2731449,
+      "sha256": "25756544a4797364a39597e677d4ce1dc51cf489c1d1e78626e3f6160db609e0",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6217
+    },
+    {
+      "slug": "area-model-algebra",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/area-model-algebra/latest/area-model-algebra_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3186488,
+      "sha256": "91f092cecf44bee576e319e969c82e7e37e9b6c5f9b7c825d37d0a43062bc2c5",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5564
+    },
+    {
+      "slug": "area-model-decimals",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/area-model-decimals/latest/area-model-decimals_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2387848,
+      "sha256": "47f1a8360b2aeabd829ddbd4eb1833656350e300659bf26ca5b9899f7ac68efc",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7219
+    },
+    {
+      "slug": "area-model-multiplication",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/area-model-multiplication/latest/area-model-multiplication_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3110492,
+      "sha256": "18e6e98543315d867d29c735cf38a1bbcbf80d16493df96a7873bb9beb6a3eb2",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7584
+    },
+    {
+      "slug": "area-model-introduction",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/area-model-introduction/latest/area-model-introduction_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2531976,
+      "sha256": "60017c4fa6fde16ec4a8cd81b467baeaf2e55970a9d47ca645d0a12774b3b5d4",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5158
+    },
+    {
+      "slug": "gene-expression-essentials",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 5020589,
+      "sha256": "86f6a9238a0d9767255298ba8901a8c84b0bcd0c7a53d7421de3085f698b824f",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7620
+    },
+    {
+      "slug": "capacitor-lab-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1537951,
+      "sha256": "27d8dd9eace2812cf83e13c17108f1bfd7a2dd2baa3da3ace073e19449df7429",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7948
+    },
+    {
+      "slug": "circuit-construction-kit-dc-virtual-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3497553,
+      "sha256": "ea4e4efc9878e2321952867b91d6cbf8012f95a471584ad3f6f7847cc4ac45c5",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7127
+    },
+    {
+      "slug": "circuit-construction-kit-dc",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3508941,
+      "sha256": "a20c1141a5d573a80d200a102257af3bd310c3b2c4856d54e4c92c00856ce8b7",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8873
+    },
+    {
+      "slug": "pendulum-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3808540,
+      "sha256": "0d75cc6fd9aed158d1be041b60c582b4261c48734be43a4da387c20ac16ff449",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7009
+    },
+    {
+      "slug": "projectile-motion",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4378866,
+      "sha256": "4fbc6114572e23732b05158a177a4cb30a9498b62d47edaa884008edda4ade9d",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8223
+    },
+    {
+      "slug": "molecule-polarity",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4061603,
+      "sha256": "cc0f9032aa9982e74877a9c3ba1ac5a356d1efa653c14ce5e7c2ea470ee5bc78",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6240
+    },
+    {
+      "slug": "expression-exchange",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/expression-exchange/latest/expression-exchange_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4482605,
+      "sha256": "8dcd6c310c1dd66200f3bd67fc1b6f0b17928e5a7c8e893e5fee28dac16b9edd",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5985
+    },
+    {
+      "slug": "graphing-slope-intercept",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/graphing-slope-intercept/latest/graphing-slope-intercept_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2641722,
+      "sha256": "d0b3b5868003ab2ba0322def37c69a08e17eaf571c76364cc1e4ebb0b3036add",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8976
+    },
+    {
+      "slug": "function-builder-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/function-builder-basics/latest/function-builder-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2223263,
+      "sha256": "56f71ceea29d9e70531d73c0cd5c2968709250c609ebd66b25b7d6b49444c270",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7161
+    },
+    {
+      "slug": "proportion-playground",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/proportion-playground/latest/proportion-playground_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3862322,
+      "sha256": "5ca5e0be669e5db9c086e0411507314dc740acbfcbf0e60af2a90a582f747f6d",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7748
+    },
+    {
+      "slug": "unit-rates",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/unit-rates/latest/unit-rates_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3167965,
+      "sha256": "2309430ed8d9bf8d7342dbbc8d575d10e8902586ef999230f77982f61c5faa8f",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6260
+    },
+    {
+      "slug": "make-a-ten",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/make-a-ten/latest/make-a-ten_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3363435,
+      "sha256": "ef94f57ed2588b0817fa5e5533ecef31eed4359c733ea1e88524217e2037b20b",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5176
+    },
+    {
+      "slug": "states-of-matter-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1918955,
+      "sha256": "b06cc5bc65f6eb150038b3f610b40642a2d05e04fd741a905e26d131eb042de1",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8098
+    },
+    {
+      "slug": "states-of-matter",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2006754,
+      "sha256": "e22c39b779c083735dfa820f8f475286b4f7e66257258cecfc97c1be713d7deb",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10208
+    },
+    {
+      "slug": "gravity-and-orbits",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3447213,
+      "sha256": "8d9f6f3154fc572116aa44d9a07401f3309d680a1fc9fb3dd80e3b5f366974c6",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7316
+    },
+    {
+      "slug": "plinko-probability",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3687678,
+      "sha256": "91a0886f0b9017d1b0a55dc010945e26073236f90ad8e4bf19dcaed63f73adf9",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9900
+    },
+    {
+      "slug": "atomic-interactions",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/atomic-interactions/latest/atomic-interactions_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1624955,
+      "sha256": "c7c3bd7dd1cd516d13efc17e3df2341b05df0a769d24db0c454ef87b84dc9882",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6526
+    },
+    {
+      "slug": "charges-and-fields",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1224348,
+      "sha256": "d483aa1dd6481738bd87e6fed2e3bdc7e4711ae1ef125d781716b2e79a6e8054",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 17704
+    },
+    {
+      "slug": "rutherford-scattering",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3337194,
+      "sha256": "1ac55f9bff9c41adca7000ab13cd5c76919df9b2dac50742e1ac913a0bbfa7eb",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8181
+    },
+    {
+      "slug": "function-builder",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/function-builder/latest/function-builder_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2269238,
+      "sha256": "7ce45d2f14e94e126a51cb6339e003979355d156e9bfda46dcdbf99e5e7dc446",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6598
+    },
+    {
+      "slug": "isotopes-and-atomic-mass",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2834740,
+      "sha256": "a93ade2008daae68421220d89b631230710edef7c09577ce88a40ef943d7f5c7",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10202
+    },
+    {
+      "slug": "neuron",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/neuron/latest/neuron_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1120471,
+      "sha256": "1e7dcf0b677162d68d476829579224d69fb7fc9d699b793e35323733bc932a62",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 12756
+    },
+    {
+      "slug": "trig-tour",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4034843,
+      "sha256": "1e9dbdbe09bfb35081161509b2fcd20b9f5ccfed02f8b1fe278bc96ff3a3e9c8",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7909
+    },
+    {
+      "slug": "bending-light",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3405495,
+      "sha256": "d903d2a7a27039c759fa2d1537594d04afc6d476ad90447d1dc484bba0698b73",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8063
+    },
+    {
+      "slug": "arithmetic",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/arithmetic/latest/arithmetic_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3036123,
+      "sha256": "f72573c72e2d4aea7de23f6576bb97f5a16d8a9fa76d9e2b402034a4cc657494",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5748
+    },
+    {
+      "slug": "hookes-law",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2426588,
+      "sha256": "bb5123afa84bc256a68d048e6bc8ffe84c63588d3ce8401adcad06886fcc4908",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6809
+    },
+    {
+      "slug": "molecules-and-light",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2835902,
+      "sha256": "3cfda62019009b627974d32f98e4a89ac2fa7aa07adc2b98fb95eac64b7c685b",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6742
+    },
+    {
+      "slug": "least-squares-regression",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/least-squares-regression/latest/least-squares-regression_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2351958,
+      "sha256": "25561fd52b31cb580578c05a4061d8b18980ad956c0a1be84d90a51eea976758",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5744
+    },
+    {
+      "slug": "molecule-shapes",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2635002,
+      "sha256": "2d2b2634bb14cb7362b60cb4826cf20168d7ae888f5ec895732d90600d421d72",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 4648
+    },
+    {
+      "slug": "molecule-shapes-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/molecule-shapes-basics/latest/molecule-shapes-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2634519,
+      "sha256": "f462b979c07b486331d9858dbffb403a5d9d50aab732923eb1b647cc6c94c0f4",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5145
+    },
+    {
+      "slug": "reactants-products-and-leftovers",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2566335,
+      "sha256": "52b4b2ab7fb68c63af3fdf8c08e459aaf32b7498fb1c5a86eabea0497a539ae2",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7886
+    },
+    {
+      "slug": "energy-skate-park-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4945420,
+      "sha256": "015761a194b28d9f4f67841e5a6c991212e2be76222efb7d1d4cc8ab8904eee0",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9555
+    },
+    {
+      "slug": "faradays-law",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2227705,
+      "sha256": "5017cb53683e5519318e4979c325d769969516b74db697373171bbbe9d84244a",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9334
+    },
+    {
+      "slug": "ph-scale-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2522218,
+      "sha256": "8806f7e2d63584b7e216e212b0d06b5f96f8d7e7fba39d29c0b9b5aa01962a10",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5847
+    },
+    {
+      "slug": "area-builder",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/area-builder/latest/area-builder_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1287486,
+      "sha256": "7705f50da6295c8fda0c2175346885de31f14ccf248805907930521113a82d93",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6826
+    },
+    {
+      "slug": "wave-on-a-string",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2486314,
+      "sha256": "72aacb79f753b2051fcca081ac5b270a1209cfc09242c8c0f36a3820ce91e8d9",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6765
+    },
+    {
+      "slug": "color-vision",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 5771897,
+      "sha256": "1c60b7bba7ed7dedb47119f0ad80f40cd1e85c554a35e97b68ae6251662b49c1",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 11480
+    },
+    {
+      "slug": "ph-scale",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2845025,
+      "sha256": "e5a7f24c7135ed3b6757bb7696b9eb25adc9801a5f129ba98ef019b176d1c719",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8604
+    },
+    {
+      "slug": "balancing-chemical-equations",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2700011,
+      "sha256": "051faaa07a93ce5bd72bccbe1000726e931359265317713e05e110a59d02e31d",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5878
+    },
+    {
+      "slug": "graphing-lines",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/graphing-lines/latest/graphing-lines_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2688921,
+      "sha256": "0d585e2c12cafa80e834f1719a4e5f9eeb75641782884cff3f666e111ae41fe2",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9489
+    },
+    {
+      "slug": "fraction-matcher",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/fraction-matcher/latest/fraction-matcher_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1673245,
+      "sha256": "60255dd820a6de47a9fb8352d59d272604cc50727afc0ac2a0481a7ea6f420ca",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6705
+    },
+    {
+      "slug": "balancing-act",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3151649,
+      "sha256": "679942708c1625653015523722daa958b6069845115fd064306d4f72f14db590",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6278
+    },
+    {
+      "slug": "acid-base-solutions",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2616005,
+      "sha256": "66e117f4406b8d3cca2907ca03e786a6d98d09378dac8a0126e1ee1ac863ecd9",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 9657
+    },
+    {
+      "slug": "under-pressure",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1234399,
+      "sha256": "a88135ccd6d373f879b51c64590bb898d04642b4ed416b6806dd6527b6254a82",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 7539
+    },
+    {
+      "slug": "friction",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/friction/latest/friction_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2081566,
+      "sha256": "28f8cb62fc4688ad03f8142324e0b5f053dfaca3028517dd955696929e4ccede",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10157
+    },
+    {
+      "slug": "forces-and-motion-basics",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 4850813,
+      "sha256": "54c74b5ba22e13e5896be20ea2d65b5fc64e4def42c5cf8079a1922602365d39",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 8848
+    },
+    {
+      "slug": "john-travoltage",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1919068,
+      "sha256": "c9062c88a29f0ed03b8c24c5afb305595930aa140545ed289f978a1de6cfd223",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 15585
+    },
+    {
+      "slug": "concentration",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/concentration/latest/concentration_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2620613,
+      "sha256": "0bb14543c1387f315988cdd7ff6d10118ea9ee2392f908815816adf9ece060b0",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6554
+    },
+    {
+      "slug": "gravity-force-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3121227,
+      "sha256": "a762301d0ba25a3318d73dc2d9e4e1a9b11a425f3615a5199b3e199349c54ae8",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 6854
+    },
+    {
+      "slug": "balloons-and-static-electricity",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 3539555,
+      "sha256": "4bae0b2cd211decd262d6fef781967bf7bc1cf987301b66a904d34e62faa0a24",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 15169
+    },
+    {
+      "slug": "beers-law-lab",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/beers-law-lab/latest/beers-law-lab_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2759293,
+      "sha256": "77dbe06c606e83af786ca09eff9e0a124d85ffcc5e71e96b6abb2531b75acbc8",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5867
+    },
+    {
+      "slug": "molarity",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/molarity/latest/molarity_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1901677,
+      "sha256": "47a642f93444bd5e0db420342f7adcd04fa0a8b8c3ec615bbb550de5564064af",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5893
+    },
+    {
+      "slug": "ohms-law",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 1588843,
+      "sha256": "e96f51e163db2189f94202739d0358144e1bc247bddf79704a1a776d4ef69249",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 4899
+    },
+    {
+      "slug": "resistance-in-a-wire",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2534767,
+      "sha256": "503ab88c155f60c81b690870a7a25e2684b3736c6c142ccd2a9d947c8fdbe65c",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 5419
+    },
+    {
+      "slug": "build-an-atom",
+      "locale": "vi",
+      "downloadUrl": "https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_vi.html?download",
+      "status": "downloaded",
+      "validation": {
+        "valid": true,
+        "tests": {
+          "substantial": true,
+          "htmlDocument": true,
+          "embeddedRuntime": true,
+          "simulationIdentity": true,
+          "declaredLocale": true,
+          "simulationMetadata": true,
+          "attributionNotice": true,
+          "embeddedScripts": true,
+          "completeDocument": true,
+          "notError": true
+        }
+      },
+      "bytes": 2997757,
+      "sha256": "6aaa38b4c40e1ed04bbf93a9319d4e68a393eac380ce5bbba55390e3c4e3f791",
+      "licenseNoticePresent": true,
+      "thumbnailStatus": "downloaded",
+      "thumbnailBytes": 10229
+    }
+  ],
+  "failures": [],
+  "classificationIdToKey": {
+    "4": "physics",
+    "5": "motion",
+    "6": "sound-and-waves",
+    "7": "work-energy-and-power",
+    "8": "heat-and-thermodynamics",
+    "9": "quantum-phenomena",
+    "10": "light-and-radiation",
+    "11": "electricity-magnets-and-circuits",
+    "12": "biology",
+    "13": "chemistry",
+    "14": "earth-and-space",
+    "15": "math-and-statistics",
+    "19": "general",
+    "20": "quantum",
+    "30": "mathconcepts",
+    "31": "mathapplications"
+  },
+  "classificationSource": "Official website-common SUBJECT_ID_TO_KEY and GradeLevel exports, verified from https://phet.colorado.edu/_m/1d739099de90a822efeb3d1f3b47c312e655adf1.js?meteor_js_resource=true",
+  "downloadStartedAt": "2026-10-08T07:00:30.388Z",
+  "downloadedCount": 122,
+  "thumbnailCount": 122,
+  "totalHtmlBytes": 366580505,
+  "completedAt": "2026-10-08T07:01:13.675Z",
+  "diskVerification": {
+    "verifiedAt": "2026-10-08T07:03:04.651Z",
+    "checkedCount": 122,
+    "validCount": 122,
+    "invalid": [],
+    "checks": [
+      "simulationIdentity",
+      "declaredLocale",
+      "simulationMetadata",
+      "embeddedRuntime",
+      "substantial",
+      "completeDocument",
+      "attributionNotice",
+      "PNG signature",
+      "SHA256 matches download"
+    ]
+  },
+  "runtimeSmokeTests": [
+    {
+      "slug": "membrane-transport",
+      "networkBlocked": true,
+      "state": {
+        "locale": "vi",
+        "project": "membrane-transport",
+        "constructionComplete": true,
+        "canvasCount": 0,
+        "svgCount": 4
+      },
+      "title": "‪Vận chuyển qua màng tế bào‬",
+      "passed": true,
+      "pageErrors": [],
+      "blockedRequests": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLNGBXD",
+        "https://phet.colorado.edu/yotta/immediate.gif?pingver=4&project=membrane-transport&brand=phet&license=NC&version=1.0.6&locale=vi&buildTimestamp=2026-09-17%2017%3A12%3A02%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fmembrane-transport%2Findex.html&type=html&timestamp=1791442985273&loadType=default&ref=",
+        "https://phet.colorado.edu/yotta/sanity.gif?pingver=4&project=membrane-transport&brand=phet&license=NC&version=1.0.6&locale=vi&buildTimestamp=2026-09-17%2017%3A12%3A02%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fmembrane-transport%2Findex.html&type=html&timestamp=1791442985273&loadType=default&ref=&gaError=false&gaLoaded=false",
+        "http://phet.colorado.edu/services/check-html-updates"
+      ]
+    },
+    {
+      "slug": "quantum-wave-interference",
+      "networkBlocked": true,
+      "state": {
+        "locale": "vi",
+        "project": "quantum-wave-interference",
+        "constructionComplete": true,
+        "canvasCount": 0,
+        "svgCount": 4
+      },
+      "title": "‪Giao thoa sóng lượng tử‬",
+      "passed": true,
+      "pageErrors": [],
+      "blockedRequests": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLNGBXD",
+        "https://phet.colorado.edu/yotta/immediate.gif?pingver=4&project=quantum-wave-interference&brand=phet&license=NC&version=1.0.0&locale=vi&buildTimestamp=2026-10-06%2017%3A29%3A40%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fquantum-wave-interference%2Findex.html&type=html&timestamp=1791442990437&loadType=default&ref=",
+        "https://phet.colorado.edu/yotta/sanity.gif?pingver=4&project=quantum-wave-interference&brand=phet&license=NC&version=1.0.0&locale=vi&buildTimestamp=2026-10-06%2017%3A29%3A40%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fquantum-wave-interference%2Findex.html&type=html&timestamp=1791442990437&loadType=default&ref=&gaError=false&gaLoaded=false",
+        "http://phet.colorado.edu/services/check-html-updates"
+      ]
+    },
+    {
+      "slug": "buoyancy-basics",
+      "networkBlocked": true,
+      "state": {
+        "locale": "vi",
+        "project": "buoyancy-basics",
+        "constructionComplete": true,
+        "canvasCount": 0,
+        "svgCount": 4
+      },
+      "title": "‪Sự nổi: phần cơ bản‬",
+      "passed": true,
+      "pageErrors": [],
+      "blockedRequests": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLNGBXD",
+        "https://phet.colorado.edu/yotta/immediate.gif?pingver=4&project=buoyancy-basics&brand=phet&license=NC&version=1.2.11&locale=vi&buildTimestamp=2026-09-16%2016%3A48%3A02%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fbuoyancy-basics%2Findex.html&type=html&timestamp=1791442994844&loadType=default&ref=",
+        "https://phet.colorado.edu/yotta/sanity.gif?pingver=4&project=buoyancy-basics&brand=phet&license=NC&version=1.2.11&locale=vi&buildTimestamp=2026-09-16%2016%3A48%3A02%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fbuoyancy-basics%2Findex.html&type=html&timestamp=1791442994844&loadType=default&ref=&gaError=false&gaLoaded=false",
+        "http://phet.colorado.edu/services/check-html-updates"
+      ]
+    },
+    {
+      "slug": "generator",
+      "networkBlocked": true,
+      "state": {
+        "locale": "vi",
+        "project": "generator",
+        "constructionComplete": true,
+        "canvasCount": 2,
+        "svgCount": 6
+      },
+      "title": "‪Máy phát điện‬",
+      "passed": true,
+      "pageErrors": [],
+      "blockedRequests": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLNGBXD",
+        "https://phet.colorado.edu/yotta/immediate.gif?pingver=4&project=generator&brand=phet&license=NC&version=1.0.7&locale=vi&buildTimestamp=2026-09-02%2016%3A50%3A14%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fgenerator%2Findex.html&type=html&timestamp=1791442998168&loadType=default&ref=",
+        "https://phet.colorado.edu/yotta/sanity.gif?pingver=4&project=generator&brand=phet&license=NC&version=1.0.7&locale=vi&buildTimestamp=2026-09-02%2016%3A50%3A14%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fgenerator%2Findex.html&type=html&timestamp=1791442998168&loadType=default&ref=&gaError=false&gaLoaded=false",
+        "http://phet.colorado.edu/services/check-html-updates"
+      ]
+    },
+    {
+      "slug": "number-pairs",
+      "networkBlocked": true,
+      "state": {
+        "locale": "vi",
+        "project": "number-pairs",
+        "constructionComplete": true,
+        "canvasCount": 0,
+        "svgCount": 4
+      },
+      "title": "‪Cặp số‬",
+      "passed": true,
+      "pageErrors": [],
+      "blockedRequests": [
+        "https://www.googletagmanager.com/gtm.js?id=GTM-WLNGBXD",
+        "https://phet.colorado.edu/yotta/immediate.gif?pingver=4&project=number-pairs&brand=phet&license=NC&version=2.0.4&locale=vi&buildTimestamp=2026-09-15%2000%3A54%3A35%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fnumber-pairs%2Findex.html&type=html&timestamp=1791442999870&loadType=default&ref=",
+        "https://phet.colorado.edu/yotta/sanity.gif?pingver=4&project=number-pairs&brand=phet&license=NC&version=2.0.4&locale=vi&buildTimestamp=2026-09-15%2000%3A54%3A35%20UTC&domain=&href=file%3A%2F%2F%2FF%3A%2FCodingFolder%2FAITC%2Faitc2026-team-467-vieroc-ai%2Fchung-khao%2Fmapstudy-stem%2Fpublic%2Fsimulators%2Fphet%2Fnumber-pairs%2Findex.html&type=html&timestamp=1791442999870&loadType=default&ref=&gaError=false&gaLoaded=false",
+        "http://phet.colorado.edu/services/check-html-updates"
+      ]
+    }
+  ],
+  "websiteIntegrationValidation": {
+    "checkedAt": "2026-10-08T07:03:48.551Z",
+    "baseUrl": "http://127.0.0.1:3000",
+    "checkedCount": 5,
+    "passedCount": 5,
+    "sandbox": "allow-scripts allow-pointer-lock",
+    "allowSameOriginRequired": false,
+    "results": [
+      {
+        "slug": "quantum-wave-interference",
+        "route": "/mo-phong/quantum-wave-interference",
+        "embedSrc": "/simulators/phet/quantum-wave-interference/index.html",
+        "passed": true,
+        "locale": "vi",
+        "hasSimulation": true,
+        "constructionComplete": true,
+        "svgCount": 4,
+        "pageErrors": []
+      },
+      {
+        "slug": "ph-scale",
+        "route": "/mo-phong/ph-scale",
+        "embedSrc": "/simulators/phet/ph-scale/index.html",
+        "passed": true,
+        "locale": "vi",
+        "hasSimulation": true,
+        "constructionComplete": true,
+        "svgCount": 4,
+        "pageErrors": []
+      },
+      {
+        "slug": "number-pairs",
+        "route": "/mo-phong/number-pairs",
+        "embedSrc": "/simulators/phet/number-pairs/index.html",
+        "passed": true,
+        "locale": "vi",
+        "hasSimulation": true,
+        "constructionComplete": true,
+        "svgCount": 4,
+        "pageErrors": []
+      },
+      {
+        "slug": "membrane-transport",
+        "route": "/mo-phong/membrane-transport",
+        "embedSrc": "/simulators/phet/membrane-transport/index.html",
+        "passed": true,
+        "locale": "vi",
+        "hasSimulation": true,
+        "constructionComplete": true,
+        "svgCount": 4,
+        "pageErrors": []
+      },
+      {
+        "slug": "keplers-laws",
+        "route": "/mo-phong/keplers-laws",
+        "embedSrc": "/simulators/phet/keplers-laws/index.html",
+        "passed": true,
+        "locale": "vi",
+        "hasSimulation": true,
+        "constructionComplete": true,
+        "svgCount": 4,
+        "pageErrors": []
+      }
+    ]
+  },
+  "subjectCounts": {
+    "Vật lí": 67,
+    "Hóa học": 35,
+    "Sinh học": 8,
+    "Toán học": 51,
+    "Khoa học Trái Đất": 19
+  }
+}

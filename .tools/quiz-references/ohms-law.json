@@ -1,0 +1,21 @@
+{
+  "slug": "ohms-law",
+  "title": "Định luật Ohm",
+  "englishTitle": "Ohm's Law",
+  "subjects": [
+    "Vật lí",
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/ohms-law",
+  "controls": {
+    "OHMS_LAW/resistance": "Điện trở",
+    "OHMS_LAW/resistanceSymbol": "R",
+    "OHMS_LAW/voltage": "Hiệu thế",
+    "OHMS_LAW/voltageSymbol": "V",
+    "OHMS_LAW/voltageUnits": "V",
+    "OHMS_LAW/currentSymbol": "I",
+    "OHMS_LAW/current": "Cường độ dòng điện",
+    "OHMS_LAW/currentUnits": "mA",
+    "OHMS_LAW/ohms-law.title": "Định luật Ohm"
+  }
+}

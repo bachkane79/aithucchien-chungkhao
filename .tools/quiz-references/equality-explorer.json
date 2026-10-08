@@ -1,0 +1,37 @@
+{
+  "slug": "equality-explorer",
+  "title": "Đẳng thức",
+  "englishTitle": "Equality Explorer",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/equality-explorer",
+  "controls": {
+    "EQUALITY_EXPLORER/chooseYourLevel": "Bạn hãy chọn mức độ",
+    "EQUALITY_EXPLORER/equality-explorer.title": "Đẳng thức",
+    "EQUALITY_EXPLORER/equationOrInequality": "Đẳng thức hay Bất đẳng thức",
+    "EQUALITY_EXPLORER/leftSideFull": "Oops!<br><br>Bên trái của cân đầy rồi.",
+    "EQUALITY_EXPLORER/level1Description": "<b>Level 1</b> One-step equations",
+    "EQUALITY_EXPLORER/level2Description": "<b>Level 2</b> One-step equations with negative coefficients",
+    "EQUALITY_EXPLORER/level3Description": "<b>Level 3</b> Two-step equations",
+    "EQUALITY_EXPLORER/level4Description": "<b>Level 4</b> Multi-step equations with fractions",
+    "EQUALITY_EXPLORER/level5Description": "<b>Level 5</b> Multi-step equations with variables on both sides",
+    "EQUALITY_EXPLORER/levels": "Mức",
+    "EQUALITY_EXPLORER/next": "Kế tiếp",
+    "EQUALITY_EXPLORER/numberTooBig": "Oops!<br><br>Điều đó sẽ làm cho số<br>lớn quá.<br><br>Hãy thử phép toán khác!",
+    "EQUALITY_EXPLORER/questionMark": "?",
+    "EQUALITY_EXPLORER/rightSideFull": "Oops!<br><br>Bên phải của cân đầy rồi.",
+    "EQUALITY_EXPLORER/screen.basics": "Phần cơ bản",
+    "EQUALITY_EXPLORER/screen.numbers": "Số",
+    "EQUALITY_EXPLORER/screen.operations": "Phép toán",
+    "EQUALITY_EXPLORER/screen.solveIt": "Hãy giải phương trình!",
+    "EQUALITY_EXPLORER/screen.variables": "Biến",
+    "EQUALITY_EXPLORER/snapshots": "Chụp ảnh màn hình",
+    "EQUALITY_EXPLORER/solveFor": "Giải đối với {{variable}}",
+    "EQUALITY_EXPLORER/variable": "Biến",
+    "EQUALITY_EXPLORER/variables": "Biến",
+    "EQUALITY_EXPLORER/x": "x",
+    "VEGAS/keepGoing": "Tiếp tục",
+    "VEGAS/newLevel": "Mức mới"
+  }
+}

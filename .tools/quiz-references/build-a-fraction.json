@@ -1,0 +1,24 @@
+{
+  "slug": "build-a-fraction",
+  "title": "Tạo ra một Phân số",
+  "englishTitle": "Build a Fraction",
+  "subjects": [
+    "Toán học"
+  ],
+  "sourcePage": "https://phet.colorado.edu/vi/simulations/build-a-fraction",
+  "controls": {
+    "VEGAS/done": "Done",
+    "VEGAS/youCompletedAllLevels": "Bạn đã hoàn thành mọi câu đố!",
+    "FRACTIONS_COMMON/levelTitlePattern": "Mức độ {{number}}",
+    "VEGAS/next": "Kế tiếp",
+    "VEGAS/pattern.0hours.1minutes.2seconds": "{0}:{1}:{2}",
+    "VEGAS/pattern.0minutes.1seconds": "{0}: {1}",
+    "VEGAS/pattern.score.number": "Điểm: {{score}}",
+    "VEGAS/score": "Điểm:",
+    "VEGAS/chooseYourLevel": "Chọn mức độ!",
+    "BUILD_A_FRACTION/screen.buildAFraction": "Tạo ra một Phân số",
+    "BUILD_A_FRACTION/screen.lab": "Lab",
+    "BUILD_A_FRACTION/screen.mixedNumbers": "Hỗn số",
+    "BUILD_A_FRACTION/build-a-fraction.title": "Tạo ra một Phân số"
+  }
+}
