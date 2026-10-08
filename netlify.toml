@@ -1,6 +1,6 @@
-# Trong Netlify UI, đặt Base directory = chung-khao để tìm tệp cấu hình này.
+# Trong Netlify UI, để trống Base directory (gốc repo).
 [build]
-  base = "chung-khao"
+  base = "."
   command = "npm run build"
   publish = "mapstudy-stem/.next"
 
